@@ -1,7 +1,5 @@
----
-layout: default
-title: 1970s and 1980s Solo Exhibitions
----
+.nojekyll
+
 
 [Home](index.md) · 
 [Solo exhibitions](solo-exhibitions.md) · 
