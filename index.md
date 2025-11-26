@@ -2,6 +2,7 @@
 
 ![POPaganda Archive banner](images/Banner2.jpg)
 <br/>
+
 [**Solo exhibitions by decade**](solo-exhibitions.md)  
 [**Group exhibitions by decade**](group-exhibitions.md)  
 [**Murals and street works**](murals-and-street-works.md)  
