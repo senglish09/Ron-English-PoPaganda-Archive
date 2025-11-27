@@ -65,6 +65,22 @@
 
 [Back to table ↑](#murals-table)
 
+### <a id="temper-tot-little-italy-2015"></a>2015 – Temper Tot, Little Italy (LoMan Arts Festival)
+
+<a href="images/Murals/Little-Italy-1.jpg">
+  <img src="images/Murals/Little-Italy-1.jpg" width="350">
+</a>
+
+<a href="images/Murals/Little-Italy-2.jpg">
+  <img src="images/Murals/Little-Italy-2.jpg" width="350">
+</a>
+
+<a href="images/Murals/Little-Italy-3.jpg">
+  <img src="images/Murals/Little-Italy-3.jpg" width="350">
+</a>
+
+[Back to table ↑](#murals-table)
+
 ### <a id="wynwood-2018"></a>2018 – Wynwood Walls (Basel Week)
 
 <a href="images/Murals/Wynwood-Walls-2018.jpg">
