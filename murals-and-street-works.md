@@ -56,6 +56,14 @@
 
 [Back to table ↑](#murals-table)
 
+### <a id="primary-flight-2008"></a>2008 – Primary Flight (Wynwood, Miami)
+
+<a href="images/Murals/Primary-Flight-Mural-1.jpg">
+  <img src="images/Murals/Primary-Flight-Mural-1.jpg" width="350">
+</a>
+
+[Back to table ↑](#murals-table)
+
 ### <a id="wynwood-2018"></a>2018 – Wynwood Walls (Basel Week)
 
 <a href="images/Murals/Wynwood-Walls-2018.jpg">
