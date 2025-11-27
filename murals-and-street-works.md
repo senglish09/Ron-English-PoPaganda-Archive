@@ -145,8 +145,8 @@
 
 ### <a id="rxsm-spiderhouse-2015"></a>2015 – RXSM Film Festival mural, Spider House Ballroom (Austin)
 
-<div align="center">
-  <img src="images/Murals/RSXM-Mural.jpg" alt="Ron English and RISK collaborative RXSM mural at Spider House Ballroom in Austin, 2015" width="600">
+<a href="images/Murals/RSXM-Mural.jpg">
+  <img src="images/Murals/RSXM-Mural.jpg" alt="Ron English and RISK collaborative RXSM mural at Spider House Ballroom in Austin, 2015" width="450">
 </div>
 
 [Back to table ↑](#murals-table)
