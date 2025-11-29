@@ -39,7 +39,7 @@
 | [![Grinnin’ McB Coney 2015 thumbnail](images/Murals/Coney-Island-Mural.jpg)](murals/coney-island-2015.html) | <a id="coney-island-2015-row"></a>2015 | Coney Art Walls, Coney Island, Brooklyn, New York, US | Grinnin’ McB (Coney Art Walls) |
 | [![Pink Temper Tot Little Italy 2015 thumbnail](images/Murals/Little-Italy-2.jpg)](murals/temper-tot-little-italy-2015.html) | <a id="temper-tot-little-italy-2015-row"></a>2015 | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (pink LoMan version) |
 | <a id="notacrime-2015-row"></a>2015 | September 2015 | New York, New York, US | #NotACrime — “Three Wise Monkeys” mural | English contributed to the global **#EducationIsNotACrime** human-rights campaign with a mural riffing on the “three wise monkeys” theme. Installed during the United Nations General Assembly, the work formed part of a coordinated citywide push highlighting education persecution in Iran. The project placed his POPaganda style within an activist framework, joining over 40 international artists who turned Harlem and Lower Manhattan into an open-air call for justice. | **[Images ↓](#notacrime-2015)** · **[Sources ↓](#notacrime-2015-sources)** |
-| <a id="trumpty-dumpty-2017-row"></a>2017 | March 2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty | Painted on a Bushwick wall during the early months of the Trump presidency, *Trumpty Dumpty* quickly became one of English’s most circulated political murals. The piece reimagines Humpty Dumpty as a caricatured Trump figure perched on a cracked wall—a satirical visual that drew global attention and appeared in street-art roundups from New York to Australia. Photo archives from March 2017 confirm its placement along Troutman Street, a corridor known for large-scale political murals. | **[Images ↓](#trumpty-dumpty-2017)** · **[Sources ↓](#trumpty-dumpty-2017-sources)** |
+| [![Trumpty Dumpty 2017 thumbnail](images/Murals/Trumpty-Dumpty.jpg)](murals/trumpty-dumpty-2017.html) | <a id="trumpty-dumpty-2017-row"></a>2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty |
 | <a id="mural-festival-2017-montreal-row"></a>2017 | June 8–18, 2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa | English headlined Montréal’s 2017 MURAL Festival with an outdoor wall featuring his “Sourire Mona Lisa,” a POPaganda remix blending classical portraiture with his signature surreal twists. Installed along the festival’s main corridor on Boulevard Saint-Laurent, the piece became one of the edition’s most photographed works and appeared across Canadian arts coverage and international street-art roundups. | **[Images ↓](#mural-festival-2017-montreal)** · **[Sources ↓](#mural-festival-2017-montreal-sources)** |
 | <a id="one-wall-2017-row"></a>2017 | September 13, 2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) | Created for Urban Nation’s inaugural ONE WALL program, this large-format mural was installed during the museum’s opening season as part of its permanent outdoor collection. English’s contribution stood out among the launch lineup, echoing the museum’s mission to treat Berlin’s façades as an open gallery and marking his role in a global roster assembled for the institution’s debut. | **[Images ↓](#one-wall-2017)** · **[Sources ↓](#one-wall-2017-sources)** |
 | <a id="manhattan-runners-2017-row"></a>2017 | October 2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners | Painted along the route of the TCS NYC Marathon, this mural turned a stretch of 1st Avenue into part art-installation, part public tribute: runners and passers-by could see English’s work as they passed the cheering wall. The piece gained visibility via the marathon’s official mural program, giving public-art fans a rare chance to engage with street art tied to an iconic urban event. | **[Images ↓](#manhattan-runners-2017)** · **[Sources ↓](#manhattan-runners-2017-sources)** |
@@ -65,15 +65,7 @@
   <img src="images/Murals/Monkeys-Mural.jpg" alt="Ron English – #NotACrime Mural, 2015" width="350">
 </a>
 
-[Back to entry ↑](#notacrime-2015-row)
 
-### <a id="trumpty-dumpty-2017"></a>2017 – *Trumpty Dumpty* (Bushwick, Brooklyn)
-
-<a href="images/Murals/Trumpty-Dumpty.jpg">
-  <img src="images/Murals/Trumpty-Dumpty.jpg" width="350">
-</a>
-
-[Back to entry ↑](#trumpty-dumpty-2017-row)
 
 ### <a id="mural-festival-2017-montreal"></a>2017 – *Sourire Mona Lisa* (MURAL Festival, Montréal)
 
