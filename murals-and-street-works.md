@@ -43,7 +43,7 @@
 | [![Sourire Mona Lisa thumbnail](images/Murals/Montreal-Mona-Mural.jpg)](murals/mural-festival-2017-montreal.html) | <a id="mural-festival-2017-montreal-row"></a>2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa |
 | [![ONE WALL thumbnail](images/Murals/One-Wall.jpg)](murals/one-wall-2017.html) | <a id="one-wall-2017-row"></a>2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) |
 | <a id="manhattan-runners-2017-row"></a>2017 | October 2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners | Painted along the route of the TCS NYC Marathon, this mural turned a stretch of 1st Avenue into part art-installation, part public tribute: runners and passers-by could see English’s work as they passed the cheering wall. The piece gained visibility via the marathon’s official mural program, giving public-art fans a rare chance to engage with street art tied to an iconic urban event. | **[Images ↓](#manhattan-runners-2017)** · **[Sources ↓](#manhattan-runners-2017-sources)** |
-| <a id="wynwood-2018-row"></a>2018 | December 2018 (Art Basel Miami Beach week) | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals | During Miami Art Week 2018, Wynwood Walls expanded its yearly Basel-week programming with live painting and a globally mixed roster. English added new POPaganda imagery to the complex, highlighted in coverage from SprayPlanet, World Red Eye, and Hypebeast, which noted how established muralists and emerging international artists converged to reshape the district’s visual momentum. | **[Images ↓](#wynwood-2018)** · **[Sources ↓](#wynwood-2018-sources)** |
+| [![Wynwood 2018 thumbnail](images/Murals/Wynwood-Walls-2018.jpg)](murals/wynwood-2018.html) | <a id="wynwood-2018-row"></a>2018 | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals |
 | <a id="k11-musea-2019-row"></a>2019– (permanent) | 2019 | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion / Smiley Grin | Installed as part of K11 MUSEA’s permanent art program, this large auditorium wall features English’s signature rabbit figures and pop-surreal textures arranged as a sweeping panorama inside the Opera Theatre. The work appears in the mall’s official art collection listings, which highlight Ron English alongside global contemporary artists commissioned during the Victoria Dockside redevelopment. | **[Images ↓](#k11-musea-2019)** · **[Sources ↓](#k11-musea-2019-sources)** |
 | <a id="elefanka-mousezilla-2019-row"></a>2019 | 2019 | Erie Street basketball court (266 Erie St), Jersey City, New Jersey, US | Elefanka and Mousezilla | Sixty-foot double-wall commission for the Jersey City Mural Arts Program, pairing a butterfly-winged orange “Elefanka” with a towering green “Mousezilla” overlooking a neighborhood schoolyard. Local guides and mural maps single out the piece as one of Jersey City’s signature POPaganda landmarks, noting how English – then a Jersey City resident – brought characters from his Delusionville universe to Erie and 16th Street as part of the city’s push to turn everyday corners into open-air galleries. | **[Images ↓](#elefanka-mousezilla-2019)** · **[Sources ↓](#elefanka-mousezilla-2019-sources)** |
 | <a id="elefanka-lyon-2019-row"></a>2019 | 2019 (approx.) | Lyon, France | Elefanka | One of the most recognizable additions to Lyon’s growing roster of XXL murals, *Elefanka* brings English’s hybrid-animal surrealism into the French street-art scene. The piece appears across multiple Lyon mural guides and walking circuits, where it’s highlighted as an unexpected POPaganda presence among the city’s large-format façades. Local documentation from 2019–2020 confirms the work as a standout destination for mural hunters exploring the neighborhood’s evolving urban-art landscape. | **[Images ↓](#elefanka-lyon-2019)** · **[Sources ↓](#elefanka-lyon-2019-sources)** |
@@ -67,13 +67,6 @@
 
 [Back to entry ↑](#manhattan-runners-2017-row)
 
-### <a id="wynwood-2018"></a>2018 – Wynwood Walls (Basel Week)
-
-<a href="images/Murals/Wynwood-Walls-2018.jpg">
-  <img src="images/Murals/Wynwood-Walls-2018.jpg" width="350">
-</a>
-
-[Back to entry ↑](#wynwood-2018-row)
 
 ### <a id="k11-musea-2019"></a>2019 – Ronnie Rabbits Delusion / Smiley Grin (K11 MUSEA, Hong Kong)
 
