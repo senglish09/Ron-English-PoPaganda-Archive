@@ -27,7 +27,7 @@
 | [![Medicine Agency 2009 thumbnail](images/Murals/Medicine-Agency-1.jpg)](murals/medicine-agency-2009.html) | <a id="medicine-agency-2009-row"></a>2009 | Medicine Agency, San Francisco, California, US | Medicine Agency “Guernica” mural |
 | [![Urban Bigfoot 2010 thumbnail](images/Murals/Bigfoot-Mural.jpg)](murals/urban-bigfoot-2010.html) | <a id="urban-bigfoot-la-row"></a>2010 | Los Angeles Arts District, Los Angeles, California, US | Urban Bigfoot (LA Freewalls) |
 | [![Primary Flight 2010 thumbnail](images/Murals/Primary-Flight-2010-1.jpeg)](murals/primary-flight-2010.html) | <a id="primary-flight-2010-row"></a>2010 | Wynwood (Primary Flight × Contra Projects), Miami, Florida, US | Contra Projects collaborative mural |
-| <a id="wynwood-babyhulk-2010-row"></a>2010 | November–December 2010 (Art Basel Miami week) | Wynwood Walls, Miami, Florida, US | Baby Hulk / Temper Tot (Wynwood Walls) | Installed during Wynwood Walls’ 2010 Art Basel expansion, this mural introduced one of English’s most recognized POPaganda figures: a hyper-muscled “Baby Hulk” glowing against a camouflage field, flanked by a camo deer and several Delusionville characters. Coverage from Wynwood Walls and early Miami Basel reporting emphasized how the piece helped define the emerging identity of the Walls during their formative years. | **[Images ↓](#wynwood-babyhulk-2010)** · **[Sources ↓](#wynwood-babyhulk-2010-sources)** |
+| [![Baby Hulk 2010 thumbnail](images/Murals/Primary-Flight-2010-2.jpg)](murals/wynwood-babyhulk-2010.html) | <a id="wynwood-babyhulk-2010-row"></a>2010 | Wynwood Walls, Miami, Florida, US | Baby Hulk / Temper Tot (Wynwood Walls) |
 | <a id="lpg-2012-row"></a>2012 | June 2012 | London Pleasure Gardens (Royal Victoria Docks), London, UK | London Pleasure Gardens murals & installations | Commissioned for the launch of the London Pleasure Gardens cultural site, English contributed multiple large-scale works across the 20-acre park. His pieces included a repurposed jumbo-jet nose cone transformed into a surreal Popaganda creature and a series of hoarding-length character panels with speech-bubble reflections that blended satire and mythology. These installations appeared alongside major works by Shepard Fairey, TrustoCorp, RISK, and others, forming one of London’s most ambitious street-art activations of the Olympic year. | **[Images ↓](#lpg-2012)** · **[Sources ↓](#lpg-2012-sources)** |
 | <a id="nuart-2012-row"></a>2012 | September 2012 | Stavanger (Atlantic Hotel façade), Norway | Nuart Festival mural | As one of the headlining artists of Nuart 2012, English transformed the side of the Atlantic Hotel into a towering tableau of his grinning rabbit figures. The work became one of the most photographed murals of that year’s festival, anchoring Stavanger’s reputation as Europe’s outdoor street-art capital. Coverage in Norwegian press and international street-art media highlights how the mural’s scale and placement turned it into a defining image of the 2012 edition. | **[Images ↓](#nuart-2012)** · **[Sources ↓](#nuart-2012-sources)** |
 | <a id="temper-tot-little-italy-2012-row"></a>2012 | November 2012 (New York Comedy Festival) | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (green version) | Installed during Vandalog’s *Art of Comedy* program, the original green Temper Tot marked one of the earliest POPaganda anchors in the L.I.S.A. Project’s effort to revive Little Italy through curated murals. The piece stood out immediately—an oversized, brooding baby Hulk towering above Mulberry Street—setting the stage for later expansions of the block into a formal street-art corridor. | **[Images ↓](#temper-tot-little-italy-2012)** · **[Sources ↓](#temper-tot-little-italy-2012-sources)** |
@@ -69,13 +69,6 @@
 
 [Back to entry ↑](#wynwood-babyhulk-2010-row)
 
-### <a id="primary-flight-2010"></a>2010 – Contra Projects × Primary Flight (Wynwood, Miami)
-
-<a href="images/Murals/Primary-Flight-2010-1.jpeg">
-  <img src="images/Murals/Primary-Flight-2010-1.jpeg" width="350">
-</a>
-
-[Back to entry ↑](#primary-flight-2010-row)
 
 
 ### <a id="nuart-2012"></a>2012 – Nuart Festival Mural (Stavanger, Norway)
