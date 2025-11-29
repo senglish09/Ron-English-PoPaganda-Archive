@@ -30,11 +30,11 @@ Ron English’s takeover of the landmark **Bowery/Houston Wall**—one of the mo
 ![American Depopulation – Bowery Wall 2015](../images/Murals/Bowrey-Mural.jpg)
 
 ---
-
 ## Sources
 
-- https://streetartnews.net/2015/05/new-york-ron-english-bowery-wall-houston.html  
-- https://www.brooklynstreetart.com/2015/04/18/ron-english-paints-bowery-wall/  
-- https://www.huffpost.com/entry/ron-english-bowery-wall_n_7100866  
-- https://laughingsquid.com/ron-english-bowery-wall-mural/  
-- https://gothamist.com/arts-entertainment/photos-ron-englishs-new-popaganda-mural-on-the-bowery  
+- [StreetArtNews – Ron English at the Bowery Wall](https://streetartnews.net/2015/05/new-york-ron-english-bowery-wall-houston.html)
+- [Brooklyn Street Art – Ron English paints the Bowery Wall](https://www.brooklynstreetart.com/2015/04/18/ron-english-paints-bowery-wall/)
+- [HuffPost – Ron English’s Bowery Wall mural](https://www.huffpost.com/entry/ron-english-bowery-wall_n_7100866)
+- [Laughing Squid – Ron English Bowery Wall mural](https://laughingsquid.com/ron-english-bowery-wall-mural/)
+- [Gothamist – Ron English’s POPaganda mural on the Bowery](https://gothamist.com/arts-entertainment/photos-ron-englishs-new-popaganda-mural-on-the-bowery)
+
