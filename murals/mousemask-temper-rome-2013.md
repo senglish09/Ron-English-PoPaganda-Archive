@@ -33,9 +33,10 @@ Painted for Rome’s open-air museum **M.U.Ro (Museo di Urban Art di Roma)**, th
 
 ## Sources
 
-- https://www.romesite.com/english/Quadraro-Urban-Art.html  
-- https://streetartnews.net/2013/10/ron-english-new-mural-in-rome-italy.html  
-- https://www.brooklynstreetart.com/tag/ron-english/  
-- https://www.romatoday.it/eventi/cultura/muro-a-roma-sky-arte.html  
-- https://www.ilfattoquotidiano.it/2013/10/30/ron-english-a-roma-lartista-americano-porta-temper-tot-e-mousemask-murphy-nel-quadraro/763708/  
-- https://www.ilpost.it/2013/10/30/ron-english-quadraro-roma/  
+- [RomeSite – Quadraro Urban Art](https://www.romesite.com/english/Quadraro-Urban-Art.html)
+- [StreetArtNews – Ron English mural in Rome](https://streetartnews.net/2013/10/ron-english-new-mural-in-rome-italy.html)
+- [Brooklyn Street Art – Ron English tag archive](https://www.brooklynstreetart.com/tag/ron-english/)
+- [Roma Today – Muro a Roma / Sky Arte](https://www.romatoday.it/eventi/cultura/muro-a-roma-sky-arte.html)
+- [Il Fatto Quotidiano – Ron English a Roma](https://www.ilfattoquotidiano.it/2013/10/30/ron-english-a-roma-lartista-americano-porta-temper-tot-e-mousemask-murphy-nel-quadraro/763708/)
+- [Il Post – Ron English al Quadraro, Roma](https://www.ilpost.it/2013/10/30/ron-english-quadraro-roma/)
+
