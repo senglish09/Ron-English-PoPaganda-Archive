@@ -21,7 +21,7 @@
 **Year:** 2014  
 **Location:** Miami Marine Stadium, Miami, Florida, US  
 
-Created for the **Art | History Mural Project**, Ron English’s murals were produced directly on the aging concrete structure of the abandoned Miami Marine Stadium. English joined a roster of major street artists—including Crash, Tristan Eaton, Logan Hicks, The London Police, Reinier Gamboa, and Jose Mertz—transforming both the stadium interior and exterior into a large-scale collaborative installation.
+Created for the **Art & History Mural Project**, Ron English’s murals were produced directly on the aging concrete structure of the abandoned Miami Marine Stadium. English joined a roster of major street artists—including Crash, Tristan Eaton, Logan Hicks, The London Police, Reinier Gamboa, and Jose Mertz—transforming both the stadium interior and exterior into a large-scale collaborative installation.
 
 The initiative aimed to raise awareness for the historic stadium’s preservation. Photographs of the murals were later issued as limited-edition prints to support restoration efforts, with related exhibitions shown during Miami Art Week.
 
