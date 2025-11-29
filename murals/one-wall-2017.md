@@ -34,6 +34,7 @@ English’s contribution stood out among the launch lineup, echoing the museum�
 
 ## Sources
 
-- https://urban-nation.com/2017/09/one-wall-von-ron-english/  
-- https://urban-nation.com/artist/ron-english/  
-- https://www.brooklynstreetart.com/2017/09/page/2/  
+- [Urban Nation – ONE WALL by Ron English](https://urban-nation.com/2017/09/one-wall-von-ron-english/)
+- [Urban Nation – Ron English artist page](https://urban-nation.com/artist/ron-english/)
+- [Brooklyn Street Art – September 2017 archive](https://www.brooklynstreetart.com/2017/09/page/2/)
+
