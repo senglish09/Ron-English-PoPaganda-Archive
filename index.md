@@ -1,4 +1,7 @@
-<div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
+<div style="background-color: #f4edff; min-height: 100vh; padding: 20px 0;">
+
+  <div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
+
 
   <!-- Banner -->
   <img src="images/Banner2.jpg"
@@ -60,6 +63,7 @@
     </a>
 
   </div>
+</div>
 </div>
 
 
