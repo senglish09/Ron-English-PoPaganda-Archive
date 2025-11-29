@@ -27,7 +27,7 @@ Documentation from March 2017 shows the mural’s placement along **Troutman Str
 
 ---
 
-## Main Image
+## Images
 
 ![Trumpty Dumpty mural – Bushwick, 2017](../images/Murals/Trumpty-Dumpty.jpg)
 
