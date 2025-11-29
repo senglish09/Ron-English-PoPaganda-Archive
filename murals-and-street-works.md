@@ -38,7 +38,7 @@
 | [![Bowery Wall 2015 thumbnail](images/Murals/Bowrey-Mural.jpg)](murals/bowery-wall-2015.html) | <a id="bowery-wall-2015-row"></a>2015 | Houston & Bowery Wall, New York, NY, US | American Depopulation (Bowery Wall) |
 | [![Grinnin’ McB Coney 2015 thumbnail](images/Murals/Coney-Island-Mural.jpg)](murals/coney-island-2015.html) | <a id="coney-island-2015-row"></a>2015 | Coney Art Walls, Coney Island, Brooklyn, New York, US | Grinnin’ McB (Coney Art Walls) |
 | [![Pink Temper Tot Little Italy 2015 thumbnail](images/Murals/Little-Italy-2.jpg)](murals/temper-tot-little-italy-2015.html) | <a id="temper-tot-little-italy-2015-row"></a>2015 | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (pink LoMan version) |
-| <a id="notacrime-2015-row"></a>2015 | September 2015 | New York, New York, US | #NotACrime — “Three Wise Monkeys” mural | English contributed to the global **#EducationIsNotACrime** human-rights campaign with a mural riffing on the “three wise monkeys” theme. Installed during the United Nations General Assembly, the work formed part of a coordinated citywide push highlighting education persecution in Iran. The project placed his POPaganda style within an activist framework, joining over 40 international artists who turned Harlem and Lower Manhattan into an open-air call for justice. | **[Images ↓](#notacrime-2015)** · **[Sources ↓](#notacrime-2015-sources)** |
+| [![#NotACrime 2015 thumbnail](images/Murals/Monkeys-Mural.jpg)](murals/notacrime-2015.html) | <a id="notacrime-2015-row"></a>2015 | New York, New York, US | #NotACrime — “Three Wise Monkeys” mural |
 | [![Trumpty Dumpty 2017 thumbnail](images/Murals/Trumpty-Dumpty.jpg)](murals/trumpty-dumpty-2017.html) | <a id="trumpty-dumpty-2017-row"></a>2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty |
 | <a id="mural-festival-2017-montreal-row"></a>2017 | June 8–18, 2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa | English headlined Montréal’s 2017 MURAL Festival with an outdoor wall featuring his “Sourire Mona Lisa,” a POPaganda remix blending classical portraiture with his signature surreal twists. Installed along the festival’s main corridor on Boulevard Saint-Laurent, the piece became one of the edition’s most photographed works and appeared across Canadian arts coverage and international street-art roundups. | **[Images ↓](#mural-festival-2017-montreal)** · **[Sources ↓](#mural-festival-2017-montreal-sources)** |
 | <a id="one-wall-2017-row"></a>2017 | September 13, 2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) | Created for Urban Nation’s inaugural ONE WALL program, this large-format mural was installed during the museum’s opening season as part of its permanent outdoor collection. English’s contribution stood out among the launch lineup, echoing the museum’s mission to treat Berlin’s façades as an open gallery and marking his role in a global roster assembled for the institution’s debut. | **[Images ↓](#one-wall-2017)** · **[Sources ↓](#one-wall-2017-sources)** |
@@ -57,13 +57,6 @@
 
 ---
 ## Image gallery
-
-
-### <a id="notacrime-2015"></a>2015 – #NotACrime Mural (“Three Wise Monkeys”)
-
-<a href="images/Murals/Monkeys-Mural.jpg">
-  <img src="images/Murals/Monkeys-Mural.jpg" alt="Ron English – #NotACrime Mural, 2015" width="350">
-</a>
 
 
 
