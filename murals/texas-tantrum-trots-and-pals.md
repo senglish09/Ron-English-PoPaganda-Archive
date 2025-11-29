@@ -26,10 +26,10 @@ Blending POPaganda characters with Texas-themed surrealism, the work immediately
 
 ---
 
-## Main Image
+## Images
 
 ![Ron English – Texas Tantrum Trots and Pals mural, Dallas](../images/Murals/Texas-Tantrum-Deep-Ellum.jpg)
-
+![Ron English – Texas Tantrum Trots and Pals mural, Dallas](../images/Murals/Ellum.jpg)
 ---
 
 ## Sources
