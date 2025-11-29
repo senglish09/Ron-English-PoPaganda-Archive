@@ -19,6 +19,13 @@
 
 # Murals and Street Works
 **Click on each image to see more information.**
+<style>
+  .mural-thumb {
+    max-width: 120px;   /* adjust size here */
+    height: auto;
+    display: block;
+  }
+</style>
 
 | Image | Year | Location | Mural title |
 | --- | --- | --- | --- |
