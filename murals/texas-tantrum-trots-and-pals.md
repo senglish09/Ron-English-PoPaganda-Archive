@@ -34,8 +34,9 @@ Blending POPaganda characters with Texas-themed surrealism, the work immediately
 
 ## Sources
 
-*(Add URL list here — I can find real, verifiable ones for you.)*
+- https://www.reddit.com/r/ATBGE/comments/12ol6oi/this_mural_to_keep_the_arts_district_weird/  
+- https://www.dreamstime.com/mural-titled-texas-tantrum-trots-pals-ron-english-deep-ellum-east-dallas-texas-pictured-mural-titled-texas-image262664464  
+- https://www.dmagazine.com/arts-entertainment/2022/11/legendary-graffiti-artist-ron-english-comes-home-to-deep-ellum-with-a-new-mural/  
+- https://streetartcities.com/markers/4f8a47dd-06de-47c4-9fb2-e40d9149f5fa  
+- https://dallas.culturemap.com/news/arts/deep-ellum-mural-ron-english/  
 
-- Deep Ellum mural program  
-- Local press (D Magazine, 2022)  
-- StreetArtCities documentation  
