@@ -49,23 +49,11 @@
 | [![Elefanka (Lyon) thumbnail](images/Murals/Elefanka-1.jpg)](murals/elefanka-lyon-2019.html) | <a id="elefanka-lyon-2019-row"></a>2019 | Lyon, France | Elefanka |
 | [![Jersey City Mural Festival rooftop thumbnail](images/Murals/Jersey-Rooftop-Mural.jpg)](murals/jersey-city-mural-festival-2021.html) | <a id="jersey-city-mural-festival-2021-row"></a>2021 | Coles Street rooftop (Jersey City Mural Festival), Jersey City, New Jersey, US | Jersey City Mural Festival rooftop mural |
 | [![Plessy School mural thumbnail](images/Murals/New-Orleans-Mural.jpg)](murals/plessy-school-new-orleans-2022.html) | <a id="plessy-school-new-orleans-2022-row"></a>2022 | New Orleans, Louisiana, US | Plessy School Mural – “New Orleans” |
-| <a id="texas-tantrum-trots-and-pals-row"></a>2022 | November 2022 | Deep Ellum, Dallas, Texas, US | Texas Tantrum Trots and Pals | Installed in the heart of Deep Ellum’s arts district, *Texas Tantrum Trots and Pals* marked English’s return to Texas with one of the neighborhood’s most flamboyant recent murals. The piece blends POPaganda characters with Texas-themed surrealism, adding to Deep Ellum’s tradition of loud, maximalist walls. Coverage from D Magazine and StreetArtCities highlights how the mural immediately became a landmark within the district’s revitalized public-art scene. | **[Images ↓](#texas-tantrum-trots-and-pals)** · **[Sources ↓](#texas-tantrum-trots-and-pals-sources)** |
+| [![Texas Tantrum Trots and Pals thumbnail](images/Murals/Texas-Tantrum-Deep-Ellum.jpg)](murals/texas-tantrum-trots-and-pals.html) | <a id="texas-tantrum-trots-and-pals-row"></a>2022 | Deep Ellum, Dallas, Texas, US | Texas Tantrum Trots and Pals |
 
 
 
 
----
-## Image gallery
-
-
-
-### <a id="texas-tantrum-trots-and-pals"></a>2022 – *Texas Tantrum Trots and Pals* (Deep Ellum, Dallas)
-
-<a href="images/Murals/Texas-Tantrum-Deep-Ellum.jpg">
-  <img src="images/Murals/Texas-Tantrum-Deep-Ellum.jpg" width="350">
-</a>
-
-[Back to entry ↑](#texas-tantrum-trots-and-pals-row)
 
 
 
