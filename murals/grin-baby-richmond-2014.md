@@ -33,8 +33,9 @@ For the 2014 **Richmond Mural Project**, Ron English transformed a massive faça
 
 ## Sources
 
-- https://street-art-avenue.com/2014/06/ron-english-richmond-mural-project-usa-8125  
-- https://www.rvatourism.com/richmond-mural-project-map/  
-- https://rvamag.com/art/street-art/rva-street-art-ron-english-grin-baby.html  
-- https://www.brooklynstreetart.com/tag/richmond-mural-project/  
-- https://www.instagram.com/explore/tags/richmondmuralproject/  
+- [Street Art Avenue – Ron English at Richmond Mural Project](https://street-art-avenue.com/2014/06/ron-english-richmond-mural-project-usa-8125)
+- [RVA Tourism – Richmond Mural Project map](https://www.rvatourism.com/richmond-mural-project-map/)
+- [RVA Magazine – Ron English “Grin Baby”](https://rvamag.com/art/street-art/rva-street-art-ron-english-grin-baby.html)
+- [Brooklyn Street Art – Richmond Mural Project coverage](https://www.brooklynstreetart.com/tag/richmond-mural-project/)
+- [Instagram – #RichmondMuralProject](https://www.instagram.com/explore/tags/richmondmuralproject/)
+
