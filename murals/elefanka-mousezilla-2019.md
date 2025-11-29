@@ -26,10 +26,11 @@ Painted overlooking a neighborhood schoolyard, the mural became one of Jersey Ci
 
 ---
 
-## Main Image
+## Images
 
 ![Ron English – Elefanka & Mousezilla mural, Jersey City](../images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)
-
+![Ron English – Elefanka & Mousezilla mural, Jersey City](../images/Murals/Erie1.jpg)
+![Ron English – Elefanka & Mousezilla mural, Jersey City](../images/Murals/Erie2.jpg)
 ---
 ## Sources
 
