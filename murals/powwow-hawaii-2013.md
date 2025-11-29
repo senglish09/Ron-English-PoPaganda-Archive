@@ -54,7 +54,7 @@
 **Artist:** Ron English  
 
 ![Ron English – POW WOW Hawaii 2013 mural, Honolulu](../images/Murals/Hawaii-Mural.jpg)
-
+![Ron English – POW WOW Hawaii 2013 mural, Honolulu](../images/Murals/PowWow2.jpg)
 ## Description
 
 For the 2013 edition of **POW! WOW! Hawaii**, Ron English painted a large-scale ocean-themed mural featuring sharks, whales, dolphins and an octopus gathered around a poker table. The playful underwater tableau became one of the most iconic murals of that year's festival and appears widely across street-art photo archives and POW! WOW! retrospectives.
