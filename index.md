@@ -1,4 +1,4 @@
-<!-- FULL WHITE BACKGROUND (fix for yellow tint) -->
+<!-- GLOBAL STYLES: keep page white -->
 <style>
   body {
     background-color: #ffffff !important;
@@ -6,13 +6,13 @@
     padding: 0;
   }
 
+  /* Soft cursor-follow swirl in the far background */
   #cursor-swirl {
     position: fixed;
     inset: 0;
-    z-index: -3;
+    z-index: -3;          /* behind everything */
     pointer-events: none;
 
-    /* softer swirl so it doesn't tint the top */
     background: radial-gradient(
       circle at center,
       #ffd6ff 0%,
@@ -21,23 +21,25 @@
       transparent 60%
     );
 
-    opacity: 0.25;   /* softer so page stays white */
+    opacity: 0.25;
     transition: background-position 0.12s ease-out;
   }
 
-  /* MUCH LARGER glow particles */
+  /* BIG RGB glow dots for the trail – BUT behind the white panel */
   .glow-dot {
     position: fixed;
-    width: 60px;   /* increased from 36px */
+    width: 60px;
     height: 60px;
     border-radius: 50%;
     pointer-events: none;
-    z-index: 999;
+
+    /* key change: sit UNDER the main content */
+    z-index: 0;
 
     opacity: 0.75;
     transform: translate(-50%, -50%);
     animation: fadeOut 1.2s linear forwards;
-    filter: blur(8px);  /* softer & bigger glow */
+    filter: blur(8px);
   }
 
   @keyframes fadeOut {
@@ -51,7 +53,7 @@
     }
   }
 
-  /* Card styling */
+  /* Link card styles */
   .pop-card {
     padding: 16px 12px;
     background: #e5e0ff;
@@ -109,7 +111,7 @@
 </script>
 
 
-<!-- MAIN CONTENT WRAPPER -->
+<!-- MAIN CONTENT WRAPPER (sits ABOVE glow + swirl) -->
 <div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0; position: relative; z-index: 1;">
 
   <div style="max-width: 1100px; margin: 0 auto; text-align: center;">
