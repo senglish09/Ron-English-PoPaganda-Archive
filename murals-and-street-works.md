@@ -47,8 +47,7 @@
 | [![K11 MUSEA thumbnail](images/Murals/K11-Mural.jpg)](murals/k11-musea-2019.html) | <a id="k11-musea-2019-row"></a>2019– (permanent) | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion |
 | [![Elefanka & Mousezilla thumbnail](images/Murals/Jersey-City-Mural-Arts-Program-1.jpg)](murals/elefanka-mousezilla-2019.html) | <a id="elefanka-mousezilla-2019-row"></a>2019 | Erie Street basketball court (266 Erie St), Jersey City, New Jersey, US | Elefanka and Mousezilla |
 | [![Elefanka (Lyon) thumbnail](images/Murals/Elefanka-1.jpg)](murals/elefanka-lyon-2019.html) | <a id="elefanka-lyon-2019-row"></a>2019 | Lyon, France | Elefanka |
-| <a id="miami-mural-festival-2021-row"></a>2021 | November 29 – December 5, 2021 | Mana Common / multiple sites (Flagler District & Wynwood), Miami, Florida, US | Miami Mural Festival (Miami Art Week) | Weeklong mural program produced by Mana Public Arts during Miami Art Week, activating more than 500,000 square feet of walls across Downtown Miami’s Flagler District and Wynwood. Pre-festival announcements and post-event coverage listed English among the featured muralists—alongside AVAF, Case Maclaim, Elle, Queen Andrea, Magnus Sodamin, FINOK and others—positioning the festival as a major street-art counterpart to Miami’s fair circuit. English’s participation is documented, though the specific wall location and title remain unverified in public festival records. | **[Sources ↓](#miami-mural-festival-2021-sources)** |
-| <a id="jersey-city-mural-festival-2021-row"></a>2021 | June 5–6, 2021 (Jersey City Mural Festival) | Coles Street rooftop (festival zone), Jersey City, New Jersey, US | Jersey City Mural Festival rooftop mural | Created live for the inaugural Jersey City Mural Festival, this warehouse rooftop became a POPaganda stage where English covered the facade with Delusionville characters and torrents of poured paint. Festival coverage likened the weekend to a “Woodstock for artists” and pointed out that the new rooftop piece extended the legacy of his long-standing ties to Jersey City’s mural scene. | **[Images ↓](#jersey-city-mural-festival-2021)** · **[Sources ↓](#jersey-city-mural-festival-2021-sources)** |
+| [![Jersey City Mural Festival rooftop thumbnail](images/Murals/Jersey-Rooftop-Mural.jpg)](murals/jersey-city-mural-festival-2021.html) | <a id="jersey-city-mural-festival-2021-row"></a>2021 | Coles Street rooftop (Jersey City Mural Festival), Jersey City, New Jersey, US | Jersey City Mural Festival rooftop mural |
 | <a id="plessy-school-new-orleans-2022-row"></a>2022 | May 27, 2022 (mural painted for Plessy School project) | New Orleans, Louisiana, US | Plessy School Mural – “New Orleans” | English refreshed the exterior of the historic Plessy School under a community-engagement mural project, collaborating with local students to realize a large-scale public work. The piece speaks to the artist’s ongoing interest in merging POPaganda aesthetics with community outreach, blending provocative imagery with social engagement in a neighborhood context. | **[Images ↓](#plessy-school-new-orleans-2022)** · **[Sources ↓](#plessy-school-new-orleans-2022-sources)** |
 | <a id="texas-tantrum-trots-and-pals-row"></a>2022 | November 2022 | Deep Ellum, Dallas, Texas, US | Texas Tantrum Trots and Pals | Installed in the heart of Deep Ellum’s arts district, *Texas Tantrum Trots and Pals* marked English’s return to Texas with one of the neighborhood’s most flamboyant recent murals. The piece blends POPaganda characters with Texas-themed surrealism, adding to Deep Ellum’s tradition of loud, maximalist walls. Coverage from D Magazine and StreetArtCities highlights how the mural immediately became a landmark within the district’s revitalized public-art scene. | **[Images ↓](#texas-tantrum-trots-and-pals)** · **[Sources ↓](#texas-tantrum-trots-and-pals-sources)** |
 
@@ -58,17 +57,7 @@
 ---
 ## Image gallery
 
-### <a id="jersey-city-mural-festival-2021"></a>2021 – Jersey City Mural Festival rooftop mural (Jersey City, New Jersey)
 
-<a href="images/Murals/Jersey-Rooftop-Mural.jpg">
-  <img src="images/Murals/Jersey-Rooftop-Mural.jpg" width="350">
-</a>
-
-<a href="images/Murals/Jersey-Rooftop-Mural-2.jpg">
-  <img src="images/Murals/Jersey-Rooftop-Mural-2.jpg" width="350">
-</a>
-
-[Back to entry ↑](#jersey-city-mural-festival-2021-row)
 
 ### <a id="texas-tantrum-trots-and-pals"></a>2022 – *Texas Tantrum Trots and Pals* (Deep Ellum, Dallas)
 
