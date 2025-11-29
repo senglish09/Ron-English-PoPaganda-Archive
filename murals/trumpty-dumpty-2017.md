@@ -15,7 +15,7 @@
 
 [⬅ Back to murals index](../murals-and-street-works.html#trumpty-dumpty-2017-row)
 
-# 2017 – *Trumpty Dumpty*  
+# 2016 – *Trumpty Dumpty*  
 **Bushwick, Brooklyn — Troutman Street**
 
 **Year:** 2016  
