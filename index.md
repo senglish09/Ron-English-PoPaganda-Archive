@@ -12,7 +12,6 @@
     inset: 0;
     z-index: -3;
     pointer-events: none;
-
     background: radial-gradient(
       circle at center,
       #ffd6ff 0%,
@@ -20,34 +19,32 @@
       #fff1b8 25%,
       transparent 60%
     );
-
-    opacity: 0.25;   /* soft so page still reads as white */
+    opacity: 0.25;
     transition: background-position 0.12s ease-out;
   }
 
-  /* Medium RGB glow dots (trail) — ABOVE everything */
+  /* Spray-paint dots (trail + bursts) — ABOVE everything */
   .glow-dot {
     position: fixed;
-    width: 36px;           /* back to medium size */
-    height: 36px;
+    width: 26px;      /* base spray size */
+    height: 26px;
     border-radius: 50%;
     pointer-events: none;
-    z-index: 999;          /* sits over banner + buttons */
-
-    opacity: 0.8;
+    z-index: 999;     /* sits over banner + buttons */
+    opacity: 0.85;
     transform: translate(-50%, -50%);
-    animation: fadeOut 1s linear forwards;
-    filter: blur(4px);
+    animation: fadeOut 1.1s linear forwards;
+    filter: blur(6px); /* softer, spray-like edge */
   }
 
   @keyframes fadeOut {
     0% {
-      opacity: 0.8;
+      opacity: 0.9;
       transform: translate(-50%, -50%) scale(1);
     }
     100% {
       opacity: 0;
-      transform: translate(-50%, -50%) scale(0.3);
+      transform: translate(-50%, -50%) scale(0.25);
     }
   }
 
@@ -82,51 +79,66 @@
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
-  // Move swirl + trail with cursor
+  // Move swirl + spray trail with cursor
   document.addEventListener("mousemove", (e) => {
-    const x = (e.clientX / window.innerWidth) * 100;
-    const y = (e.clientY / window.innerHeight) * 100;
-    swirl.style.backgroundPosition = `${x}% ${y}%`;
+    const xPercent = (e.clientX / window.innerWidth) * 100;
+    const yPercent = (e.clientY / window.innerHeight) * 100;
+    swirl.style.backgroundPosition = `${xPercent}% ${yPercent}%`;
 
-    createGlow(e.clientX, e.clientY);
+    createSpray(e.clientX, e.clientY);
   });
 
-  // Extra color bursts on click
+  // Extra bright color burst on click
   document.addEventListener("click", (e) => {
     createBurst(e.clientX, e.clientY);
   });
 
   let hue = 0;
 
-  // Single glow dot
-  function createGlow(x, y, sizeMultiplier = 1) {
+  // Core function: one spray dot
+  function createGlow(x, y, sizeMultiplier = 1, brightness = 75) {
     const dot = document.createElement("div");
     dot.className = "glow-dot";
+
+    // randomize size a little for spray texture
+    const base = 26;
+    const jitter = Math.random() * 10 - 5; // -5 to +5
+    const size = (base + jitter) * sizeMultiplier;
+    dot.style.width = size + "px";
+    dot.style.height = size + "px";
 
     dot.style.left = x + "px";
     dot.style.top = y + "px";
 
-    // optional size tweak for bursts
-    if (sizeMultiplier !== 1) {
-      const base = 36;
-      const size = base * sizeMultiplier;
-      dot.style.width = size + "px";
-      dot.style.height = size + "px";
-    }
+    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, ${brightness}%), transparent 70%)`;
 
-    dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
-
-    hue = (hue + 15) % 360;
+    hue = (hue + 18) % 360; // faster color cycling for Ron energy
 
     document.body.appendChild(dot);
-    setTimeout(() => dot.remove(), 1000);
+    setTimeout(() => dot.remove(), 1100);
   }
 
-  // Click burst: several dots around click point
+  // Spray-paint trail: small cluster around cursor
+  function createSpray(x, y) {
+    const particles = 4;            // dots per step
+    const maxDist = 28;             // radius of spray cloud
+
+    for (let i = 0; i < particles; i++) {
+      const angle = Math.random() * Math.PI * 2;
+      const dist = Math.random() * maxDist;
+      const offsetX = Math.cos(angle) * dist;
+      const offsetY = Math.sin(angle) * dist;
+
+      // slightly dimmer than bursts so bursts stand out
+      createGlow(x + offsetX, y + offsetY, 1, 70);
+    }
+  }
+
+  // Click burst: brighter, larger spray explosion
   function createBurst(x, y) {
-    const particles = 8; // number of dots in burst
-    const minDist = 20;
-    const maxDist = 70;
+    const particles = 12;      // more dots for bursts
+    const minDist = 10;
+    const maxDist = 90;
 
     for (let i = 0; i < particles; i++) {
       const angle = Math.random() * Math.PI * 2;
@@ -134,8 +146,8 @@
       const offsetX = Math.cos(angle) * dist;
       const offsetY = Math.sin(angle) * dist;
 
-      // slightly larger dots for the burst
-      createGlow(x + offsetX, y + offsetY, 1.3);
+      // larger & brighter for bursts
+      createGlow(x + offsetX, y + offsetY, 1.6, 85);
     }
   }
 </script>
