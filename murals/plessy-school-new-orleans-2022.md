@@ -26,10 +26,10 @@ The piece merges English’s recognizable POPaganda vocabulary with neighborhood
 
 ---
 
-## Main Image
+## Images
 
-![Ron English – Plessy School Mural, New Orleans](../images/Murals/New-Orleans-Mural.jpg)
-
+![Ron English – Plessy School Mural, New Orleans](../images/Murals/NOLA-2022-1.jpg)
+![Ron English – Plessy School Mural, New Orleans](../images/Murals/NOLA-2022-2.jpg)
 ---
 
 ## Sources
