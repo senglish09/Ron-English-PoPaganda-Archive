@@ -33,7 +33,7 @@
 | [![Temper Tot Little Italy 2012 thumbnail](images/Murals/Little-Italy-1.jpg)](murals/temper-tot-little-italy-2012.html) | <a id="temper-tot-little-italy-2012-row"></a>2012 | Little Italy (Mulberry St.), Manhattan, New York, US | Temper Tot (green version) |
 | [![Temper Tot & Mousemask Rome thumbnail](images/Murals/Mousemask-and-Temper-Mural.jpg)](murals/mousemask-temper-rome-2013.html) | <a id="mousemask-temper-rome-2013-row"></a>2013 | Via dei Pisoni 89, Quadraro, Rome, Italy | Temper Tot & Mousemask Murphy (Quadraro) |
 | [![Miami Marine Stadium 2014 thumbnail](images/Murals/Marine-Stadium-1.jpg)](murals/miami-marine-stadium-2014.html) | <a id="miami-marine-stadium-2014-row"></a>2014 | Miami Marine Stadium, Miami, Florida, US | Art | History Marine Stadium Mural Project |
-| <a id="grin-baby-richmond-2014-row"></a>2014 | June 2014 (Richmond Mural Project 2014) | 646 N 7th St (wall 2), Richmond, Virginia, US | Grin Baby (Richmond Mural Project) | The 2014 Richmond Mural Project handed English a huge façade at 646 N 7th Street, where he painted an outsized “Grin Baby” head with his trademark skull-toothed smile towering over the street. The official mural map and Street Art Avenue photo set frame it as one of the festival’s landmark pieces, while local photography and RVA Mag coverage show how the wall became a recognizable #richmondmuralproject stop and an early large-scale East Coast showcase for his Grin Baby character. | **[Images ↓](#grin-baby-richmond-2014)** · **[Sources ↓](#grin-baby-richmond-2014-sources)** |
+| [![Grin Baby Richmond 2014 thumbnail](images/Murals/Grin-Baby.jpg)](murals/grin-baby-richmond-2014.html) | <a id="grin-baby-richmond-2014-row"></a>2014 | 646 N 7th St (wall 2), Richmond, Virginia, US | Grin Baby (Richmond Mural Project) |
 | <a id="rxsm-spiderhouse-2015-row"></a>2015 | March 11–15, 2015 (RXSM Self-Medicated Film Expo week) | Spider House Cafe & Ballroom, Austin, Texas, US | RXSM / Spider House Ballroom mural (with RISK) | During the 6th annual RXSM Self-Medicated Film Expo, the Spider House Ballroom’s big exterior wall was reworked into a massive collaboration between Ron English and Kelly “RISK” Gravall, painted in the thick of SXSW. Popaganda and Montana-Cans describe how the new piece replaced an older movie-themed mural with a saturated POPaganda scene that looms over the parking lot, while local coverage captures the controversy it stirred with its scantily clad cow character and skull-smiley imagery—making it one of English’s most talked-about Austin works. | **[Images ↓](#rxsm-spiderhouse-2015)** · **[Sources ↓](#rxsm-spiderhouse-2015-sources)** |
 | <a id="bowery-wall-2015-row"></a>2015 | April 2015 | Houston & Bowery Wall, New York, NY, US | American Depopulation (Bowery Wall) | English’s takeover of the landmark Bowery/Houston wall fused his baby Hulk figure with an oversized U.S. flag backdrop—an image described in press coverage as a pointed critique of American excess and consumer culture. The mural became one of the site’s most photographed works of 2015, with street-art publications noting how the scale amplified the confrontational stance of English’s POPaganda universe. | **[Images ↓](#bowery-wall-2015)** · **[Sources ↓](#bowery-wall-2015-sources)** |
 | <a id="coney-island-2015-row"></a>2015 | Summer 2015 (Coney Art Walls – inaugural season) | Coney Art Walls, Coney Island, Brooklyn, New York, US | Grinnin’ McB (Coney Art Walls) | Coney Island’s first Coney Art Walls season assembled a major outdoor lineup curated by Jeffrey Deitch, and English contributed one of its most photographed installations: a full-wall “Grinnin’ McB” piece blending pop-culture mascots with his trademark skeletal grin. Photo sets from Time Out, Flickr, and BSA show how the mural became a standout in a project designed to revive Coney Island’s legacy of spectacle through contemporary street art. | **[Images ↓](#coney-island-2015)** · **[Sources ↓](#coney-island-2015-sources)** |
@@ -57,19 +57,6 @@
 
 ---
 ## Image gallery
-
-
-
-
-
-
-### <a id="grin-baby-richmond-2014"></a>2014 – Richmond Mural Project (“Grin Baby”)
-
-<a href="images/Murals/Grin-Baby.jpg">
-  <img src="images/Murals/Grin-Baby.jpg" alt="Ron English – Grin Baby mural for Richmond Mural Project 2014" width="450">
-</a>
-
-[Back to entry ↑](#grin-baby-richmond-2014-row)
 
 
 
