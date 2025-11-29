@@ -34,7 +34,11 @@ The piece merges English’s recognizable POPaganda vocabulary with neighborhood
 
 ## Sources
 
-*(Add URLs here — I can gather verified ones on request.)*
+- https://www.popaganda.com/news/new-mural-at-plessy-school  
+- https://www.popaganda.com/news/nola-mortal-machine-show-recap  
+- https://www.flickr.com/photos/atelier_tee/52155781190/  
+- https://www.instagram.com/p/CpQoXQVvseK/  
+
 
 - Plessy School project documentation  
 - Local news and community-art coverage  
