@@ -26,10 +26,10 @@ Englishâ€™s contribution stood out among the launch lineup, echoing the museumâ€
 
 ---
 
-## Main Image
+## Images
 
 ![ONE WALL mural, Berlin 2017](../images/Murals/One-Wall.jpg)
-
+![ONE WALL mural, Berlin 2017](../images/Murals/OneWall2.jpg)
 ---
 
 ## Sources
