@@ -1,41 +1,43 @@
-<!-- CURSOR-FOLLOW COLOR SWIRL BACKGROUND -->
+<!-- FULL WHITE BACKGROUND (fix for yellow tint) -->
 <style>
+  body {
+    background-color: #ffffff !important;
+    margin: 0;
+    padding: 0;
+  }
+
   #cursor-swirl {
     position: fixed;
     inset: 0;
-    z-index: -2;
+    z-index: -3;
     pointer-events: none;
 
+    /* softer swirl so it doesn't tint the top */
     background: radial-gradient(
       circle at center,
       #ffd6ff 0%,
-      #c3e7ff 25%,
-      #fff1b8 45%,
-      transparent 70%
+      #c3e7ff 12%,
+      #fff1b8 25%,
+      transparent 60%
     );
 
-    opacity: 0.40;
+    opacity: 0.25;   /* softer so page stays white */
     transition: background-position 0.12s ease-out;
   }
 
-  /* Glow particles for RGB trail */
+  /* MUCH LARGER glow particles */
   .glow-dot {
     position: fixed;
-
-    /* ⬆⬆⬆ Increased size from 18px → 36px ⬆⬆⬆ */
-    width: 36px;
-    height: 36px;
-
+    width: 60px;   /* increased from 36px */
+    height: 60px;
     border-radius: 50%;
     pointer-events: none;
-
-    /* Appears ABOVE the white panel */
     z-index: 999;
 
-    opacity: 0.8;
+    opacity: 0.75;
     transform: translate(-50%, -50%);
-    animation: fadeOut 1s linear forwards;
-    filter: blur(4px); /* softer glow */
+    animation: fadeOut 1.2s linear forwards;
+    filter: blur(8px);  /* softer & bigger glow */
   }
 
   @keyframes fadeOut {
@@ -45,11 +47,11 @@
     }
     100% {
       opacity: 0;
-      transform: translate(-50%, -50%) scale(0.2);
+      transform: translate(-50%, -50%) scale(0.25);
     }
   }
 
-  /* Link card styles */
+  /* Card styling */
   .pop-card {
     padding: 16px 12px;
     background: #e5e0ff;
@@ -77,8 +79,6 @@
 
 <div id="cursor-swirl"></div>
 
-
-<!-- JAVASCRIPT FOR CURSOR SWIRL + RGB TRAIL -->
 <script>
   const swirl = document.getElementById("cursor-swirl");
 
@@ -90,7 +90,6 @@
     createGlow(e.clientX, e.clientY);
   });
 
-  // Glow trail hue cycling
   let hue = 0;
 
   function createGlow(x, y) {
@@ -100,14 +99,12 @@
     dot.style.left = x + "px";
     dot.style.top = y + "px";
 
-    /* RGB color cycle */
     dot.style.background = `radial-gradient(circle, hsl(${hue}, 100%, 75%), transparent 70%)`;
 
-    hue = (hue + 15) % 360;
+    hue = (hue + 12) % 360;
 
     document.body.appendChild(dot);
-
-    setTimeout(() => dot.remove(), 1000);
+    setTimeout(() => dot.remove(), 1200);
   }
 </script>
 
@@ -115,7 +112,7 @@
 <!-- MAIN CONTENT WRAPPER -->
 <div style="background-color: #ffffff; min-height: 100vh; padding: 20px 0; position: relative; z-index: 1;">
 
-  <div style="max-width: 1100px; margin: 0 auto; text-align: center; display: block;">
+  <div style="max-width: 1100px; margin: 0 auto; text-align: center;">
 
     <!-- BANNER -->
     <img src="images/Banner2.jpg"
