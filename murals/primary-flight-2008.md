@@ -28,7 +28,7 @@ Ron English’s wall became part of the early wave of large-scale murals that he
 ## Main Image
 
 ![Primary Flight mural – Ron English, Wynwood 2008](../images/Murals/Primary-Flight-Mural-1.jpg)
-
+![Primary Flight mural – Ron English, Wynwood 2008](../images/Murals/Guernica-Mural.jpg)
 ---
 
 ## Sources
