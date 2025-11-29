@@ -29,6 +29,7 @@ Canadian arts outlets and international street-art coverage highlighted its bold
 ## Images
 
 ![Sourire Mona Lisa mural, Montréal 2017](../images/Murals/Montreal-Mona-Mural-3.jpg)
+![Sourire Mona Lisa mural, Montréal 2017](../images/Murals/Montreal-Mona-Mural-4.jpg)
 ![Sourire Mona Lisa mural, Montréal 2017](../images/Murals/Montreal-Mona-Mural.jpg)
 ![Sourire Mona Lisa mural, Montréal 2017](../images/Murals/Montreal-Mona-Mural-2.jpg)
 
