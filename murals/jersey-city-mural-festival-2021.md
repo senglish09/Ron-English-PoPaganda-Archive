@@ -30,7 +30,6 @@ Festival coverage described the weekend as a “Woodstock for artists,” noting
 
 ![Ron English – Jersey City Mural Festival rooftop mural (alt view)](../images/Murals/Jersey-Rooftop-Mural-2.jpg)
 ![Ron English – Jersey City Mural Festival rooftop mural](../images/Murals/Jersey-Rooftop-Mural.jpg)
-![Ron English – Jersey City Mural Festival rooftop mural](../images/Murals/Jersey-Rooftop-Mural-1.jpg)
 ![Ron English – Jersey City Mural Festival rooftop mural](../images/Murals/Jersey-Rooftop-Mural-2.jpg)
 ![Ron English – Jersey City Mural Festival rooftop mural](../images/Murals/Jersey-Rooftop-Mural-3.jpg)
 ![Ron English – Jersey City Mural Festival rooftop mural](../images/Murals/Jersey-Rooftop-Mural-4.jpg)
