@@ -41,7 +41,7 @@
 | [![#NotACrime 2015 thumbnail](images/Murals/Monkeys-Mural.jpg)](murals/notacrime-2015.html) | <a id="notacrime-2015-row"></a>2015 | New York, New York, US | #NotACrime — “Three Wise Monkeys” mural |
 | [![Trumpty Dumpty 2017 thumbnail](images/Murals/Trumpty-Dumpty.jpg)](murals/trumpty-dumpty-2017.html) | <a id="trumpty-dumpty-2017-row"></a>2017 | Troutman Street, Bushwick, Brooklyn, New York, US | Trumpty Dumpty |
 | [![Sourire Mona Lisa thumbnail](images/Murals/Montreal-Mona-Mural.jpg)](murals/mural-festival-2017-montreal.html) | <a id="mural-festival-2017-montreal-row"></a>2017 | Boulevard Saint-Laurent (MURAL Festival), Montreal, Quebec, Canada | Sourire Mona Lisa |
-| <a id="one-wall-2017-row"></a>2017 | September 13, 2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) | Created for Urban Nation’s inaugural ONE WALL program, this large-format mural was installed during the museum’s opening season as part of its permanent outdoor collection. English’s contribution stood out among the launch lineup, echoing the museum’s mission to treat Berlin’s façades as an open gallery and marking his role in a global roster assembled for the institution’s debut. | **[Images ↓](#one-wall-2017)** · **[Sources ↓](#one-wall-2017-sources)** |
+| [![ONE WALL thumbnail](images/Murals/One-Wall.jpg)](murals/one-wall-2017.html) | <a id="one-wall-2017-row"></a>2017 | Schöneberg (Urban Nation / ONE WALL), Berlin, Germany | ONE WALL (Urban Nation Museum mural) |
 | <a id="manhattan-runners-2017-row"></a>2017 | October 2017 | 1st Avenue at St. Marks Place, Manhattan, New York, US | Manhattan Runners | Painted along the route of the TCS NYC Marathon, this mural turned a stretch of 1st Avenue into part art-installation, part public tribute: runners and passers-by could see English’s work as they passed the cheering wall. The piece gained visibility via the marathon’s official mural program, giving public-art fans a rare chance to engage with street art tied to an iconic urban event. | **[Images ↓](#manhattan-runners-2017)** · **[Sources ↓](#manhattan-runners-2017-sources)** |
 | <a id="wynwood-2018-row"></a>2018 | December 2018 (Art Basel Miami Beach week) | Wynwood Walls (citywide programming), Miami, Florida, US | Wynwood Walls – Basel Week murals | During Miami Art Week 2018, Wynwood Walls expanded its yearly Basel-week programming with live painting and a globally mixed roster. English added new POPaganda imagery to the complex, highlighted in coverage from SprayPlanet, World Red Eye, and Hypebeast, which noted how established muralists and emerging international artists converged to reshape the district’s visual momentum. | **[Images ↓](#wynwood-2018)** · **[Sources ↓](#wynwood-2018-sources)** |
 | <a id="k11-musea-2019-row"></a>2019– (permanent) | 2019 | K11 MUSEA (Opera Theatre), Hong Kong | Ronnie Rabbits Delusion / Smiley Grin | Installed as part of K11 MUSEA’s permanent art program, this large auditorium wall features English’s signature rabbit figures and pop-surreal textures arranged as a sweeping panorama inside the Opera Theatre. The work appears in the mall’s official art collection listings, which highlight Ron English alongside global contemporary artists commissioned during the Victoria Dockside redevelopment. | **[Images ↓](#k11-musea-2019)** · **[Sources ↓](#k11-musea-2019-sources)** |
@@ -58,16 +58,6 @@
 ---
 ## Image gallery
 
-
-
-
-### <a id="one-wall-2017"></a>2017 – *ONE WALL* (Urban Nation Museum), Berlin
-
-<a href="images/Murals/One-Wall.jpg">
-  <img src="images/Murals/One-Wall.jpg" width="350">
-</a>
-
-[Back to entry ↑](#one-wall-2017-row)
 
 ### <a id="manhattan-runners-2017"></a>2017 – Manhattan Runners (NYC Marathon Mural)
 
