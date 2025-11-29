@@ -25,7 +25,7 @@ Created for the 2010 Primary Flight program in partnership with Contra Projects,
 
 ---
 
-## Main Image
+## Images
 
 ![Contra Projects × Primary Flight mural – Ron English collaboration, 2010](../images/Murals/Primary-Flight-2010-1.jpeg)
 
