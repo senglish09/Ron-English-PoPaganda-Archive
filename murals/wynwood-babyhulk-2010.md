@@ -32,8 +32,9 @@ Installed during Wynwood Walls’ 2010 Art Basel expansion, this mural introduce
 
 ## Sources
 
-- https://thewynwoodwalls.com/artists/ron-english/  
-- https://www.miaminewtimes.com/arts/wynwood-walls-expands-with-ron-english-and-dearraindrop-6380212  
-- https://street-art-avenue.com/2014/06/ron-english-baby-hulk-wynwood-walls-miami-8345  
-- https://beyondsquarefootage.com/beyondsquarefootage/2018/5/28/ron-english-standing-strong-inside-the-walls  
-- http://www.miaminiche.com/ron-english-and-that-renaissance-landmark-work-that-you-do-not-expect/
+- [Wynwood Walls – Ron English artist page](https://thewynwoodwalls.com/artists/ron-english/)
+- [Miami New Times – Wynwood Walls expands with Ron English & Dearraindrop](https://www.miaminewtimes.com/arts/wynwood-walls-expands-with-ron-english-and-dearraindrop-6380212)
+- [Street Art Avenue – Ron English “Baby Hulk” at Wynwood Walls](https://street-art-avenue.com/2014/06/ron-english-baby-hulk-wynwood-walls-miami-8345)
+- [Beyond Square Footage – Ron English “Standing Strong Inside the Walls”](https://beyondsquarefootage.com/beyondsquarefootage/2018/5/28/ron-english-standing-strong-inside-the-walls)
+- [Miami Niche – Ron English and the unexpected Renaissance landmark work](http://www.miaminiche.com/ron-english-and-that-renaissance-landmark-work-that-you-do-not-expect/)
+
