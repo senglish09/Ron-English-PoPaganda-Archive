@@ -39,8 +39,8 @@ Painted for the first **LoMan Arts Festival**, Ron English returned to Mulberry 
 
 ## Sources
 
-- https://streetartnews.net/2015/08/new-york-ron-english-new-mural-in-little.html  
-- https://www.viewing.nyc/ron-english-paints-new-mural-of-pink-temper-tot-in-little-italy/  
-- https://www.brooklynstreetart.com/2015/08/11/something-in-the-air/  
-- https://www.thelisaprojectnyc.org/  
-- https://untappedcities.com/2015/08/10/ron-englishs-temper-tot-comes-in-pink-for-loman-arts-festival/  
+- [StreetArtNews – Ron English mural in Little Italy](https://streetartnews.net/2015/08/new-york-ron-english-new-mural-in-little.html)
+- [Viewing NYC – Pink Temper Tot mural in Little Italy](https://www.viewing.nyc/ron-english-paints-new-mural-of-pink-temper-tot-in-little-italy/)
+- [Brooklyn Street Art – “Something in the Air”](https://www.brooklynstreetart.com/2015/08/11/something-in-the-air/)
+- [The L.I.S.A. Project NYC – Official site](https://www.thelisaprojectnyc.org/)
+- [Untapped Cities – Temper Tot comes to LoMan Arts Festival](https://untappedcities.com/2015/08/10/ron-englishs-temper-tot-comes-in-pink-for-loman-arts-festival/)
