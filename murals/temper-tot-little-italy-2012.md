@@ -33,8 +33,9 @@ Installed during the New York Comedy Festival as part of Vandalog’s **Art of C
 
 ## Sources
 
-- https://vandalog.com/2012/11/the-art-of-comedy-a-collaboration-with-the-new-york-comedy-festival/  
-- https://vandalog.com/2012/11/ron-englishs-new-mural-for-the-art-of-comedy/  
-- https://www.thelisaprojectnyc.org/  
-- https://streetartnews.net/2012/11/nyc-ron-english-new-mural-in-manhattan.html  
-- https://www.boweryboogie.com/2012/11/ron-english-little-italy-mural/  
+- [Vandalog – The Art of Comedy (NY Comedy Festival collaboration)](https://vandalog.com/2012/11/the-art-of-comedy-a-collaboration-with-the-new-york-comedy-festival/)
+- [Vandalog – Ron English’s new mural for The Art of Comedy](https://vandalog.com/2012/11/ron-englishs-new-mural-for-the-art-of-comedy/)
+- [The L.I.S.A. Project NYC – Official site](https://www.thelisaprojectnyc.org/)
+- [StreetArtNews – Ron English mural in Manhattan](https://streetartnews.net/2012/11/nyc-ron-english-new-mural-in-manhattan.html)
+- [Bowery Boogie – Ron English Little Italy mural](https://www.boweryboogie.com/2012/11/ron-english-little-italy-mural/)
+
