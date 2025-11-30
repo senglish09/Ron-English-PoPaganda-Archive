@@ -80,7 +80,6 @@ Includes digital-art releases, blockchain-based projects, NFT drops, metaverse a
 | Cover | Year | Release date(s) | Platform / venue | Project title |
 | --- | --- | --- | --- | --- |
 | [![Augmented Reality Advertising Takeover](images/Digital/augreality.jpg)](digital-projects/times-square-ar-takeover-2011.html) | <a id="times-square-ar-takeover-2011-row"></a>2011 | July 24, 2011 | Times Square (Public Ad Campaign × The Heavy Projects) | *Augmented Reality Advertising Takeover* |
-| [![Season 1 Starter Pack](images/Digital/starterpac.jpg)](digital-projects/superchief-season-1-starter-pack-2021.html) | <a id="superchief-season-1-starter-pack-2021-row"></a>2021 | March 2021 | Superchief Gallery NFT (New York) | *Season 1 Starter Pack* |
 | [![Essential NFT Collection](images/Digital/essential.jpg)](digital-projects/essential-nft-collection-2021.html) | <a id="essential-nft-collection-2021-row"></a>2021 | March 28, 2021 | Nifty Gateway Studio | *Ron English Essential NFT Collection* |
 | [![Cereal Killers Series 1](images/Digital/cerealkillers.webp)](digital-projects/cereal-killers-series-1-2021.html) | <a id="cereal-killers-series-1-2021-row"></a>2021 | June 10, 2021 | VeVe app | *Ron English’s Cereal Killers — Series 1* |
 | [![Delusionville NFT Collection — Nifty](images/Digital/xxxxxxxxx.jpg)](digital-projects/delusionville-nft-collection-2021.html) | <a id="delusionville-nft-collection-2021-row"></a>2021 | July 9, 2021 | Nifty Gateway | *Delusionville NFT Collection — Nifty Gateway drop* |
