@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2020s Solo Exhibitions
+---
+
 <style>
   .top-nav {
     text-align: center;
@@ -60,6 +65,3 @@ This page collects Ron English’s solo exhibitions from 2020 to the present.
 | 2024 | January 27, 2024 | Clutter Gallery | Beacon, New York, US | *Ron English’s Oddities, Rarities and Experiments!* | Special Clutter Gallery presentation opening the artist’s archive, featuring rare proofs, experimental works, and older pieces from across POPaganda projects. | [Clutter Gallery – Oddities, Rarities and Experiments](https://clutter.co/c/gallery/ron-englishs-oddities-rarities-and-experiments/) |
 | 2024 | May 18 – June 22, 2024 | Ro2 Art Gallery (Tin District) | Dallas, Texas, US | *Ron English: Texas: Naturally Surreal* | Ro2 Art Tin District show of recent paintings that fold Texas highways, billboards, cattle and roadside culture into the POPaganda cast, using humor and saturated commercial imagery to reflect on the state’s mythology and politics. | [MutualArt – Texas: Naturally Surreal listing](https://www.mutualart.com/Exhibition/Ron-English--Texas--Naturally-Surreal/32CDEA46925B958E)<br>[Glasstire – Surreal in Texas: two exhibitions in Dallas](https://glasstire.com/2024/06/21/surreal-in-texas-two-exhibitions-in-dallas/) |
 | 2024 | June 13 – July 9, 2024 | Allouche Gallery | Los Angeles, California, US | *Translations* | Allouche Los Angeles exhibition premiering paintings and sculpture that rework familiar POPaganda characters and motifs into more introspective, narrative-driven compositions about translation between images, media and cultural contexts. | [Allouche – Translations exhibition](https://www.allouchegallery.com/exhibition/ron-english/)<br>[Artsy – Translations show page](https://www.artsy.net/show/allouche-gallery-translations) |
-
-
-
