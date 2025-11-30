@@ -57,7 +57,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/heykid.jpg"
+<img src="../../images/Exhibitions/Solo/mykid.jpg"
      alt="Ron English — HEY! My Kid Could Do That!, Gallery Stendhal, 1992"
      class="exhibit-image">
 
