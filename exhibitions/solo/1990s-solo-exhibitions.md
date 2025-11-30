@@ -29,50 +29,71 @@
     box-shadow: 0 0 8px rgba(255, 150, 213, 0.7);
     transform: translateY(-1px);
   }
+
+  .mural-thumb {
+    max-width: 50px;
+    height: auto;
+    display: block;
+  }
+
+  table {
+    font-size: 18px;
+    color: #111;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    border: 1px solid #bbb;
+  }
+
+  table th {
+    font-weight: 700;
+  }
+
+  table td {
+    font-weight: 500;
+  }
 </style>
 
 <div class="top-nav">
-  <a href="../index.html">Home</a>
-  <a href="solo-exhibitions.html">Solo exhibitions</a>
-  <a href="group-exhibitions.html">Group exhibitions</a>
-  <a href="../murals-and-street-works.html">Murals &amp; street works</a>
-  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
-  <a href="../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
-  <a href="../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
-  <a href="../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
-  <a href="../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
-  <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
+  <a href="../../index.html">Home</a>
+  <a href="../../solo-exhibitions.html">Solo exhibitions</a>
+  <a href="../../group-exhibitions.html">Group exhibitions</a>
+  <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
+  <a href="../../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
+  <a href="../../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
+  <a href="../../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
+  <a href="../../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
+  <a href="../../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
+  <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
-
-
-
 
 # 1990s Solo Exhibitions
 
-Solo exhibitions by Ron English during the 1990s.
+Solo exhibitions by Ron English during the 1990s.  
+Click on each image to see more information.
 
-## Exhibitions
-
-## 1990s Solo Exhibitions
-
-| Year | Dates | Venue | Location | Title | Notes | Sources |
-|------|-------|-------|----------|-------|-------|---------|
-| c. 1990s | December 12 (c. 1990s) | Art Bar & Café | Dallas, Texas, US | *Ron English* | Exhibition of paintings by New York artist Ron English at Art Bar & Café, followed by a Club Clearview CD-release party for Dallas band The Sutcliffes; showcard positions the evening as a solo presentation. | Show card: *Ron English — Art Bar & Café* (Art Bar & Café, Dallas, c. 1990s) |
-| 1990 | February 11 – March 3, 1990 | Thomas V. Robinson / Robinson Galleries | Houston, Texas, US | *Ron English (FotoFest ’90)* | Solo exhibition of Ron English’s photographic work presented as part of FotoFest ’90, featuring composite photographic constructions and works from his “American Sideshows” series. | Houston Magazine for Business, Feb 1990, p. 33 (“For art’s sake: A lot to look at in area museums and galleries”) <br> Invitation card: *Ron English* — Thomas V. Robinson Galleries (1990-02-11) |
-| 1990 | May 5 – June 2, 1990 | The Art Store | New York, New York, US | *New Paintings* | Solo exhibition of new paintings at The Art Store on Downing Street, with opening reception on 5 May. | Show card: *New Paintings — The Art Store* (The Art Store, New York, 1990-05-05) |
-| 1991 | September 14 – October 13, 1991 | Gallery Stendhal | New York, New York, US | *Inbred/Hybrid* | Solo exhibition presenting new work by Ron English at Gallery Stendhal, including a reworking of Picasso’s *Guernica* that juxtaposed pop-surrealist imagery with art-historical references. | Invitation card: *Ron English: Inbred/Hybrid* (Gallery Stendhal, New York, 1991-09-14) |
-| 1992 | February 9 – (date unspecified), 1992 | Thomas V. Robinson Galleries | Houston, Texas, US | *Pop America* | Solo exhibition of paintings and photographic works at Robinson Galleries, including early canvases such as *Batman & Boy Wonder* (1991), with coverage in *The Houston Post*. | Exhibition card: *Ron English: "Pop America"* (Thomas V. Robinson Galleries, 1992) <br> *The Houston Post*, “U.S. Made: ‘Pop America’”, 1992-02-09, p. H-12 |
-| 1992 | November 12 – December 12, 1992 | Gallery Stendhal | New York, New York, US | *HEY! My Kid Could Do That!* | Solo exhibition of new work at Gallery Stendhal exploring appropriation, childhood iconography and cultural critique; proceeds supported the Guggenheim Museum’s Learning Through Art program. | *Absolute Collection*, “Hey! My Kid Could Do That!!!”, Oct 1992, pp. 10–11 <br> Exhibition invitation: *HEY! My Kid Could Do That!* (Gallery Stendhal, 1992-11-12) |
-| 1992 | November 19 – December 2, 1992 | Clark & Company (Galleries 1054) | Washington, D.C., US | *Ron English — Inaugural Exhibition at Clark & Company* | First Washington, D.C. exhibition of Ron English, showcasing satirical oil paintings addressing alcohol culture, propaganda and social issues, noted in *The Georgetowner* for its provocative tone. | *The Georgetowner*, “Clark & Company to showcase paintings of New York pop artist Ron English”, Nov 19 – Dec 2, 1992, p. 15 |
-| 1992 | November – December 17, 1992 | Clark & Company | Washington, D.C., US | *Ron English — Solo Exhibition (Washington Debut)* | Solo presentation marking English’s Washington debut, highlighting politically charged canvases and his reputation for billboard interventions on topics such as alcohol, smoking, reproductive rights and vegetarianism. | *The Georgetowner*, “Clark & Company to Showcase Ron English”, Nov 1992 (newspaper clipping; physical ephemera) |
-| 1993 | March 24, 1993 | Debris at USA (Big Bottom Lounge) | New York, New York, US | *Recent Works by Ron English* | One-night presentation of recent paintings at the Big Bottom Lounge inside Debris at Club USA in Times Square, positioned as a focused snapshot of his early-1990s work. | Show card: *Recent Works by Ron English — Debris at USA* (Debris at USA, New York, 1993-03-24) |
-| 1994 | February 5 – March 19, 1994 | Tunnel Gallery | New York, New York, US | *Ron English: Recent Works* | Solo exhibition of recent paintings at Tunnel Gallery; promotional material highlights his billboard work *Jesus Christ on Family Values*. | Show card: *Ron English: Recent Works* (Tunnel Gallery, New York, Feb 5 – Mar 19, 1994) |
-| 1994 | February 5 – March 19, 1994 | Wunderlich Gallery | Austin, Texas, US | *Art in Heaven* | Traveling solo exhibition of paintings, drawings and photographs at Wunderlich Gallery, with opening reception on 5 February. | Show card: *Art in Heaven — Wunderlich Gallery* (Wunderlich Gallery, Austin, 1994-02-05) |
-| 1994 | June 30 – July 30, 1994 | Michael Kisslinger Gallery | New York, New York, US | *Art in Heaven* | Solo exhibition of paintings, drawings and photographs at Michael Kisslinger Gallery in SoHo, with opening reception on 30 June. | Show card: *Art in Heaven — Michael Kisslinger Gallery* (Michael Kisslinger Gallery, New York, 1994-06-30) |
-| 1994–1995 | December 2, 1994 – January 1, 1995 | The Museum of Contemporary Art, Washington, DC | Washington, DC, US | *Revisionist Modernism* | Solo exhibition presenting English’s satirical reinterpretations of canonical works by Manet, Warhol, Kahlo, Jasper Johns and others, reworking art-historical icons into humorous critiques. | [Washington Post – “Galleries: Joshing with the Masters”](https://www.washingtonpost.com/archive/lifestyle/1995/01/07/galleries/11b12ab7-6e15-4d17-aba8-cb7671030633/) (Lee Fleming, 1995-01-07) |
-| 1996 | 1996 | Maxwell’s (Jonathan LeVine presents) | Hoboken, New Jersey, US | *The Art of Ron English* | Early solo organized by Jonathan LeVine at Maxwell’s, presenting paintings, photography, drawings and giclée editions; documented in LeVine’s gallery history and a period promotional card. | [StreetArtNYC – *Delusional: The Story of the Jonathan LeVine Gallery*](https://streetartnyc.org/blog/2012/12/20/delusional-the-story-of-the-jonathan-levine-gallery/) <br> [Gallery 98 – Maxwell’s: “The Art of Ron English” card](https://gallery98.org/2018/maxwells-ron-english-the-art-of-ron-english-card-1990s/) <br> [Wikipedia – Maxwell’s (Hoboken)](https://en.wikipedia.org/wiki/Maxwell%27s) |
-| 1996 | April 11, 1996 | Den of Thieves | New York, New York, US | *New Giclée Canvases* | Late-night Camel Lights event at Den of Thieves presenting a set of new giclée canvases by Ron English as a compact solo display. | Show card: *New Giclée Canvases — Den of Thieves* (Camel Lights / Den of Thieves, New York, 1996-04-11) |
-| 1996 | October 18, 1996 | The Gem | Los Angeles, California, US | *Ron English at The Gem* | One-night lounge exhibition on Melrose Avenue presenting paintings by English, organized by Camel Lights and 01 Gallery with DJ set and Absolut Vodka reception. | Show card: *Ron English at The Gem* (Camel Lights / 01 Gallery, Los Angeles, 1996-10-18) |
-| 1997 | April 3 – April 30, 1997 | Gallery Stendhal | New York, New York, US | *Agit-Pop America* | Solo exhibition of new works including the large-scale oil painting *Culture Wars* (1996), continuing English’s satirical reworkings of American pop culture and art-historical iconography. | Invitation card: *Agit-Pop America* (Gallery Stendhal, New York, 1997-04-03) <br> Exhibition postcard: *Agit-Pop America* (Gallery Stendhal, New York, 1997) |
-| 1998 | July 31 – August 16, 1998 | Noiseville Gallery | New York, New York, US | *Noiseville 98* | Solo exhibition at Noiseville Gallery that included early imagery of English’s crucified Mickey Mouse on a mousetrap, a Popaganda image critiquing the Disney-ization of Times Square. | [DogStreets – *Noiseville 98*](https://dogstreets.com/artwork/Ron%20English/Noiseville%2098/42904) <br> [Hake’s Auctions – Ron English Mickey Mouse Mousetrap print](https://www.hakes.com/Auction/ItemDetail/75755/RON-ENGLISH-SIGNED-MICKEY-MOUSE-MOUSETRAP-PRINT) |
-
+| Image | Year | Dates | Venue | Title |
+|-------|------|-------|-------|-------|
+| <a href="art-bar-cafe-dallas-1990s.html"><img src="../../images/Exhibitions/Solo/artbar.jpg" alt="Ron English solo exhibition at Art Bar &amp; Café, Dallas (c. 1990s)" class="mural-thumb"></a> | c. 1990s | December 12 (c. 1990s) | Art Bar &amp; Café | *Ron English* |
+| <a href="thomas-v-robinson-fotofest-1990.html"><img src="../../images/Exhibitions/Solo/fotofest-1990.jpg" alt="Ron English FotoFest '90 exhibition at Thomas V. Robinson / Robinson Galleries" class="mural-thumb"></a> | 1990 | February 11 – March 3, 1990 | Thomas V. Robinson / Robinson Galleries | *Ron English (FotoFest ’90)* |
+| <a href="art-store-new-paintings-1990.html"><img src="../../images/Exhibitions/Solo/artstore.jpg" alt="Ron English 'New Paintings' at The Art Store, New York, 1990" class="mural-thumb"></a> | 1990 | May 5 – June 2, 1990 | The Art Store | *New Paintings* |
+| <a href="inbred-hybrid-gallery-stendhal-1991.html"><img src="../../images/Exhibitions/Solo/inbred.jpg" alt="Ron English 'Inbred/Hybrid' at Gallery Stendhal, 1991" class="mural-thumb"></a> | 1991 | September 14 – October 13, 1991 | Gallery Stendhal | *Inbred/Hybrid* |
+| <a href="pop-america-robinson-galleries-1992.html"><img src="../../images/Exhibitions/Solo/popamerica.jpg" alt="Ron English 'Pop America' at Thomas V. Robinson Galleries, 1992" class="mural-thumb"></a> | 1992 | February 9 – (date unspecified), 1992 | Thomas V. Robinson Galleries | *Pop America* |
+| <a href="hey-my-kid-could-do-that-1992.html"><img src="../../images/Exhibitions/Solo/mykid.jpg" alt="Ron English 'HEY! My Kid Could Do That!' at Gallery Stendhal, 1992" class="mural-thumb"></a> | 1992 | November 12 – December 12, 1992 | Gallery Stendhal | *HEY! My Kid Could Do That!* |
+| <a href="clark-and-company-washington-dc-1992.html"><img src="../../images/Exhibitions/Solo/clark-company-1992.jpg" alt="Ron English inaugural exhibition at Clark &amp; Company, Washington, DC, 1992" class="mural-thumb"></a> | 1992 | November 21 – December 17, 1992 | Clark &amp; Company | *Ron English — Inaugural Exhibition at Clark &amp; Company* |
+| <a href="recent-works-debris-usa-1993.html"><img src="../../images/Exhibitions/Solo/debris-usa-1993.jpg" alt="Recent Works by Ron English at Debris at USA (Big Bottom Lounge), 1993" class="mural-thumb"></a> | 1993 | March 24, 1993 | Debris at USA (Big Bottom Lounge) | *Recent Works by Ron English* |
+| <a href="tunnel-gallery-recent-works-1994.html"><img src="../../images/Exhibitions/Solo/tunnel.jpg" alt="Ron English 'Recent Works' at Tunnel Gallery, 1994" class="mural-thumb"></a> | 1994 | February 5 – March 19, 1994 | Tunnel Gallery | *Ron English: Recent Works* |
+| <a href="wunderlich-gallery-art-in-heaven-1994.html"><img src="../../images/Exhibitions/Solo/wonderlich.jpg" alt="Ron English 'Art in Heaven' at Wunderlich Gallery, 1994" class="mural-thumb"></a> | 1994 | February 5 – March 19, 1994 | Wunderlich Gallery | *Art in Heaven* |
+| <a href="michael-kisslinger-art-in-heaven-1994.html"><img src="../../images/Exhibitions/Solo/kisslinger.jpg" alt="Ron English 'Art in Heaven' at Michael Kisslinger Gallery, 1994" class="mural-thumb"></a> | 1994 | June 30 – July 30, 1994 | Michael Kisslinger Gallery | *Art in Heaven* |
+| <a href="revisionist-modernism-moca-dc-1994-95.html"><img src="../../images/Exhibitions/Solo/revisionist.jpg" alt="Ron English 'Revisionist Modernism' at MOCA DC, 1994–1995" class="mural-thumb"></a> | 1994–1995 | December 2, 1994 – January 1, 1995 | Museum of Contemporary Art, Washington, DC | *Revisionist Modernism* |
+| <a href="maxwells-art-of-ron-english-1996.html"><img src="../../images/Exhibitions/Solo/maxwells.jpg" alt="Ron English 'The Art of Ron English' at Maxwell’s, Hoboken, 1996" class="mural-thumb"></a> | 1996 | 1996 | Maxwell’s (Jonathan LeVine presents) | *The Art of Ron English* |
+| <a href="den-of-thieves-new-giclee-canvases-1996.html"><img src="../../images/Exhibitions/Solo/denofthieves.jpg" alt="Ron English 'New Giclée Canvases' at Den of Thieves, 1996" class="mural-thumb"></a> | 1996 | April 11, 1996 | Den of Thieves | *New Giclée Canvases* |
+| <a href="the-gem-ron-english-1996.html"><img src="../../images/Exhibitions/Solo/thegem.jpg" alt="Ron English at The Gem, Los Angeles, 1996" class="mural-thumb"></a> | 1996 | October 18, 1996 | The Gem | *Ron English at The Gem* |
+| <a href="agit-pop-america-stendhal-1997.html"><img src="../../images/Exhibitions/Solo/agitpop.jpg" alt="Ron English 'Agit-Pop America' at Gallery Stendhal, 1997" class="mural-thumb"></a> | 1997 | April 3 – April 30, 1997 | Gallery Stendhal | *Agit-Pop America* |
+| <a href="noiseville-98-1998.html"><img src="../../images/Exhibitions/Solo/noiseville.jpg" alt="Ron English 'Noiseville 98' at Noiseville Gallery, 1998" class="mural-thumb"></a> | 1998 | July 31 – August 16, 1998 | Noiseville Gallery | *Noiseville 98* |
