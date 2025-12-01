@@ -62,8 +62,8 @@
 
 <div class="top-nav">
   <a href="../../index.html">Home</a>
-  <a href="../../solo-exhibitions.html">Solo exhibitions</a>
-  <a href="../../group-exhibitions.html">Group exhibitions</a>
+  <a href="../solo-exhibitions.html">Solo exhibitions</a>
+  <a href="../group-exhibitions.html">Group exhibitions</a>
   <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
   <a href="../../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
   <a href="../../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
