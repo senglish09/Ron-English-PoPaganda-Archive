@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#temper-tot-little-italy-2015-row)
+
 
 # 2015 – Temper Tot (Pink), Little Italy  
 **LoMan Arts Festival — Manhattan, New York, US**
@@ -57,3 +57,5 @@ Painted for the first **LoMan Arts Festival**, Ron English returned to Mulberry 
 - [Brooklyn Street Art – “Something in the Air”](https://www.brooklynstreetart.com/2015/08/11/something-in-the-air/)
 - [The L.I.S.A. Project NYC – Official site](https://www.thelisaprojectnyc.org/)
 - [Untapped Cities – Temper Tot comes to LoMan Arts Festival](https://untappedcities.com/2015/08/10/ron-englishs-temper-tot-comes-in-pink-for-loman-arts-festival/)
+
+[⬅ Back to murals index](../murals-and-street-works.html#temper-tot-little-italy-2015-row)
