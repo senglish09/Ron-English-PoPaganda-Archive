@@ -33,7 +33,7 @@
 
 <a id="murals-table"></a>
 
-# Murals and Street Works
+# Murals
 **Click on each image to see more information.**
 
 | Image | Year | Location | Mural title |
