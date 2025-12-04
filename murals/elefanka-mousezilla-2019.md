@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#elefanka-mousezilla-2019-row)
+
 
 # 2019 – *Elefanka and Mousezilla* (Erie & 16th St., Jersey City)
 
@@ -61,4 +61,4 @@ Painted overlooking a neighborhood schoolyard, the mural became one of Jersey Ci
 - [YouTube – Jersey City mural video](https://www.youtube.com/watch?v=l2fFMNN_BFM)
 
 
-
+[⬅ Back to murals index](../murals-and-street-works.html#elefanka-mousezilla-2019-row)
