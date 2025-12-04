@@ -90,5 +90,6 @@ The exhibition helped consolidate English’s presence within alternative and mu
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#maxwells-art-of-ron-english-1996-row)
+
 
