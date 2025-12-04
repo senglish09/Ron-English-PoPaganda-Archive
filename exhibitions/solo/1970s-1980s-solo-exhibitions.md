@@ -60,27 +60,19 @@
     font-weight: 500;
   }
 .glow-text {
-  font-size: 22px;        /* Larger text */
+  font-size: 24px;
   font-weight: 700;
-  color: #ff4bd7;         /* Bright neon pink */
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  animation: neonPulse 1.8s ease-in-out infinite;
+  animation: rainbowGlow 3s linear infinite;
 }
 
-@keyframes neonPulse {
-  0% {
-    transform: scale(1);
-    text-shadow: 0 0 4px #ff99e6, 0 0 6px #ff66d1, 0 0 10px rgba(255, 150, 213, 0.7);
-  }
-  50% {
-    transform: scale(1.08);   /* Gentle zoom */
-    text-shadow: 0 0 10px #ff99e6, 0 0 16px #ff66d1, 0 0 30px rgba(255, 150, 213, 1);
-  }
-  100% {
-    transform: scale(1);
-    text-shadow: 0 0 4px #ff99e6, 0 0 6px #ff66d1, 0 0 10px rgba(255, 150, 213, 0.7);
-  }
+@keyframes rainbowGlow {
+  0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
+  25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
+  50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
+  75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
+  100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
+}
+
 }
 
 
