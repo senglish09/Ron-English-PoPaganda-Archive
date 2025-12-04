@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#temper-tot-little-italy-2012-row)
+
 
 # 2012 – Temper Tot (Green), Little Italy  
 **Mulberry Street, Manhattan, New York, US**
@@ -56,3 +56,4 @@ Installed during the New York Comedy Festival as part of Vandalog’s **Art of C
 - [StreetArtNews – Ron English mural in Manhattan](https://streetartnews.net/2012/11/nyc-ron-english-new-mural-in-manhattan.html)
 - [Bowery Boogie – Ron English Little Italy mural](https://www.boweryboogie.com/2012/11/ron-english-little-italy-mural/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#temper-tot-little-italy-2012-row)
