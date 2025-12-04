@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#medicine-agency-2009-row)
+
 
 # 2009 – Medicine Agency “Guernica” mural (San Francisco)
 
@@ -52,3 +52,6 @@
 
 - [Arrested Motion – video of mural](https://arrestedmotion.com/2009/12/video-ron-english-mural-medicine-agency-gallery/)
 - [Laughing Squid – Mandala Grin jigsaw puzzle release party & signing](https://laughingsquid.com/ron-english-mandala-grin-jigsaw-puzzle-release-party-signing-at-medicine-agency/)
+
+
+[⬅ Back to murals index](../murals-and-street-works.html#medicine-agency-2009-row)
