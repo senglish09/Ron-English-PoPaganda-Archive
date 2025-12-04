@@ -29,8 +29,6 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#lccc-dc-2022-row)
-
 # 2022 – LCCC Mural / Delusionville Characters (Washington, D.C.)
 
 **Year:** March 4, 2022  
@@ -68,3 +66,5 @@ The mural merges English’s iconic “Grin” motif with his Delusionville univ
   - https://www.instagram.com/explore/tags/lccc/  
   - https://www.instagram.com/explore/tags/livingindelusionville/  
 
+
+[⬅ Back to murals index](../murals-and-street-works.html#lccc-dc-2022-row)
