@@ -91,5 +91,6 @@ This format mirrored English’s broader interest in inserting art into commerci
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#the-gem-ron-english-1996-row)
+
 
