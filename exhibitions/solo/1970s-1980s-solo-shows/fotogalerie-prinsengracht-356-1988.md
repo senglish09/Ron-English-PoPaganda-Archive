@@ -44,7 +44,6 @@
   <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#fotogalerie-prinsengracht-356-1988-row)
 
 # 1988 – *Ron English* (Fotogalerie Prinsengracht 356, Amsterdam)
 
@@ -65,3 +64,6 @@ The exhibition pushes at the border between documentary and constructed reality,
 ## Sources
 
 - Exhibition showcard: *Ron English* — Fotogalerie Prinsengracht 356, Amsterdam, 11 Aug – 3 Sep 1988.
+
+[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#fotogalerie-prinsengracht-356-1988-row)
+
