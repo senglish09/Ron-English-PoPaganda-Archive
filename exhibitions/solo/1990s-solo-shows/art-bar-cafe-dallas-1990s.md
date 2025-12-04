@@ -41,7 +41,7 @@
 </style>
 
 <div class="top-nav">
-  <a href="../../index.html">Home</a>
+  <a href="../../../index.html">Home</a>
   <a href="../../solo-exhibitions.html">Solo exhibitions</a>
   <a href="../../group-exhibitions.html">Group exhibitions</a>
   <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
@@ -53,11 +53,13 @@
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
+[⬅ Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#art-bar-cafe-dallas-1990s-row)
+
 # Art Bar & Café — Dallas (c. 1990s)
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/artbar.jpg" alt="Ron English at Art Bar & Café, Dallas, c. 1990s" class="exhibit-image">
+<img src="../../../images/Exhibitions/Solo/artbar.jpg" alt="Ron English at Art Bar &amp; Café, Dallas, c. 1990s" class="exhibit-image">
 
 **Year:** c. 1990s  
 **Dates:** December 12 (approx.)  
@@ -79,8 +81,3 @@ While modest in scale, the event reflects English’s growing presence in indepe
 
 - **Showcard:** *Ron English — Art Bar & Café* (Dallas, c. 1990s).  
   *(Physical ephemera provided by archive.)*
-
----
-
-## Back to list
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
