@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#plessy-school-new-orleans-2022-row)
+
 
 # 2022 – Plessy School Mural, New Orleans
 
@@ -61,3 +61,5 @@ The piece merges English’s recognizable POPaganda vocabulary with neighborhood
 - Plessy School project documentation  
 - Local news and community-art coverage  
 - On-site photography (2022)
+
+[⬅ Back to murals index](../murals-and-street-works.html#plessy-school-new-orleans-2022-row)
