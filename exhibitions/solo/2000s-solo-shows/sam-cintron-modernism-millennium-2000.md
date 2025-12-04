@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/2000s/sam-cintron-modernism-millennium-2000-hero.jpg"
+<img src="../../../images/Exhibitions/Solo/sam-cintron-modernism-millennium-2000-hero.jpg"
      alt="Ron English — Modernism for a New Millennium, Sam Cintron Gallery, 2000"
      class="exhibit-image">
 
