@@ -59,23 +59,30 @@
   table td {
     font-weight: 500;
   }
-  .glow-text {
-  font-weight: 600;
-  color: #5a0075;
-  animation: pulseGlow 2s ease-in-out infinite;
+.glow-text {
+  font-size: 22px;        /* Larger text */
+  font-weight: 700;
+  color: #ff4bd7;         /* Bright neon pink */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  animation: neonPulse 1.8s ease-in-out infinite;
 }
 
-@keyframes pulseGlow {
+@keyframes neonPulse {
   0% {
-    text-shadow: 0 0 4px rgba(255, 150, 213, 0.4);
+    transform: scale(1);
+    text-shadow: 0 0 4px #ff99e6, 0 0 6px #ff66d1, 0 0 10px rgba(255, 150, 213, 0.7);
   }
   50% {
-    text-shadow: 0 0 12px rgba(255, 150, 213, 0.9);
+    transform: scale(1.08);   /* Gentle zoom */
+    text-shadow: 0 0 10px #ff99e6, 0 0 16px #ff66d1, 0 0 30px rgba(255, 150, 213, 1);
   }
   100% {
-    text-shadow: 0 0 4px rgba(255, 150, 213, 0.4);
+    transform: scale(1);
+    text-shadow: 0 0 4px #ff99e6, 0 0 6px #ff66d1, 0 0 10px rgba(255, 150, 213, 0.7);
   }
 }
+
 
 </style>
 
@@ -95,7 +102,8 @@
 # 1970s and 1980s Solo Exhibitions
 
 Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.  
-<span class="glow-text">Click on each image to see more information.</span>
+<span class="glow-text">Click on each image to see more information</span>
+
 
 
 | Image | Year | Dates | Venue | Title |
