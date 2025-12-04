@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#bowery-wall-2015-row)
+
 
 # 2015 – *American Depopulation*  
 **Bowery/Houston Wall, New York City**
@@ -55,3 +55,4 @@ Ron English’s takeover of the landmark **Bowery/Houston Wall**—one of the mo
 - [Laughing Squid – Ron English Bowery Wall mural](https://laughingsquid.com/ron-english-bowery-wall-mural/)
 - [Gothamist – Ron English’s POPaganda mural on the Bowery](https://gothamist.com/arts-entertainment/photos-ron-englishs-new-popaganda-mural-on-the-bowery)
 
+[⬅ Back to murals index](../murals-and-street-works.html#bowery-wall-2015-row)
