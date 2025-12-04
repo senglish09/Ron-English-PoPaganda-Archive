@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#nuart-2012-row)
+
 
 # 2012 – Nuart Festival mural  
 **Atlantic Hotel façade, Stavanger, Norway**
@@ -57,3 +57,4 @@ As one of the headlining artists of **Nuart 2012**, Ron English transformed the 
 - [Juxtapoz – Ron English for Nuart Festival](https://www.juxtapoz.com/news/mural/ron-english-for-nuart-festival-in-norway/)
 - [HuffPost – Nuart Festival in Stavanger](https://www.huffpost.com/entry/nuart-festival-stavanger_n_1860099)
 
+[⬅ Back to murals index](../murals-and-street-works.html#nuart-2012-row)
