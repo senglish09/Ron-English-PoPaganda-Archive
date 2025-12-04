@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#cowgirl-roskilde-2013-row)
+
 
 # 2013 – Cowgirl Stable mural (Roskilde Festival)
 
@@ -46,3 +46,6 @@
 - [Roskilde Festival – Official grounds map showing Dyreskuepladsen](https://www.roskilde-festival.dk/en/experience/map/)  
 - [Dyreskuepladsen Roskilde – venue information](https://www.roskildedyrskue.dk/)  
 - [Flickr – Street art at Roskilde Festival 2013](https://www.flickr.com/photos/tags/roskildefestival2013streetart)
+
+  
+[⬅ Back to murals index](../murals-and-street-works.html#cowgirl-roskilde-2013-row)
