@@ -74,8 +74,8 @@
 This section organizes Ron English’s solo exhibitions by decade.  
 Click a decade below to view the full tables.
 
-- [2020s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2020s-solo-exhibitions.html)
-- [2010s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2010s-solo-exhibitions.html)
-- [2000s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2000s-solo-exhibitions.html)
-- [1990s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1990s-solo-exhibitions.html)
-- [1970s and 1980s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1970s-1980s-solo-exhibitions.html)
+- [2020s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2020s-solo-exhibitions.md)
+- [2010s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2010s-solo-exhibitions.md)
+- [2000s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/2000s-solo-exhibitions.md)
+- [1990s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1990s-solo-exhibitions.md)
+- [1970s and 1980s solo exhibitions](/Ron-English-PoPaganda-Archive/exhibitions/solo/1970s-1980s-solo-exhibitions.md)
