@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/maxwells.jpg"
+<img src="../../../images/Exhibitions/Solo/maxwells.jpg"
      alt="Ron English — The Art of Ron English, Maxwell’s, Hoboken, 1996"
      class="exhibit-image">
 
