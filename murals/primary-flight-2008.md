@@ -31,7 +31,6 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#primary-flight-2008-row)
 
 # 2008 – Primary Flight mural (Wynwood, Miami)
 
@@ -56,3 +55,5 @@ Ron English’s wall became part of the early wave of large-scale murals that he
 - [Juxtapoz – Primary Flight Miami 2008](https://www.juxtapoz.com/news/street-art/primary-flight-miami-2008-wynwood/)
 - [Butterfly Art News – Primary Flight](https://butterflyartnews.com/tag/primary-flight/)
 
+
+[⬅ Back to murals index](../murals-and-street-works.html#primary-flight-2008-row)
