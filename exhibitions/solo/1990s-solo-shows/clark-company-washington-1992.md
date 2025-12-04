@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/clark1992.jpg"
+<img src="../../../images/Exhibitions/Solo/clark1992.png"
      alt="Ron English at Clark & Company, Washington DC, 1992"
      class="exhibit-image">
 
