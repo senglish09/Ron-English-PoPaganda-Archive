@@ -56,7 +56,7 @@
 **Location:** New York, New York, US  
 **Title:** *Ron English*  
 
-![Ron English solo exhibition – OK Harris Works of Art, 1989](../../images/Exhibitions/Solo/okharris.jpg)
+![Ron English solo exhibition – OK Harris Works of Art, 1989](../../../images/Exhibitions/Solo/trompe-l'oeil-ok-harris-1989-1.jpg)
 
 ## Notes
 
