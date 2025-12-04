@@ -82,7 +82,7 @@ Click on each image to see more information.
 | Image | Year | Dates | Venue | Title |
 |-------|------|-------|-------|-------|
 | <a href="1990s-solo-shows/pavlovs-dog-red-zone-1990.html"><img src="../../images/Exhibitions/Solo/Pavlov's-Dog-Red-Zone-1990-1.jpg" class="mural-thumb"></a> | 1990 | May 25, 1990 | Red Zone, 440 W 54th St, New York City | *Pavlov’s Dog: The Last Supper and other paintings by Ron English* |
-| <a href="1990s-solo-shows/art-bar-cafe-dallas-1990s.html"><img src="../../images/Exhibitions/Solo/artbar.jpg" class="mural-thumb"></a> | c. 1990s | December 12 (c. 1990s) | Art Bar & Café | *Ron English* |
+| <a href="1990s-solo-shows/art-bar-cafe-dallas-1990s.html"><img src="../../images/Exhibitions/Solo/artbar.jpg" alt="Ron English solo exhibition at Art Bar &amp; Café, Dallas (c. 1990s)" class="mural-thumb"></a> | c. 1990s | December 12 (c. 1990s) | Art Bar &amp; Café | *Ron English* |
 | <a href="1990s-solo-shows/fotofest-1990-robinson-galleries.html"><img src="../../images/Exhibitions/Solo/fotofest90.jpg" class="mural-thumb"></a> | 1990 | February 11 – March 3, 1990 | Thomas V. Robinson / Robinson Galleries | *Ron English (FotoFest ’90)* |
 | <a href="1990s-solo-shows/the-art-store-new-paintings-1990.html"><img src="../../images/Exhibitions/Solo/artstore.jpg" class="mural-thumb"></a> | 1990 | May 5 – June 2, 1990 | The Art Store | *New Paintings* |
 | <a href="1990s-solo-shows/gallery-stendhal-inbred-hybrid-1991.html"><img src="../../images/Exhibitions/Solo/inbred.jpg" class="mural-thumb"></a> | 1991 | September 14 – October 13, 1991 | Gallery Stendhal | *Inbred/Hybrid* |
