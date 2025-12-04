@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/popamerica.jpg"
+<img src="../../../images/Exhibitions/Solo/popamerica.jpg"
      alt="Ron English — Pop America, Robinson Galleries, 1992"
      class="exhibit-image">
 
