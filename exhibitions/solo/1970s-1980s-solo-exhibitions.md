@@ -59,21 +59,22 @@
   table td {
     font-weight: 500;
   }
-.glow-text {
-  font-size: 24px;
-  font-weight: 700;
-  animation: rainbowGlow 3s linear infinite;
-}
 
-@keyframes rainbowGlow {
-  0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
-  25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
-  50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
-  75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
-  100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
-}
+  .glow-text {
+    font-size: 24px;              /* increase this to 26px, 28px, etc. if you want it larger */
+    font-weight: 700;
+    animation: rainbowGlow 3s linear infinite;
+  }
 
-}
+  @keyframes rainbowGlow {
+    0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
+    25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
+    50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
+    75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
+    100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
+  }
+</style>
+
 
 
 </style>
