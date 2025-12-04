@@ -86,5 +86,5 @@ The show received significant attention, including a detailed critique in **The 
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#revisionist-modernism-moca-dc-1994-95-row)
 
