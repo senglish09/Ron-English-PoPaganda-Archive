@@ -29,22 +29,10 @@
   }
 </style>
 
-<div class="top-nav">
-  <a href="../index.html">Home</a>
-  <a href="solo-exhibitions.html">Solo exhibitions</a>
-  <a href="group-exhibitions.html">Group exhibitions</a>
-  <a href="../murals-and-street-works.html">Murals &amp; street works</a>
-  <a href="../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
-  <a href="../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
-  <a href="../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
-  <a href="../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
-  <a href="../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
-  <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
-</div>
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#avant-garde-urbano-2013-row)
+
 
 # 2013 – Avant-Garde Urbano mural (Spain)
 
@@ -63,3 +51,5 @@ In 2013 Ron English participated in the Avant-Garde Urbano mural program in Spai
 - [Arrested Motion – “Streets: Ron English for Avant-Garde Urbano, Spain” (Oct 2013)](https://arrestedmotion.com/2013/10/streets-ron-english-for-avant-garde-urbano-spain/)  
 - [Pinterest – “Zelephant-themed mural by Ron English in Spain 2013” (photo from the event)](https://de.pinterest.com/pin/490329478155771951/)  
 
+
+[⬅ Back to murals index](../murals-and-street-works.html#avant-garde-urbano-2013-row)
