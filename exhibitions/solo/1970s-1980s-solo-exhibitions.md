@@ -27,14 +27,15 @@
   }
 
   .mural-thumb {
-    max-width: 50px;
+    max-width: 50px;   /* adjust size here if you ever use the class */
     height: auto;
     display: block;
   }
 
+  /* TABLE STYLING */
   table {
-    font-size: 18px;
-    color: #111;
+    font-size: 18px;          /* bigger text */
+    color: #111;              /* darker text */
     border-collapse: collapse;
     width: 100%;
   }
@@ -48,26 +49,27 @@
   }
 
   table th {
-    font-weight: 700;
+    font-weight: 700;         /* bold headers */
   }
 
   table td {
-    font-weight: 500;
+    font-weight: 500;         /* slightly bold body text */
   }
 </style>
 
 <div class="top-nav">
-  <a href="../../index.html">Home</a>
-  <a href="../solo-exhibitions.html">Solo exhibitions</a>
-  <a href="../group-exhibitions.html">Group exhibitions</a>
-  <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
-  <a href="../../pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
-  <a href="../../benefit-auctions-charity-projects.html">Benefit auctions &amp; charity projects</a>
-  <a href="../../film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
-  <a href="../../digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
-  <a href="../../public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
-  <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
+  <a href="index.html">Home</a>
+  <a href="solo-exhibitions.html">Solo exhibitions</a>
+  <a href="group-exhibitions.html">Group exhibitions</a>
+  <a href="murals-and-street-works.html">Murals &amp; street works</a>
+  <a href="pop-ups-shops-brand-activations.html">Pop-ups, shops &amp; brand activations</a>
+  <a href="benefit-auctions-charity-projects.html">Benefit auctions, charity projects</a>
+  <a href="film-screenings-festivals-film-events.html">Film screenings, festivals &amp; film events</a>
+  <a href="digital-projects-nft-crypto-art.html">Digital projects, NFT &amp; crypto-art</a>
+  <a href="public-talks-lectures-book-signings.html">Public talks, lectures &amp; book signings</a>
+  <a href="special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
+
 
 
 # 1970s and 1980s Solo Exhibitions
