@@ -59,7 +59,21 @@
   table td {
     font-weight: 500;
   }
-</style>
+.glow-text {
+  font-size: 24px;
+  font-weight: 700;
+  animation: rainbowGlow 3s linear infinite;
+}
+
+@keyframes rainbowGlow {
+  0%   { color: #ff4bd7; text-shadow: 0 0 12px #ff4bd7; }
+  25%  { color: #ff9b4b; text-shadow: 0 0 12px #ff9b4b; }
+  50%  { color: #ffd84b; text-shadow: 0 0 12px #ffd84b; }
+  75%  { color: #7eff4b; text-shadow: 0 0 12px #7eff4b; }
+  100% { color: #4bafff; text-shadow: 0 0 12px #4bafff; }
+}
+
+}
 
 <div class="top-nav">
   <a href="../index.html">Home</a>
@@ -76,8 +90,8 @@
 
 # 1990s Solo Exhibitions
 
-Solo exhibitions by Ron English during the 1990s.  
-**Click on each image to see more information.**
+### Early solo exhibitions, studio presentations, and experimental shows from Ron English’s first two decades of activity.  
+<span class="glow-text">Click on each image to see more information</span>
 
 | Image | Year | Dates | Venue | Title |
 |-------|------|-------|-------|-------|
