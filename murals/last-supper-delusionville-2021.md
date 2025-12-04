@@ -29,7 +29,7 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#last-supper-delusionville-2021-row)
+
 
 # 2021 – “The Last Supper in Delusionville” (Miami, Art Basel)
 
@@ -73,3 +73,4 @@ Painted in Wynwood during the annual flood of Art Basel street-art activations, 
 - **Popaganda (Ron English official site)** – Delusionville characters & Miami appearances  
   https://popaganda.com/tag/delusionville/  
 
+[⬅ Back to murals index](../murals-and-street-works.html#last-supper-delusionville-2021-row)
