@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#spider-house-face-2015-row)
+
 
 # 2015 – “Grin” façade mural at Spider House (SXSW/RXSM)
 
@@ -49,4 +49,6 @@ During the SXSW/RXSM festivities in mid-March 2015, Ron English painted this sta
 - [The Daily Texan – “Spider House mural concerns reader” (mentions Ron English’s SXSW murals)](https://www.dailytexanonline.com/2015/03/23/spiderhouse-mural-concerns-reader/)  
 - [Montana Cans Blog – “Risk & Ron English’s latest mural, Austin, Texas”](https://www.montana-cans.blog/risk-ron-englishs-latest-mural-austin-texas/)  
 - [Popaganda – RXSM / Spider House festival activity](https://www.popaganda.com/news/archive-rxsm-the-expression)  
-- [Ron English – social media (March 14–15, 2015 posts)](https://www.instagram.com/ronenglishart/)  
+- [Ron English – social media (March 14–15, 2015 posts)](https://www.instagram.com/ronenglishart/)
+
+[⬅ Back to murals index](../murals-and-street-works.html#spider-house-face-2015-row)
