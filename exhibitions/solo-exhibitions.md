@@ -74,11 +74,6 @@
 This section organizes Ron English’s solo exhibitions by decade.  
 Click a decade below to view the full tables.
 
-# Solo Exhibitions
-
-This section organizes Ron English’s solo exhibitions by decade.  
-Click a decade below to view the full tables.
-
 - [2020s solo exhibitions](2020s-solo-exhibitions.html)
 - [2010s solo exhibitions](2010s-solo-exhibitions.html)
 - [2000s solo exhibitions](2000s-solo-exhibitions.html)
