@@ -29,7 +29,6 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#corey-helford-2015-row)
 
 # 2015 – Corey Helford Gallery: “Monarch Elephant” (Los Angeles)
 
@@ -53,3 +52,4 @@ The mural became a signature landmark for the gallery and remains one of English
 - [Instagram – Ron English post (Dec 8, 2015): “Painted a new mural on the side of the new Corey Helford Gallery today.”](https://www.instagram.com/ronenglishart/)  
 - [StreetArt360 – “Best of Los Angeles Street Art” (includes Monarch Elephant by Ron English)](https://streetart360.net/)  
 
+[⬅ Back to murals index](../murals-and-street-works.html#corey-helford-2015-row)
