@@ -30,7 +30,6 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#miami-popmart-2019-row)
 
 # 2019 – Entrance mural for POP MART (Art Basel Miami)
 
@@ -47,3 +46,5 @@
 - [Widewalls – Art Basel Miami 2019 street art coverage](https://www.widewalls.ch/magazine/art-basel-miami-2019-street-art-wynwood)
 - [Wynwood Official Events – POP MART Delusionville pop-up](https://wynwoodmiami.com/event/ron-english-popmart-delusionville/)
 - [Arrested Motion – Ron English Art Basel 2019](https://arrestedmotion.com/tag/ron-english/)
+
+[⬅ Back to murals index](../murals-and-street-works.html#miami-popmart-2019-row)
