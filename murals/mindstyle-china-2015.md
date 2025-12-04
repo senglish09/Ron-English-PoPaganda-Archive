@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#mindstyle-china-2015-row)
+
 
 # 2015 – MC Supersized & Grin mural (MINDstyle Headquarters, China)
 
@@ -50,3 +50,5 @@ This mural features Ron English’s iconic **MC Supersized** and **Grin** charac
 - [Pop Life Global – Artist Profile (Ron English)](https://www.poplife-global.com/artist/ron-english)  
 - [MINDstyle archives (via Wayback Machine)](https://web.archive.org/web/20150901000000*/http://www.mindstyle.com)  
 - [Pop Life / MINDstyle corporate walkthrough – murals visible](https://www.youtube.com/watch?v=Y2oOZtU9PsU)
+
+[⬅ Back to murals index](../murals-and-street-works.html#mindstyle-china-2015-row)
