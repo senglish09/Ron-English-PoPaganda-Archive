@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#zelephant-south-haven-2014-row)
+
 
 # 2014 – “Zelephant” mural (Waterfront Film Festival)
 
@@ -49,4 +49,6 @@ Ron English painted the **“Zelephant”** mural during the **Waterfront Film F
 - [Pinterest – Zelephant mural in South Haven](https://co.pinterest.com/pin/zelephantthemed-mural-by-ron-english-in-south-haven-michigan--362962051197152524/)  
 - [YouTube – Ron English at Waterfront Film Festival (2014)](https://www.youtube.com/watch?v=F1dwyWdyDTY)  
 - [Facebook – Ron English photo archive (South Haven mural post)](https://www.facebook.com/photo/?fbid=10152964066156165&set=a.377497681164)  
-- [MLive – Waterfront Film Festival coverage (mentions live art events)](https://www.mlive.com/)  
+- [MLive – Waterfront Film Festival coverage (mentions live art events)](https://www.mlive.com/)
+
+  [⬅ Back to murals index](../murals-and-street-works.html#zelephant-south-haven-2014-row)
