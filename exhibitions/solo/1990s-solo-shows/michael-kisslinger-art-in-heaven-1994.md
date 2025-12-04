@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/kisslinger.jpg"
+<img src="../../../images/Exhibitions/Solo/kisslinger.jpg"
      alt="Ron English — Art in Heaven, Michael Kisslinger Gallery, 1994"
      class="exhibit-image">
 
