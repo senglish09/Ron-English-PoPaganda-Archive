@@ -44,7 +44,7 @@
   <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#annus-mirabilis-kwikwash-gallery-1979-row)
+
 
 # c. 1979 – *Annus ... Mirabilis* (Kwikwash Gallery, Houston)
 
@@ -64,3 +64,5 @@ The show marks one of his first documented solo presentations in Texas, setting 
 ## Sources
 
 - Invitation card: *Eye/Hand Coordination — Annus ... Mirabilis* (Kwikwash Gallery, 3207 Montrose, Houston, opening 7 Dec 1979, 7–10 p.m.).
+
+[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#annus-mirabilis-kwikwash-gallery-1979-row)
