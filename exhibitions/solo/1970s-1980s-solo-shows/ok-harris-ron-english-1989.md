@@ -44,7 +44,7 @@
   <a href="../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#ok-harris-ron-english-1989-row)
+
 
 # 1989 – *Ron English* (OK Harris Works of Art, New York)
 
@@ -66,3 +66,5 @@ As one of English’s first documented New York solo exhibitions, the show helpe
 
 - [Gallery 98 – *Ron English, OK Harris Gallery* (exhibition card, 1989)](https://gallery98.org/2021/ok-harris-gallery-ron-english-card-1989)  
 - [OK Harris – *Exhibition Schedule 1979–1989* (PDF)](https://www.okharris.com/previous/2ExhSchedSept1979-July1989.pdf)
+
+[⬅ Back to 1970s–1980s solo exhibitions](../1970s-1980s-solo-exhibitions.html#ok-harris-ron-english-1989-row)
