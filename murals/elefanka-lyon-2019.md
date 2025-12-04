@@ -31,7 +31,6 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#elefanka-lyon-2019-row)
 
 # 2019 – *Elefanka* (Lyon, France)
 
@@ -57,3 +56,5 @@ Guides and walking-tour circuits list it as an unexpected POPaganda appearance a
 - [Bleu Saturne – Balade street art Lyon](https://bleusaturne.wordpress.com/2020/01/23/balade-street-art-lyon/)
 - [Lucky Sophie – Street art Murs XXL Lyon](https://www.luckysophie.com/2023/01/street-art-murs-xxl-a-lyon.html)
 
+
+[⬅ Back to murals index](../murals-and-street-works.html#elefanka-lyon-2019-row)
