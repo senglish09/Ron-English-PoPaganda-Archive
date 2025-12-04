@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/inbred.jpg"
+<img src="../../../images/Exhibitions/Solo/inbred.jpg"
      alt="Ron English — Inbred/Hybrid, Gallery Stendhal, 1991"
      class="exhibit-image">
 
