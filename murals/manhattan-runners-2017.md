@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#manhattan-runners-2017-row)
+
 
 # 2017 – *Manhattan Runners* (NYC Marathon Mural)
 
@@ -56,3 +56,4 @@ Press coverage highlighted how the project tied contemporary muralism to one of 
 - [Women’s Running – Murals across NYC celebrating the marathon](https://www.womensrunning.com/culture/murals-5-boroughs-celebrate-nyc-marathon/)
 
 
+[⬅ Back to murals index](../murals-and-street-works.html#manhattan-runners-2017-row)
