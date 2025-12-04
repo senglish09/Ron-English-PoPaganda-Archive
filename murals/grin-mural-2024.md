@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#grin-mural-2024-row)
+
 
 # 2024 – “Grin” mural (Public Pool, Greenpoint)
 
@@ -51,3 +51,5 @@ Ron English created this large-scale **“Grin” Smiley skull** mural in early 
 - [Public Pool NYC – Project overview (Ron English listed among participating artists)](https://publicpool.nyc/)  
 - [Instagram – Ron English (work-in-progress posts)](https://www.instagram.com/ronenglishart/)  
 - [Greenpointers – street art updates in Greenpoint (features Public Pool projects)](https://greenpointers.com/)  
+
+[⬅ Back to murals index](../murals-and-street-works.html#grin-mural-2024-row)
