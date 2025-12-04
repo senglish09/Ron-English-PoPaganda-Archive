@@ -41,7 +41,7 @@
 </style>
 
 <div class="top-nav">
-  <a href="../../index.html">Home</a>
+  <a href="../../../index.html">Home</a>
   <a href="../../solo-exhibitions.html">Solo exhibitions</a>
   <a href="../../group-exhibitions.html">Group exhibitions</a>
   <a href="../../murals-and-street-works.html">Murals &amp; street works</a>
@@ -53,13 +53,15 @@
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
+
 # Thomas V. Robinson / Robinson Galleries — FotoFest ’90 (1990)
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/fotofest90.jpg"
-     alt="Ron English — FotoFest ’90 solo exhibition at Thomas V. Robinson / Robinson Galleries, Houston, 1990"
-     class="exhibit-image">
+<img src="../../../images/Exhibitions/Solo/fotofest90.jpg"
+alt="Ron English — FotoFest ’90 solo exhibition at Thomas V. Robinson / Robinson Galleries, Houston, 1990"
+class="exhibit-image">
+
 
 **Year:** 1990  
 **Dates:** February 11 – March 3, 1990  
@@ -85,4 +87,5 @@ The works pushed documentary photography toward staged spectacle, blurring the l
 ---
 
 ## Back to list
-➡️ [Return to 1990s Solo Exhibitions](1990s-solo-exhibitions.html)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#fotofest-1990-robinson-galleries-row)
+
