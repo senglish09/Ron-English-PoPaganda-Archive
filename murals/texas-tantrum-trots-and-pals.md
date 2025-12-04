@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#texas-tantrum-trots-and-pals-row)
+
 
 # 2022 – *Texas Tantrum Trots and Pals* (Deep ElIum, Dallas)
 
@@ -59,3 +59,4 @@ Blending POPaganda characters with Texas-themed surrealism, the work immediately
 - [CultureMap Dallas – Deep Ellum mural article](https://dallas.culturemap.com/news/arts/deep-ellum-mural-ron-english/)
 
 
+[⬅ Back to murals index](../murals-and-street-works.html#texas-tantrum-trots-and-pals-row)
