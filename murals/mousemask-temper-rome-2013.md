@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#mousemask-temper-rome-2013-row)
+
 
 # 2013 – Temper Tot & Mousemask Murphy  
 **Quadraro, Rome (M.U.Ro project)**
@@ -59,3 +59,4 @@ Painted for Rome’s open-air museum **M.U.Ro (Museo di Urban Art di Roma)**, th
 - [Il Fatto Quotidiano – Ron English a Roma](https://www.ilfattoquotidiano.it/2013/10/30/ron-english-a-roma-lartista-americano-porta-temper-tot-e-mousemask-murphy-nel-quadraro/763708/)
 - [Il Post – Ron English al Quadraro, Roma](https://www.ilpost.it/2013/10/30/ron-english-quadraro-roma/)
 
+[⬅ Back to murals index](../murals-and-street-works.html#mousemask-temper-rome-2013-row)
