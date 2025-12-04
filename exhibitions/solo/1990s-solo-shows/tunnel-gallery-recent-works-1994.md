@@ -85,5 +85,6 @@ Presented during a period when English was increasingly merging large-scale adve
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#tunnel-gallery-recent-works-1994-row)
+
 
