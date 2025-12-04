@@ -53,7 +53,7 @@
   <a href="../../special-events-parties-tours.html">Special events, parties &amp; tours</a>
 </div>
 
-[⬅ Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#art-bar-cafe-dallas-1990s-row)
+
 
 # Art Bar & Café — Dallas (c. 1990s)
 
@@ -81,3 +81,5 @@ While modest in scale, the event reflects English’s growing presence in indepe
 
 - **Showcard:** *Ron English — Art Bar & Café* (Dallas, c. 1990s).  
   *(Physical ephemera provided by archive.)*
+  
+[⬅ Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#art-bar-cafe-dallas-1990s-row)
