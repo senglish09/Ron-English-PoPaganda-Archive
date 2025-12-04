@@ -29,7 +29,7 @@
   }
 </style>
 
-[⬅ Back to murals index](../murals-and-street-works.html#stlouis-loop-mural-2024-row)
+
 
 # 2024 – St. Louis: Loop Mural Festival
 
@@ -50,3 +50,4 @@ Ron English participated in the **2024 Loop Mural Festival** in St. Louis, contr
 - [Visit The Loop – Ron English tag](https://visittheloop.com/tag/ron-english/)  
 - [Instagram – Ron English post “Hello St Louis! #streetart #stlouis #theloopmuralfestival” (May 31, 2024)](https://www.instagram.com/p/C7pjS9sOZEF/)  
 
+[⬅ Back to murals index](../murals-and-street-works.html#stlouis-loop-mural-2024-row)
