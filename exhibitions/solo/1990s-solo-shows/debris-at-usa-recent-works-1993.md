@@ -58,7 +58,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../images/Exhibitions/Solo/debris.jpg"
+<img src="../../../images/Exhibitions/Solo/debris.jpg"
      alt="Ron English — Recent Works, Debris at USA (Big Bottom Lounge), 1993"
      class="exhibit-image">
 
