@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#blackocean-pool-2014-row)
+
 
 # 2014 – Rooftop trompe-l’œil “Pool” (Black Ocean, Chelsea)
 
@@ -46,4 +46,4 @@ The work creates the appearance of a glowing, sunlit swimming pool when viewed f
 
 - [Ron English – Instagram (Nov 5, 2014)](https://www.instagram.com/p/vCz3Bsk8Dt/)
 
- [⬅ Back to murals index](../murals-and-street-works.html#blackocean-pool-2014-row)
+[⬅ Back to murals index](../murals-and-street-works.html#blackocean-pool-2014-row)
