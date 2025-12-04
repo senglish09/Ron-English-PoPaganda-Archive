@@ -31,7 +31,7 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#punk-pink-skunk-2021-row)
+
 
 # 2021 – “Punk & Pink Skunk” (Coney Island)
 
@@ -55,3 +55,5 @@ Ron English’s **“Punk & Pink Skunk”** mural was painted in late May 2021 a
 - [Instagram – Ron English (work-in-progress photos posted May 29, 2021)](https://www.instagram.com/ronenglishart/)  
 - [Brooklyn Street Art – coverage of Coney Art Walls (Ron English recurring participant)](https://www.brooklynstreetart.com/?s=Ron+English)  
 - [AMNY – Coney Art Walls 2021 reopening report](https://www.amny.com/entertainment/coney-art-walls-reopens-2021/)  
+
+[⬅ Back to murals index](../murals-and-street-works.html#punk-pink-skunk-2021-row)
