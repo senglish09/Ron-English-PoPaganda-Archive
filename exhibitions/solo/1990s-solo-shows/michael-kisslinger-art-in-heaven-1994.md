@@ -85,5 +85,6 @@ The exhibition featured paintings, drawings and photographs reflecting English�
 ---
 
 ## Back to list  
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#michael-kisslinger-art-in-heaven-1994-row)
+
 
