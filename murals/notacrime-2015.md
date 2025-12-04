@@ -31,7 +31,6 @@
 
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#notacrime-2015-row)
 
 # 2015 – #NotACrime “Three Wise Monkeys”  
 **New York City — Human Rights Campaign**
@@ -58,3 +57,5 @@ More than 40 international artists contributed to the initiative, and English’
 - [Brooklyn Street Art – Education Is Not A Crime, Harlem](https://www.brooklynstreetart.com/2015/09/22/education-is-not-crime-harlem/)
 - [StreetArtNews – Ron English for Not A Crime](https://streetartnews.net/2015/09/new-york-ron-english-for-notacrime.html)
 - [BBC News – Education Is Not A Crime campaign](https://www.bbc.com/news/world-us-canada-34330806)
+
+[⬅ Back to murals index](../murals-and-street-works.html#notacrime-2015-row)
