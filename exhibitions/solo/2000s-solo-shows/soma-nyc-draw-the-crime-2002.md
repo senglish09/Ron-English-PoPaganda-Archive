@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/2000s/soma-nyc-draw-the-crime-2002-hero.jpg"
+<img src="../../../images/Exhibitions/Solo/soma-nyc-draw-the-crime-2002-hero.jpg"
      alt="Ron English — Draw the Crime: The Subversions of Ron English, Soma NYC, 2002"
      class="exhibit-image">
 
