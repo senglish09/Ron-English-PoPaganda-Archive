@@ -30,7 +30,7 @@
 </style>
 ---
 
-[⬅ Back to murals index](../murals-and-street-works.html#rxsm-spiderhouse-2015-row)
+
 
 # 2015 – RXSM / Spider House Ballroom mural  
 **Austin, Texas — collaboration with RISK**
@@ -58,3 +58,6 @@ Popaganda, Montana-Cans, and local blogs frame the piece as a defining moment of
 - [POPaganda – Archive: POPaganda x SXSW “Awesome”](https://www.popaganda.com/news/archive-popaganda-x-sxsw-awesome)
 - [POPaganda – Archive: RXSM “The Expression”](https://www.popaganda.com/news/archive-rxsm-the-expression)
 - [The Daily Texan – Spiderhouse mural concerns reader](https://www.dailytexanonline.com/2015/04/23/spiderhouse-mural-concerns-reader/)
+
+
+[⬅ Back to murals index](../murals-and-street-works.html#rxsm-spiderhouse-2015-row)
