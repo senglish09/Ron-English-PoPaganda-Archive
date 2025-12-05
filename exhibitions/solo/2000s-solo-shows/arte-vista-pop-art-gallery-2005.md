@@ -45,7 +45,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/2000s/arte-vista-pop-art-gallery-2005-hero.jpg"
+<img src="../../../images/Exhibitions/Solo/artevista2.jpg"
      alt="Ron English — Arte Vista Pop-Art Gallery Exhibition, 2005"
      class="exhibit-image">
 
