@@ -44,10 +44,18 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/agitpop.jpg"
+<img src="../../../images/Exhibitions/Solo/agitpopa2.jpg"
      alt="Ron English — Agit-Pop America, Gallery Stendhal, 1997"
      class="exhibit-image">
-
+     
+<img src="../../../images/Exhibitions/Solo/Agit-Pop-1.jpg"
+     alt="Ron English — Agit-Pop America, Gallery Stendhal, 1997"
+     class="exhibit-image">
+     
+<img src="../../../images/Exhibitions/Solo/Agit-pop-after-party.jpg"
+     alt="Ron English — Agit-Pop America, Gallery Stendhal, 1997"
+     class="exhibit-image">
+     
 **Year:** 1997  
 **Dates:** April 3 – April 30, 1997  
 **Venue:** Gallery Stendhal  
