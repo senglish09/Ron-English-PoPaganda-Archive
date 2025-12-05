@@ -45,10 +45,15 @@
 
 ### **Solo Exhibition**
 
+<img src="../../../images/Exhibitions/Solo/pigpicturepop2.jpg"
+     alt="Ron English — Big Picture Pop, Opera Gallery, 2007"
+     class="exhibit-image">
+
 <img src="../../../images/Exhibitions/Solo/pigpicturepop.webp"
      alt="Ron English — Big Picture Pop, Opera Gallery, 2007"
      class="exhibit-image">
 
+     
 **Year:** 2007  
 **Dates:** November 29 – late December 2007  
 **Venue:** Opera Gallery (SoHo)  
