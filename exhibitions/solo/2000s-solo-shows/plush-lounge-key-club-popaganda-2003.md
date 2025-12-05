@@ -45,7 +45,7 @@
 
 ### **Solo Presentation / One-Night Event**
 
-<img src="../../../images/Exhibitions/Solo/2000s/Plush-Lounge.webp"
+<img src="../../../images/Exhibitions/Solo/Plush-Lounge.webp"
      alt="Ron English — POPaganda: The Art and Subversion of Ron English, Plush Lounge at the Key Club, 2003"
      class="exhibit-image">
 
