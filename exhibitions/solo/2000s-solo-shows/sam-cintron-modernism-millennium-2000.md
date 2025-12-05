@@ -49,6 +49,10 @@
      alt="Ron English — Modernism for a New Millennium, Sam Cintron Gallery, 2000"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Modernism-for-a-new-millenium-1.jpg"
+     alt="Ron English — Modernism for a New Millennium, Sam Cintron Gallery, 2000"
+     class="exhibit-image">
+
 **Year:** 2000  
 **Dates:** January 27 – February 27, 2000  
 **Venue:** Sam Cintron Gallery  
