@@ -45,7 +45,7 @@
 
 ### **Photography Exhibition**
 
-<img src="../../../images/Exhibitions/solo/Midtown-Y-Photo.jpg"
+<img src="../../../images/Exhibitions/Solo/Midtown-Y-Photo.jpg"
      alt="Ron English — Photographs Exhibition at Midtown Y Photography Gallery, 1988"
      class="exhibit-image">
 
@@ -61,11 +61,9 @@
 
 ## Overview
 
-In 1988, Midtown Y Photography Gallery included Ron English in a group photography exhibition alongside other emerging photographers. The gallery’s archival records list English as one of the exhibited photographers during the period May–June 1988. :contentReference[oaicite:3]{index=3}  
+In 1988, Midtown Y Photography Gallery included Ron English in a group photography exhibition alongside other emerging photographers. The gallery’s archival records list English as one of the exhibited photographers during the period May–June 1988.  
 
-This show predates English’s later well-known Popaganda work and hints at a lesser-known photographic phase in his career. The exhibition likely presented black-and-white or documentary-style photographs, fitting the gallery’s mission of promoting emerging and experimental photographers. :contentReference[oaicite:4]{index=4}  
-
----
+This show predates English’s later well-known Popaganda work and hints at a lesser-known photographic phase in his career. The exhibition likely presented black-and-white or documentary-style photographs, fitting the gallery’s mission of promoting emerging and experimental photographers. 
 
 ## Sources & Archival Reference
 
