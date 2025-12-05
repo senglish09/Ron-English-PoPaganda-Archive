@@ -45,10 +45,14 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/Immortal Underground, 2009.jpg"
+<img src="../../../images/Exhibitions/Solo/Immortal Underground.jpg"
      alt="Ron English — Immortal Underground, Opera Gallery, 2009"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Opera Gallery Nov 2009 New York Immortal Underground 1.jpg"
+     alt="Ron English — Immortal Underground, Opera Gallery, 2009"
+     class="exhibit-image">
+     
 **Year:** 2009  
 **Dates:** November 12 – December 2, 2009  
 **Venue:** Opera Gallery (SoHo)  
