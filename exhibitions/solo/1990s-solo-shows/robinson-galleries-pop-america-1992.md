@@ -49,6 +49,10 @@
      alt="Ron English — Pop America, Robinson Galleries, 1992"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/pop-america-1.jpg"
+     alt="Ron English — Pop America, Robinson Galleries, 1992"
+     class="exhibit-image">
+     
 **Year:** 1992  
 **Dates:** February 9 – (unspecified), 1992  
 **Venue:** Thomas V. Robinson Galleries  
