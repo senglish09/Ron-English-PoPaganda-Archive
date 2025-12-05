@@ -49,6 +49,14 @@
      alt="Ron English — Draw the Crime: The Subversions of Ron English, Soma NYC, 2002"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Draw the Crime - The Subversions of Ron English, 2002.jpg"
+     alt="Ron English — Draw the Crime: The Subversions of Ron English, Soma NYC, 2002"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/Draw the Crime - The Subversions of Ron English, 2012.jpg"
+     alt="Ron English — Draw the Crime: The Subversions of Ron English, Soma NYC, 2002"
+     class="exhibit-image">
+
 **Year:** 2002  
 **Dates:** October 3 – December 3, 2002  
 **Venue:** Soma NYC Counter Culture Store-Gallery  
