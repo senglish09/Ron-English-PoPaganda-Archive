@@ -50,6 +50,10 @@
      alt="Ron English — Art in Heaven, Wunderlich Gallery, 1994"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Art-in-Heaven-Wunderlich-2.jpg"
+     alt="Ron English — Art in Heaven, Wunderlich Gallery, 1994"
+     class="exhibit-image">
+     
 **Year:** 1994  
 **Dates:** February 5 – March 19, 1994  
 **Venue:** Wunderlich Gallery  
