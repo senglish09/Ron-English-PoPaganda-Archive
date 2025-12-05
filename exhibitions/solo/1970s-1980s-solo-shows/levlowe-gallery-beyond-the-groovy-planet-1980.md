@@ -45,7 +45,7 @@
 ### Levlowe Gallery, New York (1980)
 
 ### **Solo Exhibition**
-
+     
 <img src="../../../images/Exhibitions/Solo/Beyond-the-Groovy-Planet.jpg"
      alt="Ron English — Beyond the Groovy Planet, Levlowe Gallery, 1980"
      class="exhibit-image">
