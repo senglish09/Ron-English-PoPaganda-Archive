@@ -50,6 +50,14 @@
      alt="Ron English — Inbred/Hybrid, Gallery Stendhal, 1991"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Inbred-Hybred-1.jpg"
+     alt="Ron English — Inbred/Hybrid, Gallery Stendhal, 1991"
+     class="exhibit-image">
+
+<img src="../../../images/Exhibitions/Solo/inbred-hybred.jpg"
+     alt="Ron English — Inbred/Hybrid, Gallery Stendhal, 1991"
+     class="exhibit-image">
+
 **Year:** 1991  
 **Dates:** September 14 – October 13, 1991  
 **Venue:** Gallery Stendhal  
