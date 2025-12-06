@@ -50,6 +50,10 @@
      alt="Ron English — Crucial Fiction at Opera Gallery, New York, 2012"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Crucial Fiction, 2012.jpg"
+     alt="Ron English — Crucial Fiction at Opera Gallery, New York, 2012"
+     class="exhibit-image">
+
 **Year:** 2012  
 **Dates:** November 1 – 29, 2012  
 **Venue:** Opera Gallery  
