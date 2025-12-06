@@ -50,7 +50,7 @@
      alt="Ron English — POPaganda in Japan at Public/Image.3D, Tokyo, 2011"
      class="exhibit-image">
      
-<img src="../../../images/Exhibitions/Solo/POPaganda in Japan, 2011.jpg"
+<img src="../../../images/Exhibitions/Solo/POPaganda in Japan, 2011.JPG"
      alt="Ron English — POPaganda in Japan at Public/Image.3D, Tokyo, 2011"
      class="exhibit-image">
      
