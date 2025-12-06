@@ -74,6 +74,6 @@ The event merged art exhibition, album visual premiere and film preview, present
 
 ---
 
-## Back to list  
+## Back to list
 
-➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#plush-lounge-key-club-popaganda-2003-row)
+➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#key-club-plush-lounge-popaganda-2003-row)
