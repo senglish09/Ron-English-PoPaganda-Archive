@@ -49,7 +49,11 @@
 <img src="../../../images/Exhibitions/Solo/Status Factory By Ron English, 2010 (1).jpg"
      alt="Ron English — Status Factory at Opera Gallery, New York, 2010"
      class="exhibit-image">
-
+     
+<img src="../../../images/Exhibitions/Solo/Status Factory By Ron English, 2010 (4).jpg"
+     alt="Ron English — Status Factory at Opera Gallery, New York, 2010"
+     class="exhibit-image">
+     
 **Year:** 2010  
 **Dates:** September 12 – October 29, 2010  
 **Venue:** Opera Gallery  
