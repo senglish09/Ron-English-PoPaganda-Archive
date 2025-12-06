@@ -46,7 +46,7 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/skin-deep-psychological-portraiture-2011.jpg"
+<img src="../../../images/Exhibitions/Solo/Skin Deep_ Post-Instinctual Afterthoughts on Psychological Portraiture, 2011.jpg"
      alt="Ron English — Skin Deep, Lazarides (Rathbone Place), London, 2011"
      class="exhibit-image">
 
