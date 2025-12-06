@@ -77,6 +77,8 @@ Part of the show’s proceeds supported the **Guggenheim Museum’s Learning Thr
 
 ---
 
-## Back to list
-➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#<anchor-id-for-this-row>)
+## Back to list  
+
+➡️ [Return to 1990s Solo Exhibitions](../1990s-solo-exhibitions.html#gallery-stendhal-heykid-1992-row)
+
 
