@@ -74,9 +74,6 @@ Presented in one of the Bronx’s most influential avant-garde art institutions,
 - Exhibition card (physical ephemera; all details taken directly from the card)
 
 ---
-
-## Back to list  
-
 ## Back to list  
 
 ➡️ [Return to 1970s–1980s Solo Exhibitions](../1970s-1980s-solo-exhibitions.html#fashion-moda-showflaps-billboards-indoors-outdoors-row)
