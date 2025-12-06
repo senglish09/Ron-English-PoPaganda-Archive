@@ -74,4 +74,5 @@ The release attracted interest as part of the cultural conversation around the 2
 
 ## Back to list
 
-➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#opera-gallery-abraham-obama-2008-row)
+➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#opera-gallery-abraham-obama-ron-english-2008-row)
+
