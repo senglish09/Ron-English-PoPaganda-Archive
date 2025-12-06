@@ -46,11 +46,11 @@
 
 ### **Solo Exhibition**
      
-<img src="../../../images/Exhibitions/Solo/seasons-in-supurbia-2011-1.jpg"
+<img src="../../../images/Exhibitions/Solo/Seasons in Supurbia, 2011-1.jpg"
      alt="Ron English — Seasons in Supurbia at Corey Helford Gallery, 2011"
      class="exhibit-image">
 
-<img src="../../../images/Exhibitions/Solo/seasons-in-supurbia-2011-2.jpg"
+<img src="../../../images/Exhibitions/Solo/Seasons in Supurbia, 2011-2.jpg"
      alt="Ron English — Seasons in Supurbia at Corey Helford Gallery, 2011"
      class="exhibit-image">
 
