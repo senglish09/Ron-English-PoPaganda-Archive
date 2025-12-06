@@ -77,4 +77,5 @@ This exhibition predates his billboard interventions and pop-icon subversions of
 
 ## Back to list  
 
-➡️ [Return to 1980s Solo Exhibitions](../1980s-solo-exhibitions.html#levlowe-gallery-groovy-planet-1980-row)
+➡️ [Return to 1970s–1980s Solo Exhibitions](../1970s-1980s-solo-exhibitions.html#levlowe-gallery-beyond-the-groovy-planet-1980-row)
+
