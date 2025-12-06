@@ -90,4 +90,4 @@ Installed in Varnish’s industrial gallery space, *Son of Pop* underlined how E
 
 ## Back to list  
 
-➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#varnish-son-of-pop-2005-row)
+➡️ [Return to 2000s Solo Exhibitions](../2000s-solo-exhibitions.html#varnish-fine-art-son-of-pop-2005-row)
