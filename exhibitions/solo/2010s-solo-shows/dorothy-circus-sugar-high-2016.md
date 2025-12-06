@@ -50,6 +50,10 @@
      alt="Ron English — Sugar High, Dorothy Circus Gallery, Rome, 2016"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/Sugar High, 2016.jpg"
+     alt="Ron English — Sugar High, Dorothy Circus Gallery, Rome, 2016"
+     class="exhibit-image">
+     
 **Year:** 2016  
 **Dates:** February 20 – March 31, 2016  
 **Venue:** Dorothy Circus Gallery  
