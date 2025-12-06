@@ -50,6 +50,10 @@
      alt="Ron English — Seasons in Supurbia at Corey Helford Gallery, 2011"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/seasons-in-supurbia-2011-2.jpg"
+     alt="Ron English — Seasons in Supurbia at Corey Helford Gallery, 2011"
+     class="exhibit-image">
+
 **Year:** 2011  
 **Dates:** November 19 – December 10, 2011  
 **Venue:** Corey Helford Gallery  
