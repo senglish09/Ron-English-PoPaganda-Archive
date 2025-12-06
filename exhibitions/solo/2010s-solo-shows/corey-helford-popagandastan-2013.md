@@ -50,6 +50,10 @@
      alt="Ron English — POPAGANDASTAN at Corey Helford Gallery, Los Angeles, 2013"
      class="exhibit-image">
 
+<img src="../../../images/Exhibitions/Solo/POPAGANDASTAN – New Works from Ron English, 2013.jpg"
+     alt="Ron English — POPAGANDASTAN at Corey Helford Gallery, Los Angeles, 2013"
+     class="exhibit-image">
+     
 **Year:** 2013  
 **Dates:** October 26 – November 16, 2013  
 **Venue:** Corey Helford Gallery  
