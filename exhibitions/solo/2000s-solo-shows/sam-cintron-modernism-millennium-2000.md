@@ -72,7 +72,7 @@ The opening reception reportedly drew **around a thousand visitors**, filling th
 ## Sources
 
 - ReverbNation — Sam Cintron profile:  
-  https://www.reverbnation.com/samcintron?popup_bio=true
+  [https://www.reverbnation.com/samcintron?popup_bio=true](https://www.reverbnation.com/samcintron?popup_bio=true)
 
 ---
 
