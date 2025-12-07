@@ -68,16 +68,17 @@ Preview coverage highlighted the show’s hybrid allegorical approach — blendi
 ## Sources
 
 - Preview: Ron English @ FIFTY24SF  
-  https://arrestedmotion.com/2009/01/preview-ron-english-fifty24sf/
+  [https://arrestedmotion.com/2009/01/preview-ron-english-fifty24sf/](https://arrestedmotion.com/2009/01/preview-ron-english-fifty24sf/)
 
 - Opening night: Ron English / Alex Pardee @ FIFTY24SF  
-  https://arrestedmotion.com/2009/01/openings-ron-englishalex-pardee-fifty24sf/
+  [https://arrestedmotion.com/2009/01/openings-ron-englishalex-pardee-fifty24sf/](https://arrestedmotion.com/2009/01/openings-ron-englishalex-pardee-fifty24sf/)
 
 - FIFTY24SF Gallery archive — Ron English category  
-  https://www.fifty24sf.com/archive?category=RON+ENGLISH
+  [https://www.fifty24sf.com/archive?category=RON+ENGLISH](https://www.fifty24sf.com/archive?category=RON+ENGLISH)
 
 - Gallery news page referencing the show  
-  https://www.fifty24sf.com/news/ron-english-mythographic-vicissitudes
+  [https://www.fifty24sf.com/news/ron-english-mythographic-vicissitudes](https://www.fifty24sf.com/news/ron-english-mythographic-vicissitudes)
+
 
 ---
 
