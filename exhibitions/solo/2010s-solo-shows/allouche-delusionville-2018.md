@@ -81,13 +81,16 @@ Exhibition presenting Ron English’s **latest studio paintings and sculptural w
 ## Sources
 
 - Allouche Gallery (Press Release)  
-  https://www.allouchegallery.com/wp-content/uploads/2023/09/Delusionville-Press-Release.pdf
+  [https://www.allouchegallery.com/wp-content/uploads/2023/09/Delusionville-Press-Release.pdf](https://www.allouchegallery.com/wp-content/uploads/2023/09/Delusionville-Press-Release.pdf)
+
 - GothamToGo  
-  https://gothamtogo.com/ron-english-returns-to-allouche-gallery-with-delusionville/
+  [https://gothamtogo.com/ron-english-returns-to-allouche-gallery-with-delusionville/](https://gothamtogo.com/ron-english-returns-to-allouche-gallery-with-delusionville/)
+
 - Arrested Motion  
-  https://arrestedmotion.com/2018/10/showing-ron-english-delusionville-allouche-gallery/
+  [https://arrestedmotion.com/2018/10/showing-ron-english-delusionville-allouche-gallery/](https://arrestedmotion.com/2018/10/showing-ron-english-delusionville-allouche-gallery/)
+
 - Hypebeast  
-  https://hypebeast.com/2018/10/ron-english-delusionville-allouche-gallery
+  [https://hypebeast.com/2018/10/ron-english-delusionville-allouche-gallery](https://hypebeast.com/2018/10/ron-english-delusionville-allouche-gallery)
 
 ---
 
