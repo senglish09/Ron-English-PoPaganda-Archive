@@ -70,21 +70,21 @@ This exhibition strengthened English’s foothold in the West Coast Pop Surreali
 ## Sources
 
 - Archive.org — *SF Bay Guardian* gallery listings (Nov. 2008 issue):  
-  https://archive.org/stream/Issue43.07/Issue43.07_djvu.txt  
-  https://archive.org/stream/Issue43.09/Issue43.09_djvu.txt  
+  [https://archive.org/stream/Issue43.07/Issue43.07_djvu.txt](https://archive.org/stream/Issue43.07/Issue43.07_djvu.txt)  
+  [https://archive.org/stream/Issue43.09/Issue43.09_djvu.txt](https://archive.org/stream/Issue43.09/Issue43.09_djvu.txt)
 
 - Arrested Motion — Opening and preview coverage:  
-  https://arrestedmotion.com/2008/11/openings-ron-english-shooting-gallery/  
-  https://arrestedmotion.com/2008/10/preview-ron-english-shooting-gallery/  
+  [https://arrestedmotion.com/2008/11/openings-ron-english-shooting-gallery/](https://arrestedmotion.com/2008/11/openings-ron-english-shooting-gallery/)  
+  [https://arrestedmotion.com/2008/10/preview-ron-english-shooting-gallery/](https://arrestedmotion.com/2008/10/preview-ron-english-shooting-gallery/)
 
 - Shooting Gallery archived page:  
-  https://shootinggallerysf.com/shows/ron-english/  
+  [https://shootinggallerysf.com/shows/ron-english/](https://shootinggallerysf.com/shows/ron-english/)
 
 - ArtBusiness.com — Opening night review and event photos:  
-  https://www.artbusiness.com/1open/110108.html  
+  [https://www.artbusiness.com/1open/110108.html](https://www.artbusiness.com/1open/110108.html)
 
 - Raw Art Weblog tag archive (2008 material referencing the show):  
-  https://www.rawartint.com/tag/ron-english/
+  [https://www.rawartint.com/tag/ron-english/](https://www.rawartint.com/tag/ron-english/)
 
 ---
 
