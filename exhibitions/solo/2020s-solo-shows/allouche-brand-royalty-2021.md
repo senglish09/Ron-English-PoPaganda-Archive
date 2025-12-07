@@ -78,19 +78,19 @@ Solo exhibition premiering around **twenty new paintings** in which Ron English 
 ## Sources
 
 - Allouche Gallery — Exhibition  
-  https://www.allouchegallery.com/exhibition/ron-english-brand-royalty/  
+  [https://www.allouchegallery.com/exhibition/ron-english-brand-royalty/](https://www.allouchegallery.com/exhibition/ron-english-brand-royalty/)
 
 - GothamToGo  
-  https://gothamtogo.com/ron-english-brand-royalty-opening-at-allouche-gallery-in-september/  
+  [https://gothamtogo.com/ron-english-brand-royalty-opening-at-allouche-gallery-in-september/](https://gothamtogo.com/ron-english-brand-royalty-opening-at-allouche-gallery-in-september/)
 
 - MutualArt  
-  https://www.mutualart.com/Exhibition/Ron-English--Brand-Royalty/CD08ECD849134C1A  
+  [https://www.mutualart.com/Exhibition/Ron-English--Brand-Royalty/CD08ECD849134C1A](https://www.mutualart.com/Exhibition/Ron-English--Brand-Royalty/CD08ECD849134C1A)
 
 - StreetArtNews  
-  https://streetartnews.net/tag/allouche-gallery  
+  [https://streetartnews.net/tag/allouche-gallery](https://streetartnews.net/tag/allouche-gallery)
 
 - MutualArt — Biography  
-  https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography  
+  [https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography](https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography)
 
 ---
 
