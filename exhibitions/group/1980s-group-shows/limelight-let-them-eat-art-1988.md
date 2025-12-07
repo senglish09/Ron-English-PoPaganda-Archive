@@ -42,7 +42,7 @@
      alt="Let Them Eat Art at Limelight, New York, circa 1988"
      class="exhibit-image">
 
-<img src="../../../images/Exhibitions/Group/Let-them-eat-art-1"
+<img src="../../../images/Exhibitions/Group/Let-them-eat-art-1.jpg"
      alt="Let Them Eat Art at Limelight, New York, circa 1988"
      class="exhibit-image">
      
