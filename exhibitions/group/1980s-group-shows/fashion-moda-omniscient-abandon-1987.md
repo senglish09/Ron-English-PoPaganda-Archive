@@ -46,10 +46,10 @@
 
 ### **Group Exhibition / Post-Art Environment**
 
-<img src="../../images/Exhibitions/Group/Omniscent-abandon-2.jpg"
+<img src="../../../images/Exhibitions/Group/Omniscent-abandon-2.jpg"
      alt="Omniscient Abandon at Fashion Moda, NYC, 1987–1988"
      class="exhibit-image">
-<img src="../../images/Exhibitions/Group/Omniscent-abandon-1.jpg"
+<img src="../../../images/Exhibitions/Group/Omniscent-abandon-1.jpg"
      alt="Omniscient Abandon at Fashion Moda, NYC, 1987–1988"
      class="exhibit-image">
      
