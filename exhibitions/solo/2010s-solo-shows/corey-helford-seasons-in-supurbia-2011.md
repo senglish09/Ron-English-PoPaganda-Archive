@@ -71,17 +71,22 @@ Eighteen-painting series critiquing suburban consumer culture through English’
 ## Sources
 
 - Corey Helford Gallery — press material  
-  https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/
+  [https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/](https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/)
+
 - Hypebeast  
-  https://hypebeast.com/2011/10/ron-english-seasons-in-supurbia-exhibition-corey-helford-gallery
+  [https://hypebeast.com/2011/10/ron-english-seasons-in-supurbia-exhibition-corey-helford-gallery](https://hypebeast.com/2011/10/ron-english-seasons-in-supurbia-exhibition-corey-helford-gallery)
+
 - Arrested Motion  
-  https://arrestedmotion.com/2011/11/preview-ron-english-corey-helford/
+  [https://arrestedmotion.com/2011/11/preview-ron-english-corey-helford/](https://arrestedmotion.com/2011/11/preview-ron-english-corey-helford/)
+
 - Corey Helford Gallery — archive  
-  https://coreyhelfordgallery.com/shows/corey-helford/year%3A2011/
+  [https://coreyhelfordgallery.com/shows/corey-helford/year%3A2011/](https://coreyhelfordgallery.com/shows/corey-helford/year%3A2011/)
+
 - Facebook  
-  https://m.facebook.com/ronenglishpresentspopaganda/posts/1309832100711600/
+  [https://m.facebook.com/ronenglishpresentspopaganda/posts/1309832100711600/](https://m.facebook.com/ronenglishpresentspopaganda/posts/1309832100711600/)
+
 - Artnet  
-  https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english
+  [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english)
 
 ---
 
