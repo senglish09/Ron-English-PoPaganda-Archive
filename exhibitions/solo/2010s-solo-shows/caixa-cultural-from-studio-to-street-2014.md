@@ -63,21 +63,26 @@
 Major Brazilian solo presentation surveying English’s **studio painting**, **public works**, and **POPaganda figuration**, connecting his billboard subversions to Brazilian street-visual traditions, launched in CAIXA Cultural’s prominent Rio de Janeiro gallery spaces.
 
 ---
-
 ## Sources
 
 - Rolling Stone Brasil  
-  https://rollingstone.com.br/noticia/ron-english-explora-hipocrisia-em-exposicao-no-rio-de-janeiro-e-faz-obra-inspirada-no-brasil/
+  [https://rollingstone.com.br/noticia/ron-english-explora-hipocrisia-em-exposicao-no-rio-de-janeiro-e-faz-obra-inspirada-no-brasil/](https://rollingstone.com.br/noticia/ron-english-explora-hipocrisia-em-exposicao-no-rio-de-janeiro-e-faz-obra-inspirada-no-brasil/)
+
 - AMAERJ  
-  https://amaerj.org.br/noticias/surrealismo-de-ron-english-chega-ao-rio-de-janeiro/
+  [https://amaerj.org.br/noticias/surrealismo-de-ron-english-chega-ao-rio-de-janeiro/](https://amaerj.org.br/noticias/surrealismo-de-ron-english-chega-ao-rio-de-janeiro/)
+
 - Bitsmag  
-  https://bitsmag.com.br/cultura/ron-english-do-estudio-para-a-rua.html
+  [https://bitsmag.com.br/cultura/ron-english-do-estudio-para-a-rua.html](https://bitsmag.com.br/cultura/ron-english-do-estudio-para-a-rua.html)
+
 - Bolsa de Arte  
-  https://www.bolsadearte.com/oparalelo/o-pop-ron-english-no-brasil
+  [https://www.bolsadearte.com/oparalelo/o-pop-ron-english-no-brasil](https://www.bolsadearte.com/oparalelo/o-pop-ron-english-no-brasil)
+
 - Aibnews  
-  https://www.aibnews.com.br/programacao-de-dezembro-da-caixa_cultural-rio-de-janeiro/
+  [https://www.aibnews.com.br/programacao-de-dezembro-da-caixa_cultural-rio-de-janeiro/](https://www.aibnews.com.br/programacao-de-dezembro-da-caixa_cultural-rio-de-janeiro/)
+
 - Boa Diversao  
-  https://boadiversao.com.br/guia/rio-de-janeiro/arteeteatro../noticia/id/71336/exposicao_de_ron_english_chega_a_caixa_cultural
+  [https://boadiversao.com.br/guia/rio-de-janeiro/arteeteatro../noticia/id/71336/exposicao_de_ron_english_chega_a_caixa_cultural](https://boadiversao.com.br/guia/rio-de-janeiro/arteeteatro../noticia/id/71336/exposicao_de_ron_english_chega_a_caixa_cultural)
+
 
 ---
 
