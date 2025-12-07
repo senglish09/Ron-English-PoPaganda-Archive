@@ -60,16 +60,16 @@ Large-scale solo project at **KuBe Art Center** (part of Ethan Cohen Gallery), p
 ## Sources
 
 - Ethan Cohen Fine Arts  
-  https://www.ecfa.com/exhibitions/44-the-secret-history-of-beacon-bigfoot/  
+  [https://www.ecfa.com/exhibitions/44-the-secret-history-of-beacon-bigfoot/](https://www.ecfa.com/exhibitions/44-the-secret-history-of-beacon-bigfoot/)
 
 - Artforum ArtGuide  
-  https://artguide.artforum.com/artguide/ethan-cohen-kube-19624/the-secret-history-of-beacon-bigfoot-207742  
+  [https://artguide.artforum.com/artguide/ethan-cohen-kube-19624/the-secret-history-of-beacon-bigfoot-207742](https://artguide.artforum.com/artguide/ethan-cohen-kube-19624/the-secret-history-of-beacon-bigfoot-207742)
 
 - MutualArt  
-  https://www.mutualart.com/Exhibition/The-Secret-History-of-Beacon-Bigfoot/B5DA5CC37E9B998D  
+  [https://www.mutualart.com/Exhibition/The-Secret-History-of-Beacon-Bigfoot/B5DA5CC37E9B998D](https://www.mutualart.com/Exhibition/The-Secret-History-of-Beacon-Bigfoot/B5DA5CC37E9B998D)
 
 - Hudson Valley Country  
-  https://hudsonvalleycountry.com/bigfoot-found-in-beacon-new-york/  
+  [https://hudsonvalleycountry.com/bigfoot-found-in-beacon-new-york/](https://hudsonvalleycountry.com/bigfoot-found-in-beacon-new-york/)
 
 ---
 
