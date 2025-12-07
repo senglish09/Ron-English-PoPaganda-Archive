@@ -45,7 +45,7 @@
 
 ### **Photography Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/Midtown-Y-Photo.jpg"
+<img src="../../../images/Exhibitions/Solo/Midtown-Y-Photo copy.jpg"
      alt="Ron English — Photographs Exhibition at Midtown Y Photography Gallery, 1988"
      class="exhibit-image">
 
