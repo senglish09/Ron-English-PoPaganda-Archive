@@ -64,11 +64,14 @@ Solo museum project marking the **80th anniversary of the bombing of Gernika**, 
 ## Sources
 
 - Museo de la Paz  
-  https://www.museodelapaz.eus/en/exposicion/ron-english-reimagining-guernica/
+  [https://www.museodelapaz.eus/en/exposicion/ron-english-reimagining-guernica/](https://www.museodelapaz.eus/en/exposicion/ron-english-reimagining-guernica/)
+
 - RememChild  
-  https://rememchild.remigraid.org/en/ron-english-reimaginando-el-guernica/
+  [https://rememchild.remigraid.org/en/ron-english-reimaginando-el-guernica/](https://rememchild.remigraid.org/en/ron-english-reimaginando-el-guernica/)
+
 - RememChild platform  
-  https://rememchild.remigraid.org/en/rememchild-digital-memory-platform/art-memory-rememchild-digital-memory-platform/
+  [https://rememchild.remigraid.org/en/rememchild-digital-memory-platform/art-memory-rememchild-digital-memory-platform/](https://rememchild.remigraid.org/en/rememchild-digital-memory-platform/art-memory-rememchild-digital-memory-platform/)
+
 
 ---
 
