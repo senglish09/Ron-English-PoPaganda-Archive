@@ -70,16 +70,16 @@ The show was accompanied by a **hardcover catalogue**, also titled *Lazarus Risi
 ## Sources
 
 - Elms Lesters Painting Rooms — *Lazarus Rising* exhibition page:  
-  https://elmslesters.co.uk/exhibitions/lazurus-rising/
+  [https://elmslesters.co.uk/exhibitions/lazurus-rising/](https://elmslesters.co.uk/exhibitions/lazurus-rising/)
 
 - Elms Lesters Shop — *Ron English: Lazarus Rising* book (hardcover catalogue):  
-  https://elmslesters.myshopify.com/products/ron-english-lazarus-rising-book
+  [https://elmslesters.myshopify.com/products/ron-english-lazarus-rising-book](https://elmslesters.myshopify.com/products/ron-english-lazarus-rising-book)
 
 - Arrested Motion — “Openings: Ron English ‘Lazarus Rising’ @ Elms Lesters”:  
-  https://arrestedmotion.com/2009/05/openings-ron-english-exhibition-lazarus-rising-elms-lester/
+  [https://arrestedmotion.com/2009/05/openings-ron-english-exhibition-lazarus-rising-elms-lester/](https://arrestedmotion.com/2009/05/openings-ron-english-exhibition-lazarus-rising-elms-lester/)
 
 - Art Crimes / graffiti shows & events 2009 (lists *Lazarus Rising*):  
-  https://ftp.icm.edu.pl/packages/graffiti.old/index/history2009.html
+  [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2009.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2009.html)
 
 ---
 
