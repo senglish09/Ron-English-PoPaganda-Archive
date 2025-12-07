@@ -57,20 +57,19 @@ Solo exhibition focused on experimental sculptures, rare editions, and unusual P
 The show emphasized collectible rarities, unique material studies and a range of artist proofs and small edition objects.
 
 ---
-
 ## Sources
 
 - Clutter Magazine / Shop  
-  https://shop.cluttermagazine.com/collections/ron-english-oddities-rarities-and-experiments  
+  [https://shop.cluttermagazine.com/collections/ron-english-oddities-rarities-and-experiments](https://shop.cluttermagazine.com/collections/ron-english-oddities-rarities-and-experiments)
 
 - Clutter Gallery Archive  
-  https://clutter.co/gallery-archives/ron-englishs-oddities-rarities-and-experiments/  
+  [https://clutter.co/gallery-archives/ron-englishs-oddities-rarities-and-experiments/](https://clutter.co/gallery-archives/ron-englishs-oddities-rarities-and-experiments/)
 
 - Clutter Shop — example item  
-  https://shop.cluttermagazine.com/products/ron-english-5-glass-jaw-red-ap  
+  [https://shop.cluttermagazine.com/products/ron-english-5-glass-jaw-red-ap](https://shop.cluttermagazine.com/products/ron-english-5-glass-jaw-red-ap)
 
 - Clutter Gallery Archives  
-  https://clutter.co/gallery-archives/
+  [https://clutter.co/gallery-archives/](https://clutter.co/gallery-archives/)
 
 ---
 
