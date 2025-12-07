@@ -71,15 +71,20 @@ Solo presentation organized by **Natalie Kates Projects** at the Tribeca Grand H
 ## Sources
 
 - Arrested Motion  
-  https://arrestedmotion.com/2014/12/openings-ron-english-evolutionary-alternatives-tribeca-grand-hotel/
+  [https://arrestedmotion.com/2014/12/openings-ron-english-evolutionary-alternatives-tribeca-grand-hotel/](https://arrestedmotion.com/2014/12/openings-ron-english-evolutionary-alternatives-tribeca-grand-hotel/)
+
 - Hypebeast  
-  https://hypebeast.com/2014/12/ron-english-evolutionary-alternatives-tribeca-grand-hotel
+  [https://hypebeast.com/2014/12/ron-english-evolutionary-alternatives-tribeca-grand-hotel](https://hypebeast.com/2014/12/ron-english-evolutionary-alternatives-tribeca-grand-hotel)
+
 - ToysRevil  
-  https://toysrevil.blogspot.com/2014/11/evolutionary-alternatives-by-ron.html
+  [https://toysrevil.blogspot.com/2014/11/evolutionary-alternatives-by-ron.html](https://toysrevil.blogspot.com/2014/11/evolutionary-alternatives-by-ron.html)
+
 - Flickr  
-  https://www.flickr.com/photos/24093807@N05/15768640332/
+  [https://www.flickr.com/photos/24093807@N05/15768640332/](https://www.flickr.com/photos/24093807@N05/15768640332/)
+
 - YouTube  
-  https://www.youtube.com/user/theunlimitedmagazine
+  [https://www.youtube.com/user/theunlimitedmagazine](https://www.youtube.com/user/theunlimitedmagazine)
+
 
 ---
 
