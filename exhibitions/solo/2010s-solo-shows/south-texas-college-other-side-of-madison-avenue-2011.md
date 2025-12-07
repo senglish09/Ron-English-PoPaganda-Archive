@@ -67,7 +67,8 @@ Solo exhibition at **South Texas College’s Pecan Campus Library Art Gallery**,
 ## Sources
 
 - RGV Life — *STC Pecan Campus Presents Ron English*  
-  https://www.rgv-life.com/2011/06/stc-pecan-campus-presents-ron-english.html
+  [https://www.rgv-life.com/2011/06/stc-pecan-campus-presents-ron-english.html](https://www.rgv-life.com/2011/06/stc-pecan-campus-presents-ron-english.html)
+
 
 ---
 
