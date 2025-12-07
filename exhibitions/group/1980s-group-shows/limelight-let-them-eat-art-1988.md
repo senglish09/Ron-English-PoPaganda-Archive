@@ -61,13 +61,9 @@ Artists and performers listed included Susan English, Shawn Eichman, Ena Kostabi
 
 ---
 
-## Full invitation text (showcard)
+## Sources
 
-> Ron English & Squirrel Beer® Present:  
-> **LET THEM EAT ART!**  
-> … *(full invitation text exactly as provided preserved here)* …
-
-(Full transcription retained in the showcard scan supplied.)
+Showcard (ephemera)
 
 ---
 
