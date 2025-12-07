@@ -61,19 +61,19 @@ English builds on his recurring themes of **consumption, desire, youth marketing
 ## Sources
 
 - Shenzhen Citywalk / Government site  
-  https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/content/post_11854482.html  
+  [https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/content/post_11854482.html](https://www.sz.gov.cn/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/content/post_11854482.html)
 
 - Vinyl Pulse — Exhibition feature  
-  https://www.vinylpulse.com/2021/11/ron-englishs-sugar-circus-immersive-art-experience.html  
+  [https://www.vinylpulse.com/2021/11/ron-englishs-sugar-circus-immersive-art-experience.html](https://www.vinylpulse.com/2021/11/ron-englishs-sugar-circus-immersive-art-experience.html)
 
 - Chase Contemporary  
-  https://www.chasecontemporary.com/ron-english  
+  [https://www.chasecontemporary.com/ron-english](https://www.chasecontemporary.com/ron-english)
 
 - Shenzhen  
-  https://shenbocn.com/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/index_16.html  
+  [https://shenbocn.com/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/index_16.html](https://shenbocn.com/en_szgov/news/infocus/SZCitywalk/Events/Whatshappening/index_16.html)
 
 - 1stDibs  
-  https://www.1stdibs.com/creators/ron-english/art  
+  [https://www.1stdibs.com/creators/ron-english/art](https://www.1stdibs.com/creators/ron-english/art)
 
 ---
 
