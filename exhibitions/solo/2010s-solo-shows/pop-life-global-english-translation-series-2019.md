@@ -39,7 +39,7 @@
 
 ### **Solo Exhibition**
 
-<img src="../../../images/Exhibitions/Solo/English Translation Series, 2019.jpg"
+<img src="../../../images/Exhibitions/Solo/English Translation Series, 2019.png"
      alt="Ron English — English Translation Series, Pop Life Global Q-Plex, Shenzhen, 2019"
      class="exhibit-image">
 
