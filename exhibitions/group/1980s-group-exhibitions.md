@@ -75,3 +75,4 @@ Group exhibitions featuring Ron English during the 1980s.
 | <span id="fashion-moda-exhibition-fundraiser-1989-90-row"></span><a href="1980s-group-exhibitions/fashion-moda-exhibition-fundraiser-1989-90.html"><img src="../../images/Exhibitions/Group/fashion-moda-exhibition-fundraiser-1989-90-1.jpg" alt="Exhibition/fundraiser at Fashion Moda, South Bronx, December 1989 – January 1990" class="mural-thumb"></a> | 1989 | December 1989 – January 1990 | Fashion Moda (South Bronx) | *[Exhibition/Fundraiser, December 1989 – January 1990]* |
 | <span id="theatre-gallery-dubious-edge-1985-row"></span><a href="1980s-group-exhibitions/theatre-gallery-dubious-edge-1985.html"><img src="../../images/Exhibitions/Group/dubiousedge.jpg" alt="Dubious Edge at Theatre Gallery, Dallas, 1985" class="mural-thumb"></a> | 1985 | August 3–30, 1985 | Theatre Gallery | *Dubious Edge* |
 
+
