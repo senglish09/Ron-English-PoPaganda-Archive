@@ -70,7 +70,7 @@ The event merged art exhibition, album visual premiere and film preview, present
 
 ## Sources
 
-*(No stable URLs known; this entry is based on exhibition/event documentation.)*
+-Showcard (ephemera)
 
 ---
 
