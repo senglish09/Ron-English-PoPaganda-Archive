@@ -63,7 +63,6 @@
 
 The exhibition reimagined the rock band **KISS** through English’s lens of cultural satire—merging political motifs, branding tropes and comic exaggeration. Large-scale paintings and installation works drew strong turnout, with significant local press coverage from art blogs, culture magazines, and gallery reviewers.
 
-This exhibition strengthened English’s foothold in the West Coast Pop Surrealist circuit while showcasing his ability to merge rock iconography with election-year commentary.
 
 ---
 
