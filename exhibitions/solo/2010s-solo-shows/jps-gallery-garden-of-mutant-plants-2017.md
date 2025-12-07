@@ -63,11 +63,14 @@ Immersive installation transforming the gallery into a fantastical **mutant-plan
 ## Sources
 
 - JPS Gallery — Exhibition page  
-  https://jpsgallery.com/exhibition/garden-of-mutant-plants-a-garden-created-by-ron-english/
+  [https://jpsgallery.com/exhibition/garden-of-mutant-plants-a-garden-created-by-ron-english/](https://jpsgallery.com/exhibition/garden-of-mutant-plants-a-garden-created-by-ron-english/)
+
 - JPS Gallery — Exhibitions index  
-  https://jpsgallery.com/exhibitions/
+  [https://jpsgallery.com/exhibitions/](https://jpsgallery.com/exhibitions/)
+
 - HK01  
-  https://www.hk01.com/%E8%97%9D%E6%96%87/78607
+  [https://www.hk01.com/%E8%97%9D%E6%96%87/78607](https://www.hk01.com/%E8%97%9D%E6%96%87/78607)
+
 
 ---
 
