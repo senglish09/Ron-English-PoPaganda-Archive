@@ -82,8 +82,7 @@ Installed in Varnish’s industrial gallery space, *Son of Pop* underlined how E
 - Art Crimes / graffiti shows and events 2005 (lists *Son of Pop* among 2005 exhibitions):  
   [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html)
 
-- Invaluable — listing for Ron English *Cowgirl* (c. 2005), associated with the *Son of Pop* period:  
-  [https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/](https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/)
+
 
 ---
 
