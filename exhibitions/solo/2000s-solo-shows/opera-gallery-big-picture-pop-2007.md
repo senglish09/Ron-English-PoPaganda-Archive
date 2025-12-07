@@ -78,9 +78,6 @@ The exhibition ran through late December and aligned English with a global roste
 - Hypebeast — coverage of *Big Picture Pop*:  
   [https://hypebeast.com/2007/12/ubiq-presern](https://hypebeast.com/2007/12/ubiq-presern)
 
-- Kayos Productions — artist/production clients list referencing the show:  
-  [https://www.kayosproductions.com/clients](https://www.kayosproductions.com/clients)
-
 - Artnet — Ron English exhibition history:  
   [https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/](https://www.artnet.fr/galeries/galerie-jacob-paulett/artiste-ron-english/)
 
