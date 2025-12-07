@@ -67,15 +67,19 @@ Editioned prints, toys, sculptures, and billboard-scale graphics presented at **
 ## Sources
 
 - Hypebeast  
-  https://hypebeast.com/2011/9/ron-english-english-101-exhibition-post-no-bills
+  [https://hypebeast.com/2011/9/ron-english-english-101-exhibition-post-no-bills](https://hypebeast.com/2011/9/ron-english-english-101-exhibition-post-no-bills)
+
 - Brooklyn Street Art  
-  https://www.brooklynstreetart.com/2011/10/05/post-no-bills-present-ron-english-english-101-venice-beach-ca/
+  [https://www.brooklynstreetart.com/2011/10/05/post-no-bills-present-ron-english-english-101-venice-beach-ca/](https://www.brooklynstreetart.com/2011/10/05/post-no-bills-present-ron-english-english-101-venice-beach-ca/)
+
 - Worley Gig  
-  https://worleygig.com/2011/10/03/ron-english-presents-english-101-at-las-post-no-bills/
+  [https://worleygig.com/2011/10/03/ron-english-presents-english-101-at-las-post-no-bills/](https://worleygig.com/2011/10/03/ron-english-presents-english-101-at-las-post-no-bills/)
+
 - Yo Venice  
-  https://yovenice.com/2011/10/06/post-no-bills-ron-english/
+  [https://yovenice.com/2011/10/06/post-no-bills-ron-english/](https://yovenice.com/2011/10/06/post-no-bills-ron-english/)
+
 - Corey Helford Gallery (related press)  
-  https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/
+  [https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/](https://coreyhelfordgallery.com/shows/RON-ENGLISH-Seasons-In-Supurbia/info-press/)
 
 ---
 
