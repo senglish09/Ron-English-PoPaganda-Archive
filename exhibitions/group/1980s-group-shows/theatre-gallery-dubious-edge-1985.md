@@ -46,7 +46,7 @@
 
 ### **Group Exhibition**
 
-<img src="../../images/Exhibitions/Group/dubiousedge.jpg"
+<img src="../../../images/Exhibitions/Group/dubiousedge.jpg"
      alt="Dubious Edge at Theatre Gallery, Dallas, 1985"
      class="exhibit-image">
 
