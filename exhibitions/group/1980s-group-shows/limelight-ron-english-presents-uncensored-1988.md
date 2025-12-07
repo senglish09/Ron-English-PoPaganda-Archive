@@ -48,7 +48,7 @@
      alt="Ron English Presents Un-Censored at Limelight, New York, 1988"
      class="exhibit-image">
 
-<img src="../../../images/Exhibitions/Group/Limelight-Uncensored.jpeg"
+<img src="../../../images/Exhibitions/Group/Limelight-Uncensored.jpg"
      alt="Ron English Presents Un-Censored at Limelight, New York, 1988"
      class="exhibit-image">
      
