@@ -60,13 +60,16 @@ Solo exhibition in Old Montreal focusing on Ron English’s **“Grin”** icono
 ## Sources
 
 - Galerie Matthew Namour  
-  https://matthewnamour.com/en/expositions/
+  [https://matthewnamour.com/en/expositions/](https://matthewnamour.com/en/expositions/)
+
 - Diary of a Social Gal  
-  https://diaryofasocialgal.com/meet-world-famous-artist-ron-english/
+  [https://diaryofasocialgal.com/meet-world-famous-artist-ron-english/](https://diaryofasocialgal.com/meet-world-famous-artist-ron-english/)
+
 - MutualArt biography  
-  https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography
+  [https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography](https://www.mutualart.com/Artist/Ron-English/D2860FD527C9F0B2/Biography)
+
 - MutualArt exhibition  
-  https://www.mutualart.com/Exhibition/Ron-English--Universal-Grin/A0E5F21809C1C5D0
+  [https://www.mutualart.com/Exhibition/Ron-English--Universal-Grin/A0E5F21809C1C5D0](https://www.mutualart.com/Exhibition/Ron-English--Universal-Grin/A0E5F21809C1C5D0)
 
 ---
 
