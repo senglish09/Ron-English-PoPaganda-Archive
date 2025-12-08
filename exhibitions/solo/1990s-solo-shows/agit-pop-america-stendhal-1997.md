@@ -71,20 +71,23 @@
 
 ---
 
-## Overview
+## Agit-Pop America — Gallery Stendhal, New York (April 3–30, 1997)
 
-*Agit-Pop America* marked one of Ron English’s key mid-1990s solo exhibitions at **Gallery Stendhal**, continuing his series of sharply satirical reinterpretations of American cultural icons.
+Ron English’s exhibition **_Agit-Pop America_** took place at **Gallery Stendhal** in New York from **April 3 to April 30, 1997**. The show card announced that the exhibition presented “New Works by Ron English” and noted a cocktail reception held on **April 3 from 6–9 p.m.** at **386 West Broadway, 2nd floor, New York, NY 10012**.<sup>1</sup>
 
-The exhibition included major works such as **Culture Wars** (1996), blending political commentary with English’s trademark distortions of cartoon, advertising, and art-historical imagery. Promotional materials emphasized the convergence of propaganda, mass media, and American identity—core themes in English’s Popaganda universe.
+A printed review by **Tarssa Yazdani**, titled **“Agit-Pop America,”** offers detailed coverage of the exhibition. The text highlights English’s use of American visual iconography, his juxtaposition of popular imagery, and his interest in how cultural memory shapes interpretation. Yazdani describes the works as balancing confrontational imagery with ambiguity, and notes English’s recurring strategy of synthesizing shared cultural references, humor, and political nuance.<sup>2</sup>
 
-This show further cemented his presence in the New York gallery landscape following prior exhibitions at Stendhal in 1991 and 1992.
+Several artworks reproduced in the review — including **_Wings of Desire_**, **_The New World Order_**, and others — document the thematic range presented in the exhibition.<sup>2</sup>
+
+A separate printed announcement from the period advertises an **official after-party** for the exhibition, hosted by **Reuben Rubin** and **Lee Klein** at **Opera**, 539 W. 21st Street, New York, on **April 3, 1997**, coinciding with the opening reception.<sup>3</sup>
 
 ---
 
-## Sources
+### **Sources**
 
-- Invitation card: *Agit-Pop America* (Gallery Stendhal, New York, 1997-04-03).  
-- Exhibition postcard: *Agit-Pop America* (Gallery Stendhal, New York, 1997).
+1. *Agit-Pop America* showcard, Gallery Stendhal, New York, April 3–30, 1997.  
+2. Tarssa Yazdani, “Agit-Pop America,” archival clipping.  
+3. *Afterparty for Ron English — Agit-Pop America*, printed flyer, April 3, 1997; archival material.
 
 ---
 
