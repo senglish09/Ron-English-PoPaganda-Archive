@@ -57,39 +57,20 @@
 
 ---
 
-## Overview
+## Ron English — Popaganda Asia Tour & Related Exhibitions (2008–2009)  
 
-The *POPaganda Asia Tour* marked Ron English’s major expansion into the Asian pop-art and designer-toy market between **late 2008 and early 2009**. Launched at **Delay No Mall / MINDstyle LIFEstyle in Hong Kong**, the tour blended fine art, limited-edition collectibles, live signings and promotional drops across Asia.
+Ron English’s work during 2008–2009 was featured in a series of exhibitions and media coverage under the banner of *Popaganda*. A news article announced a major retail-gallery show aimed at pop-art enthusiasts.¹ Additional coverage documents his “Popaganda Asia Tour,” which brought his work overseas in 2008, followed by releases in early 2009 that referenced political and cultural themes.²³ Videos from the period include glimpses of his studio practice and exhibition installations.⁴  
 
-### **Hong Kong Launch (Late 2008)**
-The tour debuted with large crowds, media coverage and exclusive releases that positioned English as a crossover figure between street art, pop surrealism and the booming vinyl-toy world.
+**Sources**  
+1. Business Traveller — "A show to tickle pop-art enthusiasts"  
+   <https://www.businesstraveller.com/news/a-show-to-tickle-pop-art-enthusiasts/>  
+2. VinylPulse — "Ron English’s Popaganda Asia Tour" (Dec 2008)  
+   <https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html>  
+3. VinylPulse — "Ron English’s Abraham Obama – Fresh" (Jan 2009)  
+   <https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html>  
+4. YouTube — Video featuring Ron English  
+   <https://www.youtube.com/watch?v=FjKmGNcqaNM>  
 
-### **Manila (January 2009)**
-At **Fresh Manila**, English presented additional works and hosted signings, with local press highlighting the appearance of pieces referencing **Abraham Obama**, cultural parody and hybrid pop-iconography.
-
-### **Shanghai (2009)**
-Further events and special releases—such as the *MC Supersized Camo* edition—connected the tour to Shanghai’s emerging urban-art market.
-
-This multi-city tour underscored English’s international reach and cultivated a strong collector base in Asia, particularly among designer-toy and pop-culture audiences.
-
----
-
-## Sources
-
-- Vinyl Pulse — Announcement of POPaganda Asia Tour launch:  
-  [https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html](https://www.vinylpulse.com/2008/12/ron-englishs-popaganda-asia-tour.html)
-
-- Business Traveller — Coverage of the Hong Kong opening:  
-  [https://www.businesstraveller.com/news/2009/01/12/a-show-to-tickle-pop-art-enthusiasts/](https://www.businesstraveller.com/news/2009/01/12/a-show-to-tickle-pop-art-enthusiasts/)
-
-- Vinyl Pulse — Manila stop coverage (*Abraham Obama* feature):  
-  [https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html](https://www.vinylpulse.com/2009/01/ron-englishs-abraham-obama-fresh-0110.html)
-
-- YouTube — POPaganda Asia Tour Opening at Delay No Mall:  
-  [https://www.youtube.com/watch?v=FjKmGNcqaNM](https://www.youtube.com/watch?v=FjKmGNcqaNM)
-
-- Trampt — *MC Supersized Camo (Shanghai edition)*:  
-  [https://www.trampt.com/item/mc-supersized-camo-shanghai-ron-english-mc-supersized-Yex7sg1rlAA1jX](https://www.trampt.com/item/mc-supersized-camo-shanghai-ron-english-mc-supersized-Yex7sg1rlAA1jX)
 
 ---
 
