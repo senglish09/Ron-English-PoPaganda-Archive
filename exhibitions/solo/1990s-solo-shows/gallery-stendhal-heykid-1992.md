@@ -62,18 +62,45 @@
 
 ---
 
-## Overview
+## Exhibition Overview
 
-This exhibition marked one of Ron English’s most pointed early critiques of commercial culture and childhood iconography. *HEY! My Kid Could Do That!* blended satire, appropriation and social commentary, drawing on toy imagery, advertising tropes and the aesthetics of children’s art to question how visual culture shapes identity and desire.
+Ron English presented the exhibition **“Hey! My Kid Could Do That!”** at **Gallery Stendhal**,  
+622–626 Broadway, 3rd Floor, New York, NY 10012.<sup>1</sup>  
+The exhibition ran from **November 12 to December 12, 1992**, with an opening reception on  
+**Thursday, November 12**, from **6:30 p.m.–9:00 p.m.**<sup>1</sup>  
+The event was co-sponsored by QP/Ian Alterman, and the showcard states that all art purchases  
+included a donation to the Learning Through Art / Guggenheim Children’s Program.<sup>1</sup>
 
-Part of the show’s proceeds supported the **Guggenheim Museum’s Learning Through Art program**, reflecting English’s longstanding interest in education and creative literacy. Contemporary coverage emphasized the exhibition’s bold humor and its challenge to conventional notions of “high art.”
+An article published in *SunStorm Fine Art* (Absolute Collection) in **October 1992** discusses  
+English’s fall New York exhibition titled **“My Kid Could Do That”**, describing work featuring  
+collaborations with family members and imagery derived from children’s drawings.<sup>2</sup>
+
+A feature in **Spy Magazine** (January 1993) references the Gallery Stendhal exhibition  
+**“Hey! My Kid Could Do That!”**, identifying it as a display of paintings and drawings created  
+by preschool children and “remastered” by English.<sup>3</sup> Spy Magazine also notes that  
+Gallery Stendhal provided the press kit for the show.<sup>3</sup>
+
+A public online archive confirms the existence of Gallery Stendhal showcards related to  
+Ron English’s exhibitions during this period.<sup>4</sup>
 
 ---
 
-## Sources
+## References
 
-- *Absolute Collection*, “Hey! My Kid Could Do That!!!”, Oct 1992, pp. 10–11  
-- Exhibition invitation: *HEY! My Kid Could Do That!* (Gallery Stendhal, 1992-11-12)
+1. **Gallery Stendhal Exhibition Showcard**, *Ron English: “Hey! My Kid Could Do That!”*,  
+   Nov 12 – Dec 12, 1992; Opening Nov 12, 6:30–9:00 p.m. Co-sponsored by QP/Ian Alterman.  
+   (Archival document; no public URL.)
+
+2. **“Hey! My Kid Could Do That!!!”** *SunStorm Fine Art / Absolute Collection*, October 1992, p. 10.  
+   (Archival magazine scan; no public URL.)
+
+3. **Spy Magazine**, January 1993. Reference to Gallery Stendhal’s exhibition  
+   “Hey! My Kid Could Do That!” and description of works created by preschool children  
+   and remastered by English. (Archival scan; no public URL.)
+
+4. **Gallery98 Archive**, listing Gallery Stendhal showcards for Ron English exhibitions.  
+   <https://gallery98.org/?s=ron+english>
+
 
 ---
 
