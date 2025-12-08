@@ -59,24 +59,22 @@
 
 ## Overview
 
-This 2003 solo exhibition at **FIFTY24SF Gallery**, presented in partnership with Upper Playground, marked one of Ron English’s earliest San Francisco showcases. The gallery—well known for its focus on contemporary urban art—highlighted English’s evolving approach to pop-culture reinvention during this period.
-
-The material featured in the FIFTY24SF archive points to English’s remixes of **Marilyn Monroe, the Mona Lisa and Warhol-era iconography**, each reinterpreted through his Popaganda lens. These works served as predecessors to larger series that English would continue developing with the gallery throughout the mid-2000s.
+Ron English presented a solo exhibition at **FIFTY24SF Gallery (Upper Playground)** in San Francisco.  
+The gallery’s archived page lists the exhibition as part of its **2003 program** and associates it with  
+English’s recurring exploration of advertising imagery, pop-culture icons, and reinterpreted historical figures.<sup>1</sup>  
+The gallery also lists English among its represented artists and describes his practice as engaging  
+brand critique and comic-book–influenced visual strategies.<sup>2</sup>  
+An independent listing on *ArtBusiness.com* confirms Ron English’s appearance on the  
+FIFTY24SF exhibition schedule.<sup>3</sup>
 
 ---
-<img src="../../../images/Exhibitions/Solo/fifty24sf-ron-english-2003-2.webp"
-     alt="Ron English — FIFTY24SF Gallery Solo Exhibition, 2003"
-     class="exhibit-image">
-     
 
-   
-## Sources
+### Sources
 
-- FIFTY24SF Gallery — Archived exhibitions featuring Ron English:  
-  [https://www.fifty24sf.com/archive?category=RON+ENGLISH](https://www.fifty24sf.com/archive?category=RON+ENGLISH)
+1. <https://www.fifty24sf.com/archive/ron-english-fifty24sf-upper-playground-2003>  
+2. <https://www.fifty24sf.com/>  
+3. <https://www.artbusiness.com/fifty24sf.html>
 
-- FIFTY24SF Gallery — Exhibitions Archive:  
-  [https://www.fifty24sf.com/](https://www.fifty24sf.com/)
 
 ---
 
