@@ -62,19 +62,41 @@
 
 ---
 
-## Overview
+## Exhibition Overview
 
-This traveling solo exhibition brought **paintings, drawings and photographs** by Ron English to **Wunderlich Gallery** in Austin. Opening on **February 5, 1994**, it marked one of English’s key early-1990s presentations outside New York.
+Ron English presented the exhibition **“Art in Heaven”** at **Wonderlich Gallery**,  
+807 Congress, Austin, Texas.<sup>1</sup> The exhibition opened on **February 5** and  
+was scheduled to run for **one month**.<sup>2</sup>
 
-The show reflected the broad range of English’s production during the period—pop-surrealist canvases, photographic constructions, and mixed-media works—many of which explored consumer culture, religious iconography and the collision of marketing with morality.  
+According to the accompanying article, the exhibition included new paintings,  
+drawings, and photographs in which English used himself as the model for Jesus,  
+exploring both traditional Catholic imagery and imagery derived from the  
+**Gnostic Scriptures**.<sup>2</sup> The publication also reproduces the artwork  
+**“Mary, Jesus and the Little Drummer Boy,”** ©1993.<sup>2</sup>
 
-The exhibition was part of a multi-venue tour, with a later installment at Michael Kisslinger Gallery in New York.
+The contemporary flyer for the exhibition records the title and features imagery  
+associated with the show.<sup>1</sup>
+
+The article appears stylistically consistent with arts reporting found in the  
+**Austin American-Statesman** during early 1993, but this attribution remains  
+a **best-guess hypothesis**, not a confirmed citation.<sup>3</sup>
 
 ---
 
-## Sources
+## References
 
-- Show card: *Art in Heaven — Wunderlich Gallery* (Wunderlich Gallery, Austin, 1994-02-05).
+1. **Exhibition Flyer**, *Art in Heaven*, Wonderlich Gallery, Austin, Texas.  
+   Documented online via Dogstreets:  
+   <https://dogstreets.com/artwork/Ron%20English/Art%20in%20Heaven%20Austin/42805>
+
+2. **Newspaper Article (Archival Scan)**, “Art in Heaven: New Works by Ron English at Wonderlich Gallery.”  
+   Reproduced clipping detailing exhibition description, opening date, and venue.  
+   (Archival document; no public URL.)
+
+3. **Probable Source Attribution (Unconfirmed)**:  
+   Austin American-Statesman. *Arts Section*, late January / early February 1993, p. [unknown].  
+   Attribution based on layout, typography, regional coverage patterns, and formatting style.
+
 
 ---
 
