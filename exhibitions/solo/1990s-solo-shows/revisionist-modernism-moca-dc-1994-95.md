@@ -64,18 +64,46 @@
 
 ---
 
-## Overview
+## Exhibition Overview
 
-*Revisionist Modernism* presented Ron English’s bold reinterpretations of canonical modern artworks through a mischievous, critical lens. The exhibition included satirical reworkings of Manet, Kahlo, Warhol, Jasper Johns and others—each transformed into pointed commentary on consumer culture, media distortion, and the political climate of the 1990s.
+Ron English presented **“Revisionist Modernism: New Works”** at **Clark & Co.**,  
+1054 31st Street NW, Washington, D.C.<sup>1</sup> The exhibition, covered in early  
+1995 press, featured English’s reinterpretations of compositions and subjects  
+drawn from major figures in art history.<sup>1</sup>
 
-The show received significant attention, including a detailed critique in **The Washington Post**, which highlighted English’s ability to “josh with the masters” while revealing tensions in American cultural mythology. The Museum of Contemporary Art positioned the exhibition as a major statement within their program.
+According to *The Washington Post*, English created works referencing Manet,  
+Motherwell, Warhol, and other canonical artists without altering the underlying  
+technical complexity of the source material.<sup>1</sup> The review discusses several  
+works, including:
+
+- **“Luncheon on the Grass”**, a reworking of Manet’s composition featuring a  
+  male nude with two clothed female figures and a background figure holding a  
+  fish.<sup>1</sup>  
+- **“Money Is the Root of All Art”**, combining Jasper Johns’s U.S. flag motif  
+  with an underlayer of $100 bills.<sup>1</sup>  
+- A four-panel sequence referred to as **“The Anti-Warhol”**, in which Warhol’s  
+  portrait image transforms across successive panels.<sup>1</sup>  
+- **“Ron in My Thoughts”**, English’s reinterpretation of Frida Kahlo’s iconic  
+  self-portrait imagery, replacing Kahlo’s face with that of the artist’s wife  
+  and substituting Kahlo’s “Third Eye” with English’s self-portrait.<sup>1</sup>
+
+A second review in *The Georgetowner* emphasized English’s process of modifying  
+and updating familiar figures—citing influences such as **Picasso**, **Rothko**,  
+**Miró**, and **Norman Rockwell**—to reposition well-known compositions within  
+new contexts.<sup>2</sup> The publication noted the exhibition as part of the Clark & Co.  
+winter program.<sup>2</sup>
 
 ---
 
-## Sources
+## References
 
-- *The Washington Post*, “Galleries: Joshing with the Masters” (Lee Fleming), January 7, 1995.  
-  <https://www.washingtonpost.com/archive/lifestyle/1995/01/07/galleries/11b12ab7-6e15-4d17-aba8-cb7671030633/>
+1. **Lee Fleming**, “Galleries: Joshing With the Masters,”  
+   *The Washington Post*, January 6, 1995 (print edition dated Jan. 7).  
+   URL: <https://www.washingtonpost.com/archive/lifestyle/1995/01/07/galleries/11b12ab7-6e15-4d17-aba8-cb7671030633/>
+
+2. **G.T.**, “Ron English & Gale Fulton Ross,” *The Georgetowner*,  
+   December 9, 1994, p. 6. (Archival clipping provided; no public URL.)
+
 
 ---
 
