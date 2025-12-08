@@ -62,25 +62,24 @@
 
 ---
 
-## Overview
+## Overview  
 
-*Son of Pop* was Ron English’s early-summer 2005 solo program at **Varnish Fine Art** in San Francisco’s SoMa district. Framed around English’s role as a “son” of Pop art, the exhibition focused on his reworking of **mass-media icons, advertising mascots and comic-book heroes**, filtered through his Popaganda approach.
-
-The show gathered paintings and sculptures that pushed familiar characters into stranger territory—corporate mascots twisted into Frankensteined hybrids, pop-culture saints and sinners rendered with hyper-polished technique but steeped in satire. Preview events and opening receptions helped anchor the exhibition to Varnish’s summer schedule, drawing in both local art audiences and fans of lowbrow/Pop Surrealism.
-
-Installed in Varnish’s industrial gallery space, *Son of Pop* underlined how English extends the Pop lineage of Warhol and Lichtenstein into a media landscape saturated with branding, while keeping a sharp focus on culture-jamming and billboard subversion.
+Varnish Fine Art hosted **Ron English’s 2005 solo exhibition *Son of Pop***, announced through an official printed showcard that listed the run from **May 28 to July 2, 2005**, with an opening reception on **Thursday, June 2**, and a private preview on **May 28**.<sup>1</sup>  
+The show foregrounded English’s investigations into American advertising, cartoon archetypes, and the cultural afterlife of pop icons. Contemporary coverage by *Laughing Squid* described the exhibition as part of English’s expanding presence in West Coast art spaces, highlighting the artist’s blend of satire and technical precision.<sup>2</sup>  
+An independent graffiti-culture timeline documenting U.S. street-art history also records English’s *Son of Pop* exhibition at Varnish Fine Art under its 2005 entries.<sup>3</sup>  
+A 2005 artwork listing on Invaluable further associates English’s production from this period with motifs showcased during the exhibition, including hybrid pop-culture figures rendered through his signature painterly realism.<sup>4</sup>
 
 ---
-## Sources
 
-- Varnish Fine Art — *Son of Pop* exhibition page:  
-  [https://varnishfineart.com/exhibit/89-son-of-pop](https://varnishfineart.com/exhibit/89-son-of-pop)
+### Sources
 
-- Laughing Squid — “Ron English at Varnish Fine Art”:  
-  [https://laughingsquid.com/ron-english-at-varnish-fine-art/](https://laughingsquid.com/ron-english-at-varnish-fine-art/)
-
-- Art Crimes / graffiti shows and events 2005 (lists *Son of Pop* among 2005 exhibitions):  
-  [https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html](https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html)
+1. Exhibition showcard (provided by user; archival material, no public URL).  
+2. *Laughing Squid* — “Ron English at Varnish Fine Art.”  
+   <https://laughingsquid.com/ron-english-at-varnish-fine-art/>  
+3. Graffiti history timeline (ICM archive):  
+   <https://ftp.icm.edu.pl/packages/graffiti.old/index/history2005.html>  
+4. Invaluable — Ron English listing:  
+   <https://www.invaluable.com/auction-lot/ron-english-cowgirl-c-2005-58-c-3064f7f8a8/>  
 
 
 
