@@ -56,18 +56,24 @@
 
 ---
 
-## Overview
+## Exhibition Overview
 
-This exhibition marked **Ron English’s Washington, D.C. debut**, presenting satirical oil paintings that challenged American advertising, alcohol culture, reproductive-rights debates and political propaganda. The show reflected English’s signature blend of sharp humor and cultural critique, connecting his well-known billboard interventions to his gallery practice.
+Ron English presented an exhibition of recent work at **Clark & Company**, located in  
+**Galleries 1054**, Washington, D.C., from **November 19 to December 2, 1992**.
 
-Coverage in *The Georgetowner* highlighted the provocative tone of the work and the gallery’s decision to spotlight a New York pop artist known for confronting taboo subjects with bold, unapologetic imagery.
+A listing in *The Georgetowner* identifies the exhibition as “new work by Pop artist Ron English”  
+and notes that gallery hours were **11 a.m.–5 p.m., Tuesday through Saturday**.<sup>1</sup>  
+The same article includes a reproduction of English’s artwork **“M&M,”** captioned as being  
+shown at Galleries 1054.<sup>2</sup>
 
 ---
 
-## Sources
+## References
 
-- *The Georgetowner*, “Clark & Company to showcase paintings of New York pop artist Ron English,” Nov 19 – Dec 2, 1992, p. 15.  
-- Newspaper clipping: *Clark & Company to Showcase Ron English*, *The Georgetowner*, Nov 1992 (physical ephemera).
+1. *The Georgetowner*, November 19 – December 2, 1992, p. 15.  
+   Includes listing for Clark & Company and reproduction of Ron English’s **“M&M.”**  
+   (Archival newspaper scan; no public URL.)
+
 
 ---
 
