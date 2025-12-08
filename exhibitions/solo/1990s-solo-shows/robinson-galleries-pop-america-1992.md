@@ -61,18 +61,34 @@
 
 ---
 
-## Overview
+## Exhibition Overview
 
-*Pop America* presented Ron English’s early-1990s exploration of American iconography through painting and photographic constructions. The exhibition included works such as **“Batman & Boy Wonder” (1991)** and other pieces blending satire, political commentary and staged-photo illusions.
+Ron English presented an exhibition titled **“Pop America”** at **Thomas V. Robinson / Robinson Galleries**, located at **3414 Lake Street, Houston, Texas**.<sup>1</sup> The exhibition ran from **February 8 to March 3, 1992**, with an opening reception on **Saturday, February 8**, from **6:00 p.m. to 8:00 p.m.**, during which the artist was present.<sup>1</sup> Listed gallery hours were Tuesday–Friday, 10:00 a.m.–5:30 p.m., and Saturday, 10:00 a.m.–4:00 p.m., or by appointment.<sup>1</sup>
 
-Robinson Galleries framed the exhibition within Houston’s FotoFest environment, emphasizing English’s hybrid process of merging constructed photography with painterly intervention. Contemporary press coverage in *The Houston Post* highlighted the show’s critique of consumer mythologies and national identity.
+A notice published in *The Houston Post* on **February 9, 1992**, identifies **“Pop America”** as an exhibition featuring paintings and photographic works by Ron English and reproduces an image connected with the show.<sup>2</sup>
+
+The exhibition’s promotional advertisement includes quotations about English’s work from several media sources.<sup>3</sup> These quotations, reproduced as part of the publicity for **“Pop America,”** include:
+
+- “The world’s most Notorious illegal artist” — *Morton Downey Jr.*  
+- “Pushes super realism to new reality tests” — *The New York*  
+- “The guy is clever, skilled and energetic, but what the hell do they mean?” — *Paul Hester, Spot*  
+- “A cerebral cross-body blow” — *Hype Magazine*  
+- “Ron English had arrived. Thank God. This man has imagination, balls, humor and skill. I’m a fan and proud of it.” — *Austin Chronicle*
+
+A profile article published in **June 1992** references Robinson Galleries as one of the venues where English had presented solo exhibitions and includes images of works dated 1991–1992, credited to the artist and Robinson Galleries.<sup>4</sup>
 
 ---
 
-## Sources
+## References
 
-- Exhibition card: *Ron English: "Pop America"* (Thomas V. Robinson Galleries, 1992)  
-- *The Houston Post*, “U.S. Made: ‘Pop America’”, 1992-02-09, p. H-12  
+1. **Robinson Galleries Exhibition Announcement**, *Ron English: “Pop America”*, 3414 Lake Street, Houston, Texas. Exhibition dates: February 8 – March 3, 1992; opening February 8, 6:00–8:00 p.m. (Archival showcard; no public URL.)
+
+2. *The Houston Post*, “U.S. made: ‘Pop America’ is an exhibit featuring paintings and photo works by Ron English,” Sunday, February 9, 1992, H-12. (Archival newspaper clipping; no public URL.)
+
+3. **Promotional advertisement for “Pop America”**, Robinson Galleries, Houston. Contains reproduced quotations from *Morton Downey Jr.*, *The New York*, *Spot* (Paul Hester), *Hype Magazine*, and the *Austin Chronicle*. (Archival source; no public URL.)
+
+4. Wong, Teresa. “Ron English: Speaks a Language All His Own.” *[Magazine Title Unknown]*, June 1992, pp. 36–37. Includes images and information credited to the artist and Robinson Galleries. (Archival magazine scan; no public URL.)
+
 
 ---
 
