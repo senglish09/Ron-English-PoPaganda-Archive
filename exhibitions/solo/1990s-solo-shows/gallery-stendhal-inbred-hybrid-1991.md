@@ -66,19 +66,38 @@
 
 ---
 
-## Overview
+## 1991 — *Inbred/Hybrid* — Gallery Stendhal, New York, NY  
+**Venue:** Gallery Stendhal, 626 Broadway, 3rd Floor, New York, NY  
+**Dates:** September 14 – October 13, 1991  
+**Title:** *Inbred/Hybrid*
 
-*Inbred/Hybrid* marked a pivotal early-1990s New York presentation of Ron English’s evolving painting practice. The exhibition featured his **appropriative reinterpretations of art-historical icons**, a direction he would continue to develop throughout the decade.
+*Inbred/Hybrid* marked a defining early-1990s presentation of Ron English’s transition from outlaw billboard interventionist to gallery-exhibited painter. The exhibition foregrounded English’s newly developing studio lexicon: paintings that hybridized American cultural icons, mass-media imagery, and art-historical references into dense, symbolic compositions.  
 
-The show included English’s early reworking of **Picasso’s *Guernica***—one of his first explorations of the painting that would become a recurring motif in his career. By merging cartoon archetypes with the emotional weight of modernist masterpieces, English underscored the collision between consumer culture and art history.
+A contemporary feature article in **HYPE Magazine** (written by Mutant, October 1991) describes English’s work from this show as operating on **“multiple conceptual levels simultaneously”** and emphasizes his ability to craft **“meta-characters”** by overlapping and recontextualizing American cultural symbols. <sup>1</sup> The article identifies this hybrid approach — merging cartoon characters, political symbolism, and painterly technique — as English’s emerging signature. <sup>1</sup>
 
-The invitation promoted the show as a bold, iconoclastic step in his Popaganda development.
+Works documented in the article and attributed to the 1991 Stendhal presentation include:  
+- **Sybil War** (1990)  
+- **Shark Infested Waters** (1991)  
+- **Giving a Dog a Bone** (1991)  
+- **Give the Rabbit Some Tricks** (1991)  
+- **Bear and the Bull** (1991)  
+- **Soupreman** (1991)  
+- **The Politics of Creation** (1991)  
+
+HYPE Magazine notes that English often **painted directly over numbered or signed Haring, Kostabi, and Warhol prints**, framing this as a refusal to participate in passive appropriation and instead claiming a more aggressive, interventionist authorship. <sup>1</sup> The article also reaffirms his reputation at the time as a “recidivistic street artist” who had been arrested for altering billboards — contextualizing the gallery exhibition as part of his shift from illicit public work to institutionally recognized fine art. <sup>1</sup>
+
+The surviving **Gallery Stendhal invitation card** confirms the exhibition’s title and date range, and positions the show as a critical moment in English’s formation of the *POPaganda* style that would define his later career. <sup>2</sup>
 
 ---
 
 ## Sources
 
-- Invitation card: *Ron English: Inbred/Hybrid* (Gallery Stendhal, New York, 1991-09-14)
+1. **HYPE Magazine**, “applying ENGLISH to POP ART,” text by Mutant, Editor of *HYPE Magazine*, featuring works exhibited at Gallery Stendhal. (Archival clipping provided; no public URL.)
+
+2. **Gallery 98**, *Ron English: Inbred/Hybrid (Gallery Stendhal Card, 1991)*  
+   <https://gallery98.org/2024/ron-english-inbred-hybrid-jeff-koons-rabbit-balloon-and-van-gogh-flowers-gallery-stendhal-card-1991/>
+
+
 
 ---
 
